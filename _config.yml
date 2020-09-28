@@ -77,9 +77,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
+  software:
     output: true
-    permalink: /projects/:path/
+    permalink: /software/:path/
 
 news_limit: 5
 
