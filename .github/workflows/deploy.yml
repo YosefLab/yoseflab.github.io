@@ -46,9 +46,9 @@ jobs:
     #   The last line should be `optimize()` though you may want to give it
     #   specific arguments, see the documentation or ?optimize in the REPL.
     - run: |
-      gem install jekyll bundler
-      bundle install
-      bundle exec jekyll serve
+        gem install jekyll bundler
+        bundle install
+        bundle exec jekyll serve
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
