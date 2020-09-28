@@ -33,22 +33,8 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-    - name: Install ruby
-      uses: actions/setup-ruby@v1
-      with:
-        ruby-version: '2.6'
-    # NOTE
-    #   The steps below ensure that NodeJS and Franklin are loaded then it
-    #   installs highlight.js which is needed for the prerendering step.
-    #   Then the environment is activated and instantiated to install all
-    #   Julia packages which may be required to successfully build your site.
-    #
-    #   The last line should be `optimize()` though you may want to give it
-    #   specific arguments, see the documentation or ?optimize in the REPL.
-    - run: |
-        gem install jekyll bundler
-        bundle install
-        bundle exec jekyll serve
+    - name: Run Jekyll
+      uses:  lemonarc/jekyll-action@1.0.0
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
