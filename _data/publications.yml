@@ -1,0 +1,71 @@
+# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+# filetype options: "pdf - published version" "pdf - author manuscript version (peer-reviewed & edited)"...
+
+- authors: "R. Lopez, A. Gayoso & N. Yosef."
+  title: "Enhancing Scientific Discoveries in Molecular Biology with Deep Generative Models."
+  year: 2020
+  doi: 10.15252/msb.20199198
+  details: Molecular Systems Biology
+
+
+- authors: "D. Schafflick* , C. Xu* , M. Hartlehnert* , M. Cole* , T. Lautwein, K. Buscher, J.Wolbert, SG. Meuth, T. Kuhlmann, C. Gross, H. Wiendl, N. Yosef† , G.M zu Horste†"
+  title: "Integrated single cell analysis of blood and cerebrospinal fluid leukocytes in multiple sclerosis."
+  details: Nature Communications
+  year: 2020
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s41467-019-14118-w
+  file:
+  filetype:
+  github:
+  biorxiv:
+  arxiv:
+  contentshare:
+
+- authors: "MG. Jones*, A. Khodaverdian*, JJ. Quinn*, MM. Chan, JA. Hussmann, R. Wang, C. Xu, JS. Weissman†, N. Yosef†"
+  title: "Inference of Single-Cell Phylogenies from Lineage Tracing Data."
+  details: Genome Biology
+  year: 2020
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1186/s13059-020-02000-8
+  file:
+  filetype:
+  github: https://github.com/YosefLab/Cassiopeia
+  biorxiv:
+  arxiv:
+  contentshare:
+
+- authors: "V. Svensson, A. Gayoso, N. Yosef, L. Pachter."
+  title: "Interpretable factor models of single-cell RNA-seq via variational autoencoders."
+  details: Bioinformatics
+  year: 2020
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1093/bioinformatics/btaa169
+  file:
+  filetype:
+  github:
+  biorxiv:
+  arxiv:
+  contentshare:
+
+- authors: "CF. Buen Abad Najar, N. Yosef†, LF. Lareau†."
+  title: "Coverage-dependent bias creates the appearance of binary splicing in single cells."
+  details: eLife
+  year: 2020
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.7554/eLife.54603
+  file:
+  filetype:
+  github:
+  biorxiv:
+  arxiv:
+  contentshare:
+
+

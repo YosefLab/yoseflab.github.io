@@ -1,0 +1,145 @@
+- name: Nir Yosef
+  degrees: PhD
+  image: nir_y.jpg
+  altimage:
+  position: Principal Investigator
+  email: niryosef (at) berkeley.edu
+  website:
+  scholar: eQ8KEHoAAAAJ&hl
+  twitter: "YosefLab"
+  description:
+
+- name: Allon Wagner
+  degrees:
+  image: allon.png
+  altimage:
+  position: Graduate student (EECS)
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Chenling Antelope
+  degrees:
+  image: chenling.png
+  altimage:
+  position: Graduate student (CCB)
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Zoë Steier
+  degrees:
+  image: zoe.jpg
+  altimage:
+  position: Graduate student (BioE); joint with Aaron Streets
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+
+- name:  Romain Lopez
+  degrees:
+  image: romain.jpg
+  altimage:
+  position: Graduate student (EECS); joint with Michael I. Jordan
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Alyssa Morrow
+  degrees:
+  image: alyssa.jpg
+  altimage:
+  position: Graduate student (EECS); joint with Anthony Joseph
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+
+- name:  Carlos Buen Abad Najar
+  degrees:
+  image: carlos.jpg
+  altimage:
+  position: Graduate student (CCB); joint with Liana Lareau
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name:    Nick Everetts
+  degrees:
+  image: john_d.jpg
+  altimage:
+  position: Graduate student (CCB); joint with Iswar Hariharan
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name:  Tal Ashuach
+  degrees:
+  image: john_d.jpg
+  altimage:
+  position: Graduate student (CCB)
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name:  Matt Jones
+  degrees:
+  image: matt_pic2.jpeg
+  altimage:
+  position: Graduate student (Bioinformatics, UCSF); joint with Jonathan Weissman
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+
+- name:  Alex Khodaverdian
+  degrees:
+  image: Alex_k.jpg
+  altimage:
+  position: Graduate student (EECS)
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name:  Adam Gayoso
+  degrees:
+  image: adam.jpg
+  altimage:
+  position: Graduate student (CCB); joint with Aaron Streets
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name:  Sebastian Prillo
+  degrees:
+  image: john_d.jpg
+  altimage:
+  position: Graduate student (EECS); joint with Yun Song
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
