@@ -14,7 +14,7 @@ years: [2020, 2019, 2018, 2017, 2016, 2014, 2013, 2011, 2010, 2009, 2008, 2007]
 {% for paper in site.data.publications %}
 
 {% if y == paper.year %}
-<div id = "{{ paper.title | replace: ' ', '-' | remove: '.' }}" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 40px; clear: both;">
+<div id = "{{ paper.title | replace: ' ', '-' | remove: '.' }}" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
 <div valign="top" style="overflow: hidden">
   <b>{{paper.title}}</b><br>
   {{paper.authors | markdownify | remove: '<p>' | remove: '</p>'}}<br>
