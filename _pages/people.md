@@ -10,7 +10,7 @@ nav: true
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px; padding-left: 10px">
-    <img class="img-fluid" style="float: left; width: 22%; padding-left: 20px; padding-right: 20px; min-width: 150px; max-width: 200px" src="{{ person.image | prepend: '/assets/people_img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
+    <img class="img-fluid" style="float: left; width: auto; padding-left: 20px; padding-right: 20px; min-width: 150px; max-width: 200px" src="{{ person.image | prepend: '/assets/people_img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
     <div>
         <h4>{{person.name}}{% if person.degrees %}, {{person.degrees}} {% endif %}</h4>
         {{person.position | markdownify}}
