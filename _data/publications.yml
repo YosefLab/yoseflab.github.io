@@ -37,6 +37,7 @@
   biorxiv:
   arxiv:
   contentshare:
+  cassiopeia: true
 
 - authors: "V. Svensson, A. Gayoso, N. Yosef, L. Pachter."
   title: "Interpretable factor models of single-cell RNA-seq via variational autoencoders."
@@ -225,3 +226,4 @@
   github: https://github.com/YosefLab/Cassiopeia
   details: bioRxiv
   preprint: true
+  cassiopeia: true
