@@ -20,6 +20,9 @@ a, table.table a { color: #00369f; }
 a:hover, table.table a:hover { color: #00369f; text-decoration: underline; }
 a:hover:after, table.table a:hover:after { width: 100%; }
 
+/** Images */
+img { max-width: 100%; vertical-align: middle; }
+
 .equation { margin-bottom: 1rem; text-align: center; }
 
 .caption { font-size: 0.875rem; margin-top: 0.75rem; margin-bottom: 1.5rem; text-align: center; }
@@ -111,3 +114,5 @@ footer.sticky-bottom { border-top: 1px solid #e8e8e8; padding-top: 40px; padding
 .publications ol.bibliography li .hidden.open { max-height: 100em; -webkit-transition: 0.15s ease; -moz-transition: 0.15s ease; -ms-transition: 0.15s ease; -o-transition: 0.15s ease; transition: all 0.15s ease; }
 .publications ol.bibliography li div.abstract.hidden { border: dashed 1px white; }
 .publications ol.bibliography li div.abstract.hidden.open { border-color: #828282; }
+
+img { max-width: 100%; }
