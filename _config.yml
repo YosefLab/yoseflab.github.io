@@ -10,8 +10,8 @@ email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for the Yosef Lab at UC Berkeley.
 footer_text: >
+  Department of EECS, Center for Computational Biology, UC Berkeley.
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -111,7 +111,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
-  - bootstrap
   # - material-sass
 
 # -----------------------------------------------------------------------------

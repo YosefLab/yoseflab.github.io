@@ -4,13 +4,10 @@ title: about
 permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
-# profile:
-#   align: right
-#   image: logo_fullsize.png
-#   address: >
-#     <p>555 your office number</p>
-#     <p>123 your address street</p>
-#     <p>Your City, State 12345</p>
+profile:
+  align: right
+  image: logo_fullsize.png
+  address:
 
 news: true  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
@@ -20,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Department of Electrical Engineering & Computer Sciences, Center for Computational Biology, UC Berkeley**
 
-<img align="right" height="225px" src="assets/img/logo_fullsize.png">
+<!-- <img align="right" height="225px" src="assets/img/logo_fullsize.png"> -->
 
 The broad goals of the research in the lab are to understand:
 
