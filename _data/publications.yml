@@ -5,7 +5,7 @@
   title: "Decision-Making with Auto-Encoding Variational Bayes."
   year: 2020
   details: Advances in Neural Information Processing Systems
-  contentshare: https://github.com/PierreBoyeau/sbVAE
+  github: https://github.com/PierreBoyeau/sbVAE
   arxiv: https://arxiv.org/abs/2002.07217
 
 - authors: "R. Lopez, A. Gayoso & N. Yosef."
