@@ -4,7 +4,7 @@
 - authors: "R. Lopez, P. Boyeau, N. Yosef, M. Jordan & J. Regier."
   title: "Decision-Making with Auto-Encoding Variational Bayes."
   year: 2020
-  details: Advanced in Neural Information Processing Systems
+  details: Advances in Neural Information Processing Systems
   contentshare: https://github.com/PierreBoyeau/sbVAE
   arxiv: https://arxiv.org/abs/2002.07217
 
@@ -13,7 +13,6 @@
   year: 2020
   doi: 10.15252/msb.20199198
   details: Molecular Systems Biology
-  file: https://www.embopress.org/doi/10.15252/msb.20199198
 
 
 - authors: "D. Schafflick* , C. Xu* , M. Hartlehnert* , M. Cole* , T. Lautwein, K. Buscher, J.Wolbert, SG. Meuth, T. Kuhlmann, C. Gross, H. Wiendl, N. Yosef† , G.M zu Horste†"
