@@ -15,7 +15,7 @@
   details: Molecular Systems Biology
 
 
-- authors: "D. Schafflick* , C. Xu* , M. Hartlehnert* , M. Cole* , T. Lautwein, K. Buscher, J.Wolbert, SG. Meuth, T. Kuhlmann, C. Gross, H. Wiendl, N. Yosef† , G.M zu Horste†"
+- authors: "D. Schafflick\\*, C. Xu\\*, M. Hartlehnert\\*, M. Cole\\*, T. Lautwein, K. Buscher, J.Wolbert, SG. Meuth, T. Kuhlmann, C. Gross, H. Wiendl, N. Yosef† , G.M zu Horste†"
   title: "Integrated single cell analysis of blood and cerebrospinal fluid leukocytes in multiple sclerosis."
   details: Nature Communications
   year: 2020
@@ -30,7 +30,7 @@
   arxiv:
   contentshare:
 
-- authors: "MG. Jones*, A. Khodaverdian*, JJ. Quinn*, MM. Chan, JA. Hussmann, R. Wang, C. Xu, JS. Weissman†, N. Yosef†"
+- authors: "MG. Jones\\*, A. Khodaverdian\\*, JJ. Quinn\\*, MM. Chan, JA. Hussmann, R. Wang, C. Xu, JS. Weissman†, N. Yosef†"
   title: "Inference of Single-Cell Phylogenies from Lineage Tracing Data."
   details: Genome Biology
   year: 2020
@@ -96,7 +96,7 @@
   scvitools: true
   newsandviews: https://www.nature.com/articles/s41592-018-0230-9
 
-- authors: "A. Wagner*, C. Wang*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
+- authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
   title: "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity."
   details: bioRxiv
   year: 2020
@@ -112,7 +112,7 @@
   contentshare:
   preprint: true
 
-- authors: "C. Wang*, A. Wagner*, J. Fessler*, J. Avila-Pacheco, J. Karminski, P. Thakore, S. Zaghouani, K. Pierce, L. Bod, A. Schnell, D. DeTomaso, N. Ron-Harel, M. Haigis, D. Puleston, E.L. Pearce, M. Soleimani, R. Sobel, C. Clish, A. Regev, N. Yosef†, V.K. Kuchroo†."
+- authors: "C. Wang\\*, A. Wagner\\*, J. Fessler\\*, J. Avila-Pacheco, J. Karminski, P. Thakore, S. Zaghouani, K. Pierce, L. Bod, A. Schnell, D. DeTomaso, N. Ron-Harel, M. Haigis, D. Puleston, E.L. Pearce, M. Soleimani, R. Sobel, C. Clish, A. Regev, N. Yosef†, V.K. Kuchroo†."
   title: "Metabolic and Epigenomic Regulation of Th17/Treg Balance by the Polyamine Pathway."
   details: bioRxiv
   year: 2020
@@ -144,7 +144,7 @@
   contentshare:
   preprint: true
 
-- authors: "A. Gayoso*, Z. Steier*, R. Lopez, J. Regier, KL. Nazor, A. Streets†, N Yosef†"
+- authors: "A. Gayoso\\*, Z. Steier\\*, R. Lopez, J. Regier, KL. Nazor, A. Streets†, N Yosef†"
   title: "Joint probabilistic modeling of paired transcriptome and proteome measurements in single cells."
   details: bioRxiv
   year: 2020
@@ -162,7 +162,7 @@
   scvitools: true
   preprint: true
 
-- authors: "C. Xu*, R. Lopez*, E. Mehlman*, J. Regier, M.I. Jordan, N. Yosef"
+- authors: "C. Xu\\*, R. Lopez\\*, E. Mehlman\\*, J. Regier, M.I. Jordan, N. Yosef"
   title: "Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models."
   details: bioRxiv
   year: 2020
@@ -195,7 +195,7 @@
   contentshare:
   preprint: true
 
-- authors: "SL. Pompura*, A. Wagner*, A. Kitz, J. LaPerche, N. Yosef†, M. Dominguez-Villar†, DA, Hafler†"
+- authors: "SL. Pompura\\*, A. Wagner\\*, A. Kitz, J. LaPerche, N. Yosef†, M. Dominguez-Villar†, DA, Hafler†"
   title: "Oleic acid Induces Tissue Resident FoxP3 Regulatory T cell Lineage Stability and Suppressive Functions."
   details: bioRxiv
   year: 2020
@@ -211,7 +211,7 @@
   contentshare:
   preprint: true
 
-- authors: "N. Everetts*, MI .Worley*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
+- authors: "N. Everetts\\*, MI .Worley\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
   title: "Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions."
   details: bioRxiv
   year: 2020
@@ -227,10 +227,101 @@
   contentshare:
   preprint: true
 
-- authors: "JJ. Quinn*, MG. Jones*, RA. Okimoto, N. Yosef†, TG. Bivona†, JS. Weissman†"
-  title: "Continuous lineage recording reveals rapid, multidirectional metastasis in a lung cancer xenograft model in mouse."
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.16.045245v1
+- authors: "JJ. Quinn\\*, MG. Jones\\*, RA. Okimoto, S. Nanjo, MM. Chan, N. Yosef†, TG. Bivona†, JS. Weissman†"
+  title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.16.045245v3
   github: https://github.com/YosefLab/Cassiopeia
   details: bioRxiv
   preprint: true
   cassiopeia: true
+
+- authors: "F. Inoue\\*, A. Kreimer\\*, T. Ashuach, N. Ahituv†, N. Yosef†"
+  title: "Identification and Massively Parallel Characterization of Regulatory Elements Driving Neural Induction."
+  year: 2019
+  doi: 10.1016/j.stem.2019.09.010
+  details: Cell Stem Cell
+
+- authors: "T. Ashuach\\*, DS Fischer\\*, FJ Theis, N. Yosef."
+  title: "MPRAnalyze—A statistical framework for Massively Parallel Reporter Assays."
+  year: 2019
+  doi: 10.1186/s13059-019-1787-z
+  details: Genome Biology
+
+- authors: "D. Detomaso\\*, M. Jones\\*, M. Subramanian, J. Ye, N. Yosef."
+  title: "Functional Interpretation of Single-Cell Similarity Maps."
+  year: 2019
+  doi: 10.1038/s41467-019-12235-0
+  details: Nature Communications
+  vision: true
+
+- authors: "X. Zhang\\*, C. Xu\\*, N. Yosef."
+  title: "Simulating multi-faceted variability in single cell RNA sequencing."
+  year: 2019
+  doi: 10.1038/s41467-019-10500-w
+  details: Nature Communications
+
+- authors: "S. Afik\\*, G. Raulet\\* and N. Yosef."
+  title: "Reconstructing B cell receptor sequences from short-read single cell RNA-sequencing with BRAPeS."
+  year: 2019
+  doi: 10.26508/lsa.201900371
+  details: Life Science Alliance
+
+- authors: "A. Kreimer\\*, Z. Yan\\*, N. Ahituv, N. Yosef"
+  title: "Meta-analysis of massively parallel reporter assays enables the prediction of regulatory elements."
+  year: 2019
+  doi: 10.1002/humu.23820
+  details: Human Mutation
+
+- authors: "J. Wu, A. Khodaverdian, B.Weitz, N. Yosef"
+  title: "Connectivity Problems on Heterogeneous Graphs"
+  year: 2019
+  doi: 10.1186/s13015-019-0141-z
+  details: Algorithms for Molecular Biology
+
+- authors: "MB. Cole, D. Risso, A. Wagner, D. DeTomaso, J. Ngai, E. Purdom, S. Dudoit†, N. Yosef†"
+  title: "Performance Assessment and Selection of Normalization Procedures for Single-Cell RNA-Seq."
+  year: 2019
+  doi: 10.1016/j.cels.2019.03.010
+  details: Cell Systems
+
+- authors: "AK Morrow, GZ He, FA Nothaft, ET Tu, J Paschall, N Yosef, AD. Joseph"
+  title: "Mango: Exploratory Data Analysis for Large-Scale Sequencing Datasets."
+  year: 2019
+  doi: 10.1016/j.cels.2019.11.002
+  details: Cell Systems
+
+- authors: "MM. Chan, ZD. Smith, S. Grosswendt, H. Kretzmer, TM. Norman, B. Adamson, M. Jost, JJ. Quinn, D. Yang, MG. Jones, A. Khodaverdian, N. Yosef, A. Meissner, JS. Weissman"
+  title: "Molecular recording of mammalian embryogenesis."
+  year: 2019
+  doi: 10.1038/s41586-019-1184-5
+  details: Nature
+  cassiopeia: true
+
+- authors: "R. Lopez\\*, A. Nazaret\\*, M. Langevin\\*, J. Samaran*, J. Regier*, M.I. Jordan, N. Yosef"
+  title: "A joint model of unpaired data from scRNA-seq and spatial transcriptomics for imputing missing gene expression measurements."
+  year: 2019
+  arxiv: https://arxiv.org/pdf/1905.02269.pdf
+  preprint: true
+  details: ICML 2019 Workshop on Computational Biology (spotlight presentation; best student's poster)
+
+- authors: "P. Boyeau, R. Lopez, J. Regier, A. Gayoso, MI. Jordan, N. Yosef"
+  title: "Deep Generative Models for Detecting Differential Expression in Single Cells."
+  year: 2019
+  biorxiv: https://www.biorxiv.org/content/10.1101/794289v1
+  preprint: true
+  details: MLCB 2019
+
+- authors: "O. Clivio, R. Lopez, J. Regier, A. Gayoso, MI. Jordan, N Yosef"
+  title: "Detecting Zero-Inflated Genes in Single-Cell Transcriptomics Data."
+  year: 2019
+  biorxiv: https://www.biorxiv.org/content/10.1101/794875v1
+  preprint: true
+  details: MLCB 2019 (spotlight presentation)
+
+- authors: "A. Gayoso, R. Lopez, ZR. Steier, J. Regier, AM Streets, N. Yosef"
+  title: "A Joint Model of RNA Expression and Surface Protein Abundance in Single Cells"
+  year: 2019
+  biorxiv: https://www.biorxiv.org/content/10.1101/791947v1
+  preprint: true
+  details: MLCB 2019
+
