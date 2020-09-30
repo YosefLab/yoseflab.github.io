@@ -159,13 +159,14 @@
 
 - name:  Galen Xing
   degrees:
-  image: john_d.jpg
+  image: galen.png
   altimage:
   position: Software engineer (CZI)
-  email:
+  email: gx2113 (at) columbia.edu
   website: https://galenxing.com/
   scholar:
-  twitter:
+  github: galenxing
+  twitter: GalenXing
   description:
 
 - name:  Elior Rahmani
