@@ -358,3 +358,61 @@
   details: Bay Area Machine Learning Symposium (oral presentation)
   arxiv: https://arxiv.org/abs/1809.05957
   year: 2018
+
+
+# 2017
+
+- authors: "S. Afik, K. Yates, K Bi, S. Darko, J. Godec, U. Gerdemann, L. Swadling, DC. Douek, P. Klenerman, EJ. Barnes, AH. Sharpe, N. Haining†, N. Yosef."
+  title: "Targeted reconstruction of T cell receptor sequence from single cell RNA-seq links CDR3 length to T cell differentiation state."
+  details: Nucleic Acids Research
+  doi: doi.org/10.1093/nar/gkx615
+  year: 2017
+  
+- authors: "R. Lopez, J. Regier, M. Jordan, N. Yosef."
+  title: "A deep generative model for gene expression profiles from single-cell RNA sequencing."
+  details: BayLearn Symposium (oral presentation) and NIPS Workshop on Machine Learning in Computational Biology (spotlight talk)
+  year: 2017
+  arxiv: https://arxiv.org/abs/1709.02082
+  
+- authors: "X. Zhang and N. Yosef."
+  title: "A new way to build cell lineages."
+  details: eLife
+  doi: 10.7554/eLife.25654
+  year: 2017
+  
+- authors: "A. Kreimer, H. Zeng, MD. Edwards, Y. Guo, K. Tian, S. Shin, R. Welch, M. Wainberg, R. Mohan, NA. Sinnott-Armstrong, Y. Li, G. Eraslan, T.l Bin AMIN, J. Goke, NS. Mueller, M. Kellis, A. Kundaje, MA Beer, S. Keles, DK. Gifford and N. Yosef†."
+  title: "Predicting gene expression in massively parallel reporter assays: a comparative study."
+  year: 2017
+  doi: 10.1002/humu.23197
+  details: Human Mutation
+  year: 2017
+
+- authors: "P. Mertins, D. Przybylski, N. Yosef, J. Qiao, K. Clauser, R. Raychowdhury, TM. Eisenhaure, T. Maritzen, V. Haucke, T. Satoh, S. Akira, SA. Carr, A. Regev, N. Hacohen, N. Chevrier."
+  title: "An Integrative Framework Reveals Signaling-to-Transcription Events in Toll-like Receptor Signaling."
+  details: Cell Reports
+  year: 2017
+  doi: 10.1016/j.celrep.2017.06.016
+
+- authors: "RB. Fletcher, D. Das, L. Gadye, KN. Street, A. Baudhuin, A. Wagner, MB. Cole, Q. Flores, YG. Choi, N. Yosef, E. Purdom, S. Dudoit, D. Risso, J. Ngai."
+  title: "Deconstructing Olfactory Stem Cell Trajectories at Single-Cell Resolution."
+  year: 2017
+  doi: 10.1016/j.stem.2017.04.003
+  details: Cell Stem Cell
+
+- authors: "L. Gadye, D. Das, MA. Sanchez, K. Street, A. Bauduin, A. Wagner, MB. Cole, YG Choi, N. Yosef ,E. Purdom, S. Dudoit, D. Risso, J. Ngai, RB. Fletcher."
+  title: "Injury Activates Transient Olfactory Stem Cell States with Diverse Lineage Capacities."
+  year: 2017
+  details: Cell Stem Cell
+  doi: 10.1016/j.stem.2017.10.014
+  
+- title: "Use antibiotics in cell culture with caution: genome-wide identification of antibiotic-induced changes in gene expression and regulation."
+  authors: "AH. Ryu, WL. Eckalbar, A. Kreimer, N. Yosef, Nadav Ahituv."
+  details: Scientific Reports
+  year: 2017
+  doi: 10.1038/s41598-017-07757-w
+
+- title: "Critical role of IRF1 and BATF in forming chromatin landscape during type 1 regulatory cell differentiation."
+  authors: "K. Karwacz, ER. Miraldi, M. Pokrovskii, A. Madi, N. Yosef, I. Wortman, X. Chen, A. Watters, N. Carriero, A. Awasthi, A. Regev, R. Bonneau, D. Littman, VK. Kuchroo."
+  details: Nature Immunology
+  year: 2017
+  doi: 10.1038/ni.3683
