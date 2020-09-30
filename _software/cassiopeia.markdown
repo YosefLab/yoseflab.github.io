@@ -6,7 +6,9 @@ img: /assets/project_img/cassiopeia.png
 importance: 2
 ---
 
-Please checkout the project on [GitHub](https://github.com/YosefLab/Cassiopeia).
+Cassiopeia is a software suite for processing CRISPR/Cas9-based lineage tracing sequencing data into phylogenies. The software contains three modules for (a) preprocessing sequencing reads into "character matrices"; (b) reconstructing phylogenies from these character matrices; and (c) providing analysis tools for deriving insights from these phylogenies. The core methodology is described in our publication entitled "Inference of Single-Cell Phylogenies from Lineage Tracing Data".
+
+You can view and install the tool from [GitHub](https://github.com/YosefLab/Cassiopeia).
 
 <br>
 <br>
