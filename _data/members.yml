@@ -19,6 +19,19 @@
   scholar:
   twitter:
   description:
+  
+  
+- name:  Elior Rahmani
+  degrees:
+  image: john_d.jpg
+  altimage:
+  position: Postdoctoral associate
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+  
 
 - name: Allon Wagner
   degrees:
@@ -164,17 +177,6 @@
   position: Software engineer (CZI)
   email:
   website: https://galenxing.com/
-  scholar:
-  twitter:
-  description:
-
-- name:  Elior Rahmani
-  degrees:
-  image: john_d.jpg
-  altimage:
-  position: Postdoctoral associate
-  email:
-  website:
   scholar:
   twitter:
   description:
