@@ -325,3 +325,40 @@
   preprint: true
   details: MLCB 2019
 
+
+  # 2018
+
+- authors: "R. Lopez, J. Regier, MB. Cole, M. Jordan, N. Yosef."
+  title: "Deep Generative Modeling for Single-cell Transcriptomics."
+  details: Nature Methods
+  year: 2018
+  doi: 10.1038/s41592-018-0229-2
+  github: https://github.com/YosefLab/scvi-tools
+  scvitools: true
+  newsandviews: https://www.nature.com/articles/s41592-018-0230-9
+
+- authors: "EM Gayo*, MB. Cole*, KE Kolb*, Z. Ouyang, J. Cronin, SW. Kazer, J. Ordovas-Montanes, M. Lichterfeld, BD. Walker, N Yosef†, AK. Shalek†, XG. Yu†"
+  title: "A Reproducibility-Based Computational Framework Identifies An Inducible Enhanced Antiviral Dendritic Cell State In HIV-1 Elite Controllers."
+  details: Genome Biology
+  year: 2018
+  doi: 10.1186/s13059-017-1385-x
+  github: https://github.com/YosefLab/scRAD
+
+- authors: "DS Fischer,  FJ Theis, N. Yosef."
+  title: "Impulse model-based differential expression analysis of time course sequencing data."
+  details: Nucleic Acids Research
+  year: 2018
+  doi: 10.1093/nar/gky675
+  github: https://github.com/Bioconductor-mirror/ImpulseDE2
+
+- authors: "R. Lopez, J. Regier, M. Jordan, N. Yosef."
+  title: "Information Constraints on Auto-Encoding Variational Bayes."
+  details: Advanced in Neural Information Processing Systems
+  arxiv: http://papers.nips.cc/paper/7850-information-constraints-on-auto-encoding-variational-bayes.pdf
+  year: 2018
+
+- authors: "M. Langevin, E. Mehlman, J. Regier, R. Lopez, M. Jordan, N. Yosef."
+  title: "A Deep Generative Model for Semi-Supervised Classification with Noisy Labels."
+  details: Bay Area Machine Learning Symposium (oral presentation)
+  arxiv: https://arxiv.org/abs/1809.05957
+  year: 2018
