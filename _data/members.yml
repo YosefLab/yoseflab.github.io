@@ -19,6 +19,19 @@
   scholar:
   twitter:
   description:
+  
+  
+- name:  Elior Rahmani
+  degrees:
+  image: john_d.jpg
+  altimage:
+  position: Postdoctoral associate
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+  
 
 - name: Allon Wagner
   degrees:
@@ -167,17 +180,6 @@
   scholar:
   github: galenxing
   twitter: GalenXing
-  description:
-
-- name:  Elior Rahmani
-  degrees:
-  image: john_d.jpg
-  altimage:
-  position: Postdoctoral associate
-  email:
-  website:
-  scholar:
-  twitter:
   description:
 
 - name:  Richard Zhang
