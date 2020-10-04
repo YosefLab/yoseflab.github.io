@@ -253,12 +253,15 @@
   year: 2019
   doi: 10.1038/s41467-019-10500-w
   details: Nature Communications
+  github: https://github.com/YosefLab/SymSim
+  symsim: true
 
 - authors: "S. Afik\\*, G. Raulet\\* and N. Yosef."
   title: "Reconstructing B cell receptor sequences from short-read single cell RNA-sequencing with BRAPeS."
   year: 2019
   doi: 10.26508/lsa.201900371
   details: Life Science Alliance
+  trapes: true
 
 - authors: "A. Kreimer\\*, Z. Yan\\*, N. Ahituv, N. Yosef"
   title: "Meta-analysis of massively parallel reporter assays enables the prediction of regulatory elements."
@@ -277,6 +280,8 @@
   year: 2019
   doi: 10.1016/j.cels.2019.03.010
   details: Cell Systems
+  scone: true
+  github: https://github.com/YosefLab/scone
 
 - authors: "AK Morrow, GZ He, FA Nothaft, ET Tu, J Paschall, N Yosef, AD. Joseph"
   title: "Mango: Exploratory Data Analysis for Large-Scale Sequencing Datasets."
@@ -372,6 +377,7 @@
   doi: doi.org/10.1093/nar/gkx615
   year: 2017
   github: https://github.com/YosefLab/TRAPeS
+  trapes: true
 
 - authors: "R. Lopez, J. Regier, M. Jordan, N. Yosef."
   title: "A deep generative model for gene expression profiles from single-cell RNA sequencing."

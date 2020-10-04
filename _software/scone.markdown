@@ -1,23 +1,48 @@
 ---
 layout: page
-title: scvi-tools
-description: single-cell variational inference tools
-img: /assets/project_img/scvi.jpg
-importance: 5
+title: scone
+description: Simulation of single-cell RNA-Seq data
+img: /assets/project_img/scone.png
+importance: 4
 ---
 
-### End-to-end analysis of single cell omics data with deep generative models.
-<hr>
+SCONE (Single-Cell Overview of Normalized Expression) is an **R Biodconductor package** that supports a rational, data-driven framework for assessing the efficacy of various normalization workflows, encouraging users to explore trade-offs inherent to their data set prior to finalizing a data normalization strategy. We provide an interface for running multiple normalization workflows in parallel. We also offer tools for ranking workflows and visualizing trade-offs. We import some common normalization modules used in traditional bulk sequencing, and provide support for integrating user-specified normalization modules.
 
-Please check out the [scvi-tools website](https://scvi-tools.org), or help contribute on [GitHub](https://github.com/YosefLab/scvi-tools).
-<br>
+<img src="/assets/project_img/sconebanner.png" alt="Banner" width="800"/>
+
+### Input Data
+
+- Expression Matrix (e.g. Read Counts)
+- Library Alignment Metrics
+- Biological Exposures
+- Batch Conditions
+- Control Gene Sets
+
+### General Normalization Workflow
+
+1. Data Imputation Module: replacing zero-abundance values with expected values under a drop-out model.
+2. Scaling or Quantile Normalization Module: either i) normalization that scales each sample’s transcriptome abundances by a single factor or ii) more complex offsets that match quantiles across samples.
+3. Regression Module. Approaches for removing unwanted correlated variation from the data (e.g. RUVg, Risso et al. 2014).
+
+### Output
+
+- Hundreds of Normalized Expression Matrices
+- Up to 8 Performance Metrics per Matrix
+- Ranking by Performance Scores
+
+### Availability
+
+[Download](https://bioconductor.org/packages/devel/bioc/html/scone.html) the R Bioconductor package, or checkout the project on [GitHub](https://github.com/YosefLab/scone).
+
+Vignette is available [here](https://bioconductor.org/packages/devel/bioc/vignettes/scone/inst/doc/sconeTutorial.html).
+
 <br>
 
 <h3 class="year">Relevant publications</h3><hr>
 
 {% for paper in site.data.publications %}
 
-{% if paper.scvitools == true %}
+{% if paper.scone == true %}
 <div id = "{{ paper.title | replace: ' ', '-' | remove: '.' }}" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
 <div valign="top" style="overflow: hidden">
   <b>{{paper.title}}</b><br>

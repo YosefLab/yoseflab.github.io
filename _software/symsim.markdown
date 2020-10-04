@@ -1,15 +1,13 @@
 ---
 layout: page
-title: scvi-tools
-description: single-cell variational inference tools
-img: /assets/project_img/scvi.jpg
-importance: 5
+title: symsim
+description: Simulation of single-cell RNA-Seq data
+img: /assets/project_img/symsim.png
+importance: 6
 ---
 
-### End-to-end analysis of single cell omics data with deep generative models.
-<hr>
+You can view and install the tool from [GitHub](https://github.com/YosefLab/SymSim).
 
-Please check out the [scvi-tools website](https://scvi-tools.org), or help contribute on [GitHub](https://github.com/YosefLab/scvi-tools).
 <br>
 <br>
 
@@ -17,7 +15,7 @@ Please check out the [scvi-tools website](https://scvi-tools.org), or help contr
 
 {% for paper in site.data.publications %}
 
-{% if paper.scvitools == true %}
+{% if paper.symsim == true %}
 <div id = "{{ paper.title | replace: ' ', '-' | remove: '.' }}" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
 <div valign="top" style="overflow: hidden">
   <b>{{paper.title}}</b><br>

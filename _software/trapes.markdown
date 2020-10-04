@@ -1,23 +1,34 @@
 ---
 layout: page
-title: scvi-tools
-description: single-cell variational inference tools
-img: /assets/project_img/scvi.jpg
-importance: 5
+title: trapes + brapes
+description: TCR + BCR reconstruction algorithms for paired-end data
+img: /assets/project_img/trapes.png
+importance: 7
 ---
 
-### End-to-end analysis of single cell omics data with deep generative models.
-<hr>
+### TRAPeS
 
-Please check out the [scvi-tools website](https://scvi-tools.org), or help contribute on [GitHub](https://github.com/YosefLab/scvi-tools).
-<br>
+We present TRAPeS (TCR Reconstruction Algorithm for Paired-End Single-cell), a software for reconstruction of T cell receptors (TCR) using short, paired-end single-cell RNA-sequencing.
+
+TRAPeS reconstruct the TCR in 3 steps: For each chain, it first identify the V and J segments by searching for paired reads with one read mapping to the V segment and its mate mapping to the J segment. Then, a set of putative CDR3-originating reads are identified as the set of unmapped reads whose mates map to the V,J and C segments. Finally, an iterative dynamic programming algorithm is used to reconstruct the CDR3 region with the putative CDR3 reads.
+
+You can view and install TRAPeS from [GitHub](https://github.com/YosefLab/TRAPeS).
+
+### BRAPeS
+
+We present BRAPeS (BCR Reconstruction Algorithm for Paired-End Single-cell), a software for reconstruction of B cell receptors (BCR) using short, paired-end single-cell RNA-sequencing.
+
+BRAPeS is an extension of TRAPeS which reconstructs the BCR in 5 steps: For each chain, it first identify the V and J segments by searching for paired reads with one read mapping to the V segment and its mate mapping to the J segment. Then, a set of putative CDR3-originating reads are identified as the set of unmapped reads whose mates map to the V,J and C segments. Next, an iterative dynamic programming algorithm is used to reconstruct the CDR3 region with the putative CDR3 reads. The isotype of the BCR is then determined by running RSEM on the reconstructed sequence with all possible constant segments added to it. Finally, BRAPeS corrects for somatic hypermutations by collecting all reads aligning to the genomic CDR1, CDR2 and Framework sequences and aligning the reads against themselves to obtain a reconstruction of the consensus sequence.
+
+You can view and install BRAPeS from [GitHub](https://github.com/YosefLab/BRAPeS).
+
 <br>
 
 <h3 class="year">Relevant publications</h3><hr>
 
 {% for paper in site.data.publications %}
 
-{% if paper.scvitools == true %}
+{% if paper.trapes == true %}
 <div id = "{{ paper.title | replace: ' ', '-' | remove: '.' }}" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
 <div valign="top" style="overflow: hidden">
   <b>{{paper.title}}</b><br>
