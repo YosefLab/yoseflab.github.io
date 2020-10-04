@@ -3,7 +3,7 @@ layout: page
 title: cassiopeia
 description: Cas9-Enabled single cell lineage tracing tree reconstruction
 img: /assets/project_img/cassiopeia.png
-importance: 2
+importance: 1
 ---
 
 Cassiopeia is a software suite for processing CRISPR/Cas9-based lineage tracing sequencing data into phylogenies. The software contains three modules for (a) preprocessing sequencing reads into "character matrices"; (b) reconstructing phylogenies from these character matrices; and (c) providing analysis tools for deriving insights from these phylogenies. The core methodology is described in our publication entitled "Inference of Single-Cell Phylogenies from Lineage Tracing Data".

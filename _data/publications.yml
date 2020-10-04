@@ -85,6 +85,7 @@
   pmcid:
   openaccess:
   doi: 10.1038/s41596-020-0333-5
+  mpra: true
 
 - authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
   title: "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity."
@@ -101,6 +102,7 @@
   arxiv:
   contentshare:
   preprint: true
+  compass: true
 
 - authors: "C. Wang\\*, A. Wagner\\*, J. Fessler\\*, J. Avila-Pacheco, J. Karminski, P. Thakore, S. Zaghouani, K. Pierce, L. Bod, A. Schnell, D. DeTomaso, N. Ron-Harel, M. Haigis, D. Puleston, E.L. Pearce, M. Soleimani, R. Sobel, C. Clish, A. Regev, N. Yosef†, V.K. Kuchroo†."
   title: "Metabolic and Epigenomic Regulation of Th17/Treg Balance by the Polyamine Pathway."
@@ -236,6 +238,7 @@
   year: 2019
   doi: 10.1186/s13059-019-1787-z
   details: Genome Biology
+  mpra: true
 
 - authors: "D. Detomaso\\*, M. Jones\\*, M. Subramanian, J. Ye, N. Yosef."
   title: "Functional Interpretation of Single-Cell Similarity Maps."
@@ -243,6 +246,7 @@
   doi: 10.1038/s41467-019-12235-0
   details: Nature Communications
   vision: true
+  github: https://github.com/YosefLab/VISION
 
 - authors: "X. Zhang\\*, C. Xu\\*, N. Yosef."
   title: "Simulating multi-faceted variability in single cell RNA sequencing."
@@ -312,7 +316,7 @@
   details: Machine Learning in Computational Biology meeting (spotlight presentation)
   scvitools: true
   openmaterials: https://github.com/oscarclivio/AutoZI_reproducibility
- 
+
 
 - authors: "A. Gayoso, R. Lopez, ZR. Steier, J. Regier, AM Streets, N. Yosef"
   title: "A Joint Model of RNA Expression and Surface Protein Abundance in Single Cells"
@@ -367,19 +371,20 @@
   details: Nucleic Acids Research
   doi: doi.org/10.1093/nar/gkx615
   year: 2017
-  
+  github: https://github.com/YosefLab/TRAPeS
+
 - authors: "R. Lopez, J. Regier, M. Jordan, N. Yosef."
   title: "A deep generative model for gene expression profiles from single-cell RNA sequencing."
   details: BayLearn Symposium (oral presentation) and NIPS Workshop on Machine Learning in Computational Biology (spotlight talk)
   year: 2017
   arxiv: https://arxiv.org/abs/1709.02082
-  
+
 - authors: "X. Zhang and N. Yosef."
   title: "A new way to build cell lineages."
   details: eLife
   doi: 10.7554/eLife.25654
   year: 2017
-  
+
 - authors: "A. Kreimer, H. Zeng, MD. Edwards, Y. Guo, K. Tian, S. Shin, R. Welch, M. Wainberg, R. Mohan, NA. Sinnott-Armstrong, Y. Li, G. Eraslan, T.l Bin AMIN, J. Goke, NS. Mueller, M. Kellis, A. Kundaje, MA Beer, S. Keles, DK. Gifford and N. Yosef†."
   title: "Predicting gene expression in massively parallel reporter assays: a comparative study."
   year: 2017
@@ -404,7 +409,7 @@
   year: 2017
   details: Cell Stem Cell
   doi: 10.1016/j.stem.2017.10.014
-  
+
 - title: "Use antibiotics in cell culture with caution: genome-wide identification of antibiotic-induced changes in gene expression and regulation."
   authors: "AH. Ryu, WL. Eckalbar, A. Kreimer, N. Yosef, Nadav Ahituv."
   details: Scientific Reports
@@ -416,3 +421,88 @@
   details: Nature Immunology
   year: 2017
   doi: 10.1038/ni.3683
+
+
+# 2016
+
+- title: "The Epigenetic Landscape of T Cell Exhaustion"
+  authors: "D.R. Sen\\*, J. Kaminski\\*, R.A Barnitz, M. Kurachi, U. Gerdemann, K.B. Yates, H Tsao, J. Godec, M.W. LaFleur, F.D. Brown, P. Tonnerre, R.T. Chung, D.C. Tully, T.M. Allen, N. Frahm, G.M. Lauer, E. J. Wherry, N. Yosef†, and W.N. Haining†."
+  details: Science
+  year: 2016
+  doi: 10.1126/science.aae0491
+  extradetails: "[Featured on journal's cover](https://twitter.com/sciencemagazine/status/804403774173351938), Perspectives: [[Science]](http://science.sciencemag.org/content/354/6316/1104), [[Nature]](http://www.nature.com/nature/journal/v543/n7644/full/nature21508.html)"
+
+- title: "Writ large: Genomic Dissection of the Effect of Cellular Environment on Immune Response."
+  authors: "N. Yosef† and A. Regev†"
+  details: Science
+  year: 2016
+  doi: 10.1126/science.aaf5453
+
+- title: "Revealing the vectors of cellular identity with single cell genomics"
+  authors: "A. Wagner, A. Regev\\*, N. Yosef\\*"
+  details: Nature Biotechnology
+  year: 2016
+  doi: 10.1038/nbt.3711
+
+- title: "FastProject: A Tool for Low-Dimensional Analysis of Single-Cell RNA-Seq Data"
+  authors: "D. DeTomaso, N. Yosef."
+  details: BMC Bioinformatics
+  year: 2016
+  doi: 10.1186/s12859-016-1176-5
+  github: https://github.com/YosefLab/FastProject/
+  vision: true
+
+- title: "ImpulseDE: detection of differentially expressed genes in time series data using impulse models/"
+  authors: "J. Sander, J. Schultze, N. Yosef."
+  details: Bioinformatics
+  year: 2016
+  github: https://github.com/YosefLab/ImpulseDE
+  extradetails: "Available on [Bioconductor](http://bioconductor.org/packages/3.4/bioc/html/ImpulseDE.html)"
+
+- title: "Convolutional Kitchen Sinks for Transcription Factor Binding Site Prediction"
+  authors: "A. Morrow\\*, V. Shankar\\*, A. Joseph, B. Recht, and N. Yosef."
+  details: NeurIps Workshop on Machine Learning in Computational Biology
+  year: 2016
+
+- title: "Protein Sialylation Regulates a Gene Expression Signature that Promotes Breast Cancer Cell Pathogenicity"
+  authors: "Kohnz RA, Roberts LS, DeTomaso D, Bideyan L, Yan P, Bandyopadhyay S, Goga A, Yosef N, Nomura DK"
+  details: ACS Chem Biol
+  year: 2016
+
+# 2015
+
+- title: "Single-Cell Genomics Unveils Critical Regulators of Th17 Cell Pathogenicity."
+  authors: "JT. Gaublomme\\*, N. Yosef\\*, Y. Lee, RS. Gertner, LV. Yang, PP. Pandolfi, T. Mak, R. Satija, AK. Shalek, VK. Kuchroo, A. Regev, H. Park."
+  details: Cell
+  doi: 10.1016/j.cell.2015.11.009
+  extradetails: "[Featured on journal's cover](http://www.cell.com/cell/issue?pii=S0092-8674(14)X0050-4)"
+  newsandviews: http://www.cell.com/cell/abstract/S0092-8674(15)01552-4
+  year: 2015
+
+- title:  "CD5L/AIM Regulates Lipid Biosynthesis and Restrains Th17 Cell Pathogenicity"
+  authors: "C. Wang, N. Yosef, JT. Gaublomme, C. Wu, Y. Lee, CB. Clish, J. Kaminski, S. Xiao, G. Meyer Zu Horste, M. Pawlak, Y. Kishi, N. Joller, K. Karwacz, C. Zhu, M. Ordovas-Montanes, A. Madi, I. Wortman, T. Miyazaki, RA. Sobel, H. Park, A. Regev, VK. Kuchroo."
+  details: Cell
+  doi: 10.1016/j.cell.2015.10.068
+  year: 2015
+
+- title: "Combinatorial proteomic analysis of intercellular signaling applied to the CD28 T-cell costimulatory receptor"
+  authors: "R. Tian, H. Wang, GD. Gish, E. Petsalaki, A. Pasculescu, Y. Shi, M. Mollenauer, RD. Bagshaw, N. Yosef, T. Hunter, AC. Gingras, A. Weiss, and T. Pawson."
+  details: PNAS
+  year: 2015
+  doi: 10.1073/pnas.1503286112-2
+
+- title: "Oct1 and OCA-B are selectively required for CD4 memory T cell function"
+  authors: "Shakya A, Goren A, Shalek A, German CN, Snook J, Kuchroo VK, Yosef N, Chan RC, Regev A, Williams MA, Tantin D."
+  details:  J Exp Med.
+  year: 2015
+  doi: 10.1084/jem.20150363
+
+- title: "Pluripotency transcription factor Oct4 mediates stepwise nucleosome demethylation and depletion"
+  authors: A. Shakya, C. Callister C, A. Goren, N. Yosef, N. Garg, V. Khoddami V, D. Nix, A. Regev, D. Tantin D.
+  details: Molecular and cellular biology
+  year: 2015
+
+- title: "MicroRNA-21 promotes Th17 differentiation and mediates experimental autoimmune encephalomyelitis"
+  authors: G. Murugaiyan G, AP. da Cunha, AK. Ajay, N. Joller, LP. Garo, S. Kumaradevan, N. Yosef, VS Vaidya, HL. Weiner.
+  details: The Journal of clinical investigation
+  year: 2015

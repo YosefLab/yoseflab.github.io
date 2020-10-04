@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description:
 nav: true
-years: [2020, 2019, 2018, 2017, 2016, 2014, 2013, 2011, 2010, 2009, 2008, 2007]
+years: [2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2011, 2010, 2009, 2008, 2007]
 ---
 
 <p>
@@ -71,6 +71,7 @@ years: [2020, 2019, 2018, 2017, 2016, 2014, 2013, 2011, 2010, 2009, 2008, 2007]
   {% if paper.opendata %}<i class="ai ai-open-data ai-fw"></i> <a href="{{paper.opendata}}" target="_blank">Open Data</a><br>{% endif %}
   {% if paper.openmaterials %}<i class="ai ai-open-materials ai-fw"></i> <a href="{{paper.openmaterials}}" target="_blank">Reproducibility code</a><br>{% endif %}
   {% if paper.newsandviews %}<i class="ai ai-conversation ai-fw"></i> <a href="{{paper.newsandviews}}" target="_blank">News and Views</a><br>{% endif %}
+  {% if paper.extradetails %}<i class="ai ai-conversation ai-fw"></i> {{paper.extradetails | markdownify | remove: '<p>' | remove: '</p>'}}<br>{% endif %}
     </div>
 </div>
 

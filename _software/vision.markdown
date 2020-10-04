@@ -3,7 +3,7 @@ layout: page
 title: VISION
 description: Functional interpretation for scRNA-seq data
 img: /assets/project_img/vision.svg
-importance: 3
+importance: 15
 ---
 
 VISION aids in the interpretation of single-cell RNA-seq (scRNA-seq) data by selecting for gene signatures which describe coordinated variation between cells. While the software only requires an expression matrix and a signature library (available in online databases), it is also designed to integrate into existing scRNA-seq analysis pipelines by taking advantage of precomputed dimensionality reductions, trajectory inferences or clustering results. The results of this analysis are made available through a dynamic web-app which can be shared with collaborators without requiring them to install any additional software.
