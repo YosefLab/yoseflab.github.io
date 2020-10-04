@@ -1,7 +1,7 @@
 ---
 layout: page
 title: scone
-description: Simulation of single-cell RNA-Seq data
+description: Framework for the evaluation of scRNA-seq normalization
 img: /assets/project_img/scone.png
 importance: 4
 ---
