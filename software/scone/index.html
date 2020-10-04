@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Yosef  Lab | software</title>
+<title>Yosef  Lab | scone</title>
 <meta name="description" content="Website for the Yosef Lab at UC Berkeley.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/software/">
+<link rel="canonical" href="/software/scone/">
 
     
 <!-- MathJax -->
@@ -117,11 +117,9 @@
           
           
           
-          <li class="nav-item active">
+          <li class="nav-item ">
               <a class="nav-link" href="/software/">
                 software
-                
-                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -143,169 +141,75 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">software</h1>
-    <p class="post-description"></p>
+    <h1 class="post-title">scone</h1>
+    <p class="post-description">Simulation of single-cell RNA-Seq data</p>
   </header>
 
   <article>
-    <div class="projects grid">
+    <p>SCONE (Single-Cell Overview of Normalized Expression) is an <strong>R Biodconductor package</strong> that supports a rational, data-driven framework for assessing the efficacy of various normalization workflows, encouraging users to explore trade-offs inherent to their data set prior to finalizing a data normalization strategy. We provide an interface for running multiple normalization workflows in parallel. We also offer tools for ranking workflows and visualizing trade-offs. We import some common normalization modules used in traditional bulk sequencing, and provide support for integrating user-specified normalization modules.</p>
 
+<p><img src="/assets/project_img/sconebanner.png" alt="Banner" width="800" /></p>
+
+<h3 id="input-data">Input Data</h3>
+
+<ul>
+  <li>Expression Matrix (e.g. Read Counts)</li>
+  <li>Library Alignment Metrics</li>
+  <li>Biological Exposures</li>
+  <li>Batch Conditions</li>
+  <li>Control Gene Sets</li>
+</ul>
+
+<h3 id="general-normalization-workflow">General Normalization Workflow</h3>
+
+<ol>
+  <li>Data Imputation Module: replacing zero-abundance values with expected values under a drop-out model.</li>
+  <li>Scaling or Quantile Normalization Module: either i) normalization that scales each sample’s transcriptome abundances by a single factor or ii) more complex offsets that match quantiles across samples.</li>
+  <li>Regression Module. Approaches for removing unwanted correlated variation from the data (e.g. RUVg, Risso et al. 2014).</li>
+</ol>
+
+<h3 id="output">Output</h3>
+
+<ul>
+  <li>Hundreds of Normalized Expression Matrices</li>
+  <li>Up to 8 Performance Metrics per Matrix</li>
+  <li>Ranking by Performance Scores</li>
+</ul>
+
+<h3 id="availability">Availability</h3>
+
+<p><a href="https://bioconductor.org/packages/devel/bioc/html/scone.html">Download</a> the R Bioconductor package, or checkout the project on <a href="https://github.com/YosefLab/scone">GitHub</a>.</p>
+
+<p>Vignette is available <a href="https://bioconductor.org/packages/devel/bioc/vignettes/scone/inst/doc/sconeTutorial.html">here</a>.</p>
+
+<p><br /></p>
+
+<h3 class="year">Relevant publications</h3>
+<hr />
+
+<div id="Performance-Assessment-and-Selection-of-Normalization-Procedures-for-Single-Cell-RNA-Seq" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
+<div valign="top" style="overflow: hidden">
+  <b>Performance Assessment and Selection of Normalization Procedures for Single-Cell RNA-Seq.</b><br />
+  MB. Cole, D. Risso, A. Wagner, D. DeTomaso, J. Ngai, E. Purdom, S. Dudoit†, N. Yosef†
+<br />
+  <i>Cell Systems
+</i>
+  , 2019<br />
   
   
-  <div class="grid-item">
-    
-    <a href="/software/cassiopeia/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/cassiopeia.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">cassiopeia</h2>
-          <p class="card-text">Cas9-Enabled single cell lineage tracing tree reconstruction</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/compass/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/compass.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">compass</h2>
-          <p class="card-text">Metabolic modeling using single-cell transcriptomes</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/mpranalyze/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/mpranalyze.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">MPRAnalyze</h2>
-          <p class="card-text">Statistical framework for data generated by MPRAs</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/scone/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/scone.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">scone</h2>
-          <p class="card-text">Simulation of single-cell RNA-Seq data</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/scvi-tools/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/scvi.jpg" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">scvi-tools</h2>
-          <p class="card-text">single-cell variational inference tools</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/symsim/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/symsim.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">symsim</h2>
-          <p class="card-text">Simulation of single-cell RNA-Seq data</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/trapes/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/trapes.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">trapes + brapes</h2>
-          <p class="card-text">TCR + BCR reconstruction algorithms for paired-end data</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/vision/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/vision.svg" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">VISION</h2>
-          <p class="card-text">Functional interpretation for scRNA-seq data</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-
+  
+  
+  <i class="ai ai-doi ai-fw"></i> <a href="https://doi.org/10.1016/j.cels.2019.03.010" target="_blank">10.1016/j.cels.2019.03.010</a><br />
+  <i class="fab fa-github fa-fw"></i> <a href="https://github.com/YosefLab/scone" target="_blank">GitHub</a><br />
+  
+  
+  
+  
+  
+  
+    </div>
 </div>
+
 
   </article>
 

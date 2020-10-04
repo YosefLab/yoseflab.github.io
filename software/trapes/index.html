@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Yosef  Lab | software</title>
+<title>Yosef  Lab | trapes + brapes</title>
 <meta name="description" content="Website for the Yosef Lab at UC Berkeley.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/software/">
+<link rel="canonical" href="/software/trapes/">
 
     
 <!-- MathJax -->
@@ -117,11 +117,9 @@
           
           
           
-          <li class="nav-item active">
+          <li class="nav-item ">
               <a class="nav-link" href="/software/">
                 software
-                
-                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -143,169 +141,78 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">software</h1>
-    <p class="post-description"></p>
+    <h1 class="post-title">trapes + brapes</h1>
+    <p class="post-description">TCR + BCR reconstruction algorithms for paired-end data</p>
   </header>
 
   <article>
-    <div class="projects grid">
+    <h3 id="trapes">TRAPeS</h3>
 
+<p>We present TRAPeS (TCR Reconstruction Algorithm for Paired-End Single-cell), a software for reconstruction of T cell receptors (TCR) using short, paired-end single-cell RNA-sequencing.</p>
+
+<p>TRAPeS reconstruct the TCR in 3 steps: For each chain, it first identify the V and J segments by searching for paired reads with one read mapping to the V segment and its mate mapping to the J segment. Then, a set of putative CDR3-originating reads are identified as the set of unmapped reads whose mates map to the V,J and C segments. Finally, an iterative dynamic programming algorithm is used to reconstruct the CDR3 region with the putative CDR3 reads.</p>
+
+<p>You can view and install TRAPeS from <a href="https://github.com/YosefLab/TRAPeS">GitHub</a>.</p>
+
+<h3 id="brapes">BRAPeS</h3>
+
+<p>We present BRAPeS (BCR Reconstruction Algorithm for Paired-End Single-cell), a software for reconstruction of B cell receptors (BCR) using short, paired-end single-cell RNA-sequencing.</p>
+
+<p>BRAPeS is an extension of TRAPeS which reconstructs the BCR in 5 steps: For each chain, it first identify the V and J segments by searching for paired reads with one read mapping to the V segment and its mate mapping to the J segment. Then, a set of putative CDR3-originating reads are identified as the set of unmapped reads whose mates map to the V,J and C segments. Next, an iterative dynamic programming algorithm is used to reconstruct the CDR3 region with the putative CDR3 reads. The isotype of the BCR is then determined by running RSEM on the reconstructed sequence with all possible constant segments added to it. Finally, BRAPeS corrects for somatic hypermutations by collecting all reads aligning to the genomic CDR1, CDR2 and Framework sequences and aligning the reads against themselves to obtain a reconstruction of the consensus sequence.</p>
+
+<p>You can view and install BRAPeS from <a href="https://github.com/YosefLab/BRAPeS">GitHub</a>.</p>
+
+<p><br /></p>
+
+<h3 class="year">Relevant publications</h3>
+<hr />
+
+<div id="Reconstructing-B-cell-receptor-sequences-from-short-read-single-cell-RNA-sequencing-with-BRAPeS" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
+<div valign="top" style="overflow: hidden">
+  <b>Reconstructing B cell receptor sequences from short-read single cell RNA-sequencing with BRAPeS.</b><br />
+  S. Afik*, G. Raulet* and N. Yosef.
+<br />
+  <i>Life Science Alliance
+</i>
+  , 2019<br />
   
   
-  <div class="grid-item">
-    
-    <a href="/software/cassiopeia/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/cassiopeia.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">cassiopeia</h2>
-          <p class="card-text">Cas9-Enabled single cell lineage tracing tree reconstruction</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/compass/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/compass.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">compass</h2>
-          <p class="card-text">Metabolic modeling using single-cell transcriptomes</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/mpranalyze/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/mpranalyze.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">MPRAnalyze</h2>
-          <p class="card-text">Statistical framework for data generated by MPRAs</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/scone/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/scone.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">scone</h2>
-          <p class="card-text">Simulation of single-cell RNA-Seq data</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/scvi-tools/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/scvi.jpg" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">scvi-tools</h2>
-          <p class="card-text">single-cell variational inference tools</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/symsim/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/symsim.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">symsim</h2>
-          <p class="card-text">Simulation of single-cell RNA-Seq data</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/trapes/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/trapes.png" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">trapes + brapes</h2>
-          <p class="card-text">TCR + BCR reconstruction algorithms for paired-end data</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="grid-item">
-    
-    <a href="/software/vision/">
-    
-      <div class="card hoverable">
-        
-        <img src="/assets/project_img/vision.svg" alt="project thumbnail" />
-        
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">VISION</h2>
-          <p class="card-text">Functional interpretation for scRNA-seq data</p>
-          <div class="row ml-1 mr-1 p-0">
-            
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
-
-
+  
+  
+  <i class="ai ai-doi ai-fw"></i> <a href="https://doi.org/10.26508/lsa.201900371" target="_blank">10.26508/lsa.201900371</a><br />
+  
+  
+  
+  
+  
+  
+  
+    </div>
 </div>
+
+<div id="Targeted-reconstruction-of-T-cell-receptor-sequence-from-single-cell-RNA-seq-links-CDR3-length-to-T-cell-differentiation-state" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
+<div valign="top" style="overflow: hidden">
+  <b>Targeted reconstruction of T cell receptor sequence from single cell RNA-seq links CDR3 length to T cell differentiation state.</b><br />
+  S. Afik, K. Yates, K Bi, S. Darko, J. Godec, U. Gerdemann, L. Swadling, DC. Douek, P. Klenerman, EJ. Barnes, AH. Sharpe, N. Haining†, N. Yosef.
+<br />
+  <i>Nucleic Acids Research
+</i>
+  , 2017<br />
+  
+  
+  
+  
+  <i class="ai ai-doi ai-fw"></i> <a href="https://doi.org/doi.org/10.1093/nar/gkx615" target="_blank">doi.org/10.1093/nar/gkx615</a><br />
+  <i class="fab fa-github fa-fw"></i> <a href="https://github.com/YosefLab/TRAPeS" target="_blank">GitHub</a><br />
+  
+  
+  
+  
+  
+  
+    </div>
+</div>
+
 
   </article>
 
