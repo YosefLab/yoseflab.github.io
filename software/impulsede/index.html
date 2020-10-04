@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Yosef  Lab | ImpulseDE</title>
+<meta name="description" content="Website for the Yosef Lab at UC Berkeley.
+">
+
+<!-- Open Graph -->
+
+
+<!-- Bootstrap & MDB -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" integrity="sha512-RO38pBRxYH3SoOprtPTD86JFOclM51/XTIdEPh5j8sj4tp8jmQIx26twG52UaLi//hQldfrh7e51WzP9wuP32Q==" crossorigin="anonymous" />
+
+<!-- Fonts & Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+<!-- Code Syntax Highlighting -->
+<link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/github.css" />
+
+<!-- Styles -->
+<link rel="shortcut icon" href="/assets/img/favicon.ico">
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<link rel="canonical" href="/software/impulsede/">
+
+    
+<!-- MathJax -->
+<script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js"></script>
+<script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+
+  </head>
+
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+
+    <header>
+
+    <!-- Nav Bar -->
+    <nav id="navbar" class="navbar navbar-light bg-white navbar-expand-sm fixed-top">
+    <div class="container">
+      
+      <a class="navbar-brand title font-weight-lighter" href="/">
+       <span class="font-weight-bold">Yosef</span>   Lab
+      </a>
+      
+      <!-- Navbar Toogle -->
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <!-- About -->
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              about
+              
+            </a>
+          </li>
+          
+          <!-- Blog -->
+          <li class="nav-item ">
+            <a class="nav-link" href="/blog/">
+              blog
+              
+            </a>
+          </li>
+          
+          <!-- Other pages -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/people/">
+                people
+                
+              </a>
+          </li>
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/positions/">
+                positions
+                
+              </a>
+          </li>
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/publications/">
+                publications
+                
+              </a>
+          </li>
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/software/">
+                software
+                
+              </a>
+          </li>
+          
+          
+          
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+
+    <!-- Content -->
+
+    <div class="container mt-5">
+      <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">ImpulseDE</h1>
+    <p class="post-description">Differential expression for time-course data.</p>
+  </header>
+
+  <article>
+    <h3 id="de-with-an-impulse-model">DE with an impulse model</h3>
+
+<p>We have developed and implemented two differential expression algorithms tailored to time course bulk sequencing data: ImpulseDE and ImpulseDE2. The two methods are based on different statistical frameworks and are appropriate for different situations: ImpulseDE is based on a model-free error model and can be used for any type of time course measurement and may be used for micro array data for example. ImpulseDE2 is tailored to sequencing data (expected counts or counts) and therefore appropriate for RNA-seq, ATAC-seq and ChIP-seq.</p>
+
+<p>We have recently developed <a href="https://github.com/YosefLab/LineagePulse">LineagePulse</a>, which extends the model of ImpulseDE2 to identify genes that are differentially expressed in an ordered set of single cells.  LineagePulse is appropriate for use in singe cell RNA-seq data where cells are ordered according to predicted pseudotime.</p>
+
+<h3 id="impulsede2">ImpulseDE2</h3>
+
+<p>ImpulseDE2 can find non-constant expression trajectories which follow a unimodal (impulse) pattern or find trajectories which differ between two conditions (such as case and control). Moreover, ImpulseDE2 can find transiently up or down-regulated genes.</p>
+
+<p>ImpulseDE2 is an R Bioconductor package that can be accessed here. Detailed instructions for usage can be found in the vignette.</p>
+
+<p>Manuscript can be obtained from <a href="http://biorxiv.org/content/early/2017/03/05/113548">here</a>.</p>
+
+<h3 id="impulsede">ImpulseDE</h3>
+
+<p>ImpulseDE is an R Bioconductor package  for detecting differentially expressed genes whether for a single time course (analysis of differential expression behavior over time) or between two time courses (comparative analysis). It is based on the impulse model introduced by Chechik and Koller in 2009, which captures the impulse-like changes of gene expression typically observed for cells responding to perturbations or environmental changes.</p>
+
+<p><img src="/assets/project_img/impulsedebanner.png" alt="Banner" width="800" /></p>
+
+<h3 id="objective">Objective</h3>
+
+<p>To test for differential expression in case of a single time course experiment, we evaluate the extent by which the impulse model (representing the alternative hypothesis) fits the expression profile better than a flat line (null hypothesis). In the case of two time courses (case and control) we evaluate the extent to which two models (a separate model for each time course; representing the alternative hypothesis) describe the expression profile better than a single model (null hypothesis; for example, both data sets are generated by the same model (combined)).</p>
+
+<h3 id="input-requirements">Input requirements</h3>
+
+<ul>
+  <li>any kind or normalized high throughput expression data set, including microarray and RNA-Seq gene expression data as well as ChiP-seq data</li>
+  <li>at least six time points (required for model inference)</li>
+</ul>
+
+<h3 id="workflow">Workflow</h3>
+
+<ol>
+  <li>The genes are clustered (separately for each time course) using k-means, where k is determined iteratively to optimize the similarity of gene patterns within a cluster.</li>
+  <li>The parameters of the impulse model are fit to the mean expression profile of each cluster (minimizing the sum of squared error; SSE) using two different optimization strategies. Since both approaches return local optima, the analysis is repeated 50 times (default) for each strategy using different initializations for the parameters’ values.</li>
+  <li>The top three sets of parameters (out of the 100, default) for each cluster are used as starting points to fit the model to each gene separately.</li>
+  <li>Random sampling and bootstrapping is used (Storey et al. , 2005) in order to enable the determination of significance levels (evidences to reject the null hypothesis).</li>
+  <li>The resulting p-values are FDR-corrected (q-value) to account for multiple testing (Benjamini and Hochberg, 1995).</li>
+</ol>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>The implementation includes the use of multi-threading (running fits to different clusters or different randomized samples in parallel) to further reduce running time</li>
+</ul>
+
+<h3 id="availability">Availability</h3>
+
+<p>Manuscript can be obtained <a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/33/5/10.1093_bioinformatics_btw665/2/btw665.pdf?Expires=1489363127&amp;Signature=FZ7daxPpG-Jus-6WQdJveKpjnjfuT7oiCB4Lt42eMMh5G1Yn~puWwFVcu34oBtYj9-Aof4OkHqaRBGo5Sa6-YrgMdImI3RlLXlYm3k-OBqAPYZLSXu8jF4IpKelBA0ukyg5hEd-VKqcFuuhhLUcjFX2sYNgbGwrDa8OJZNdJoCDHHZAcCYEFTe17-~Q3~O3AdOvbOSSMIUn1axT4HihpwyENZ1K85wUS1NTDmeQH07U879R6vFM~iryAAwqWPL54eCiHYTPRPmCMLtAcNWLbo0RTON9r3enlJcLCuM-7xisSXFlXxmQ8aOHhDyAtikD0b~DJZ0NgevqXl8eAt~mf0Q__&amp;Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q">here</a>.</p>
+
+<p>Download it on <a href="https://github.com/YosefLab/ImpulseDE">GitHub</a>. ImpulseDE is also available on Bioconductor.
+<br />
+<br /></p>
+
+<h3 class="year">Relevant publications</h3>
+<hr />
+
+<div id="Impulse-model-based-differential-expression-analysis-of-time-course-sequencing-data" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
+<div valign="top" style="overflow: hidden">
+  <b>Impulse model-based differential expression analysis of time course sequencing data.</b><br />
+  DS Fischer,  FJ Theis, N. Yosef.
+<br />
+  <i>Nucleic Acids Research
+</i>
+  , 2018<br />
+  
+  
+  
+  
+  <i class="ai ai-doi ai-fw"></i> <a href="https://doi.org/10.1093/nar/gky675" target="_blank">10.1093/nar/gky675</a><br />
+  <i class="fab fa-github fa-fw"></i> <a href="https://github.com/Bioconductor-mirror/ImpulseDE2" target="_blank">GitHub</a><br />
+  
+  
+  
+  
+  
+  
+    </div>
+</div>
+
+<div id="ImpulseDE:-detection-of-differentially-expressed-genes-in-time-series-data-using-impulse-models/" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
+<div valign="top" style="overflow: hidden">
+  <b>ImpulseDE: detection of differentially expressed genes in time series data using impulse models/</b><br />
+  J. Sander, J. Schultze, N. Yosef.
+<br />
+  <i>Bioinformatics
+</i>
+  , 2016<br />
+  
+  
+  
+  
+  
+  <i class="fab fa-github fa-fw"></i> <a href="https://github.com/YosefLab/ImpulseDE" target="_blank">GitHub</a><br />
+  
+  
+  
+  
+  
+  
+    </div>
+</div>
+
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->
+
+    
+<footer class="fixed-bottom">
+  <div class="container mt-0">
+    &copy; Copyright 2020 Yosef  Lab.
+    Department of EECS, Center for Computational Biology, UC Berkeley. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+
+    
+  </div>
+</footer>
+
+
+
+  </body>
+
+  <!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
+  <!-- Bootsrap & MDB scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.4/umd/popper.min.js" integrity="sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A==" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js" integrity="sha512-Mug9KHKmroQFMLm93zGrjhibM2z2Obg9l6qFG2qKjXEXkMp/VDkI4uju9m4QKPjWSwQ6O2qzZEnJDEeCw0Blcw==" crossorigin="anonymous"></script>
+
+  
+<!-- Mansory & imagesLoaded -->
+<script defer src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script defer src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script defer src="/assets/js/mansory.js" type="text/javascript"></script>
+
+
+  
+
+
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+
+</html>
