@@ -355,6 +355,7 @@
   year: 2018
   doi: 10.1093/nar/gky675
   github: https://github.com/Bioconductor-mirror/ImpulseDE2
+  impulse: true
 
 - authors: "R. Lopez, J. Regier, M. Jordan, N. Yosef."
   title: "Information Constraints on Auto-Encoding Variational Bayes."
@@ -464,6 +465,7 @@
   year: 2016
   github: https://github.com/YosefLab/ImpulseDE
   extradetails: "Available on [Bioconductor](http://bioconductor.org/packages/3.4/bioc/html/ImpulseDE.html)"
+  impulse: true
 
 - title: "Convolutional Kitchen Sinks for Transcription Factor Binding Site Prediction"
   authors: "A. Morrow\\*, V. Shankar\\*, A. Joseph, B. Recht, and N. Yosef."
