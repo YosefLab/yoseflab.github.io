@@ -300,7 +300,6 @@
   title: "A joint model of unpaired data from scRNA-seq and spatial transcriptomics for imputing missing gene expression measurements."
   year: 2019
   arxiv: https://arxiv.org/pdf/1905.02269.pdf
-  preprint: true
   details: ICML 2019 Workshop on Computational Biology (spotlight presentation; best student's poster)
   scvitools: true
   openmaterials: https://github.com/ANazaret/gimvi-reproducibility
@@ -309,7 +308,6 @@
   title: "Deep Generative Models for Detecting Differential Expression in Single Cells."
   year: 2019
   biorxiv: https://www.biorxiv.org/content/10.1101/794289v1
-  preprint: true
   details: Machine Learning in Computational Biology meeting
   scvitools: true
 
@@ -317,7 +315,6 @@
   title: "Detecting Zero-Inflated Genes in Single-Cell Transcriptomics Data."
   year: 2019
   biorxiv: https://www.biorxiv.org/content/10.1101/794875v1
-  preprint: true
   details: Machine Learning in Computational Biology meeting (spotlight presentation)
   scvitools: true
   openmaterials: https://github.com/oscarclivio/AutoZI_reproducibility
@@ -327,7 +324,6 @@
   title: "A Joint Model of RNA Expression and Surface Protein Abundance in Single Cells"
   year: 2019
   biorxiv: https://www.biorxiv.org/content/10.1101/791947v1
-  preprint: true
   details: Machine Learning in Computational Biology meeting
 
 
