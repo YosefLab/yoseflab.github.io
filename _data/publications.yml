@@ -591,4 +591,122 @@
   details: Nano Letters
   year: 2012
   doi: 10.1021/nl3042917
-  
+
+- title: "Met kinetic signature derived from the response to HGF/SF in a cellular model predicts breast cancer patient survival"
+  authors: "G.Y. Stein, N. Yosef, H. Reichman, J. Horev, A. Laser-Azogui, A. Berens, J. Resau, E. Ruppin, R. Sharan and I. Tsarfaty."
+  details: PLoS One
+  year: 2012
+  doi: 10.1371/journal.pone.0045969
+
+# 2011
+
+- title: "Impulse control: Temporal dynamics in gene transcription"
+  authors: "N. Yosef, A. Regev."
+  details: Cell
+  year: 2011
+  extradetails: Included in Cell’s top reviews for 2011. Featured on journal’s cover.
+
+- title: "ANAT – A Software Tool for Reconstructing and Analyzing Functional Networks of Proteins"
+  authors: "N. Yosef, E. Zalckvar, N. Atias, AD. Rubinstein, M. Homilius, L. Vardi, H. Zur, A. Kimchi, E. Ruppin, and R. Sharan."
+  details: Science Signaling
+  year: 2011
+
+- title: "Densely Interconnected Transcriptional Circuits Control Cell States in Human Hematopoiesis"
+  authors: "N.Novershtern, A. Subramanian, L. Lawton, RH. Mak, W. Haining, ME. McConkey, N. Habib, N. Yosef, CY. Chang, T. Shay, GM. Frampton, ACB. Drake, I. Leskov, B. Nilsson, F. Preffer, D. Dombkowski, JW. Evans, T. Liefeld, JS. Smutko, J. Chen, N. Friedman, R. Young, T. Golub, A. Regev, BL. Ebert."
+  details: Cell
+  year: 2011
+
+- title: "Combinatorial patterning of chromatin regulators uncovered by genome-wide location analysis in human cells"
+  authors: O. Ram, A. Goren, I. Amit, N. Shoresh, N. Yosef, J. Ernst, M. Kellis, M. Gymrek, R. Issner, M. Coyne, T. Durham, X. Zhang, J. Donaghey, CB. Epstein, A. Regev, and BE. Bernstein.
+  details: Cell
+  year: 2011
+
+- title: "Systematic Discovery of Signaling Components Identifies New Branches in Viral-Sensing Pathways"
+  authors: N. Chevrier P. Mertins, MN Artyomov, AK Shalek, M Iannacone, MF Ciaccio, I Gat-Viks, E Tonti, MM DeGrace, KR Clauser, M Garber, TM Eisenhaure, N Yosef, JT Robinson, A Sutton, MS Andersen, DE Root  U von Andrian, RB Jones, H Park, SA Carr, A Regev, I Amit, N Hacohen.
+  details: Cell
+  year: 2011
+
+
+# 2010
+
+
+- title: "Network-free inference of knockout effects in yeast"
+  authors: "T. Peleg*, N. Yosef*, E. Ruppin, and R. Sharan."
+  details: PLoS Computational Biology
+  year: 2010
+
+- title: "Prediction of Phenotype Information from Genotype Data"
+  authors:  "N.Yosef, J. Gramm, Q. Wang, W.S. Noble, R. Karp, and R. Sharan."
+  details: Communications in Information and Systems
+  year: 2010
+
+- title: "A Systems Level Strategy for Analyzing the Cell Death Network: implications in exploring the apoptosis/ autophagy connection"
+  authors: "E. Zalckvar, N. Yosef, S. Reef, R. Sharan, E. Ruppin, and A. Kimchi."
+  details: Cell Death and Differentiation
+  year: 2010
+  doi: 10.1038/cdd.2010.7
+
+- title: "Transcription Regulation by CHIP/LDB Complexes"
+  authors: "R. Bronstein, L. Levkovitz, N. Yosef, E. Ruppin, R. Sharan, He. Westphal, B. Oliver, D. Segal."
+  details: PLoS Genetics
+  year: 2010
+
+- title: "A novel HMM-based method for detecting enriched transcription factor binding sites reveals RUNX3 as a potential target in pancreatic cancer biology"
+  authors: "L. Levkovitz, N. Yosef,  MC.  Gershengorn, E. Ruppin, R. Sharan and Y. Oron."
+  details: PLoS ONE
+  year: 2010
+
+# 2009 and earlier
+
+- title: "Toward Accurate Reconstruction of Functional Protein Networks"
+  authors: "N.Yosef\\*, L. ungar\\*, E. Zalckvar, A.Kimchi, M.Kupeic, E. Ruppin and R. Sharan."
+  details: Molecular Systems Biology
+  year: 2009
+
+- title: "A Complex-Centric View of Protein Network Evolution"
+  authors: "N.Yosef, M.Kupeic, E. Ruppin and R. Sharan."
+  details: Nucleic Acids Research
+  doi: 10.1093/nar/gkp414
+  year: 2009
+
+- title: "A genome-wide screen for essential yeast genes that affect telomere length maintenance"
+  authors: "L. Ungar\\*, N.Yosef\\*, Y. Sela, R. Sharan, E. Ruppin, M. Kupiec."
+  details: Nucleic Acids Research
+  doi: 10.1093/nar/gkp259
+  year: 2009
+
+- title: "Metabolic environmental modeling predicts ecological strategies for bacterial growth"
+  authors: "S. Freilich, A. Kreimer, E. Borenstein, N.Yosef, R. Sharan, U. Gophna, E. Ruppin."
+  details: Genome Biology
+  doi: 10.1186/gb-2009-10-6-r61
+  year: 2009
+
+- title: "Cross-species Analysis of Protein-protein Interaction Networks"
+  authors: "N.Yosef, E. Ruppin and R. Sharan."
+  details: "In Protein-protein interactions and networks: identification analysis and prediction, Panchenko& Przytycka (ed) pp 163-186. Springer"
+  year: 2008
+
+- title: "Improved Network-based Identification of Protein Orthologs"
+  authors: "N.Yosef, R. Sharan and W. S. Noble."
+  details: Bioinformatics 24 (ECCB 2008)
+  year: 2008
+
+- title: "From sequence to structure to networks"
+  authors: "N. Yosef, L. Käll."
+  details: Genome Biology
+  year: 2008
+
+- title: "A Supervised Approach for Identifying Discriminating Genotype Patterns and its Application to Breast Cancer Data"
+  authors: "N.Yosef, Z.Yakhini, A.Tsalenko, E.Ruppin and R.Sharan"
+  details: Bioinformatics 23 (ECCB 2006)
+  year: 2007
+
+- title: "Medical sequencing at the extremes of human body mass"
+  authors: "N. Ahituv, N. Kavaslar, W. Schackwitz, A. Ustaszewska, J. Martin, S. Hébert, H. Doelle, B. Ersoy, G. Kryukov, S. Schmidt, N. Yosef, E. Ruppin, R. Sharan, C. Vaisse, S. Sunyaev, R. Dent, J. Cohen, R. McPherson, and L.A. Pennacchio."
+  details: American Journal of Human Genetics
+  year: 2007
+
+- title: "Inferring Functional Pathways from Multi-Perturbation Data"
+  authors: "N. Yosef, A. Kaufman and E. Ruppin"
+  details: Bioinformatics (ISMB 2006)
+  year: 2006
