@@ -129,7 +129,7 @@
   altimage:
   position: Graduate student (Bioinformatics, UCSF); joint with [Jonathan Weissman](https://weissmanlab.ucsf.edu/)
   email: mattjones315 (at) berkeley.edu
-  website: mattjones315.github.io
+  website: https://mattjones315.github.io
   scholar: 0dvQ0rUAAAAJ&hl
   twitter: "mattjonesucsf"
   description:
@@ -187,6 +187,16 @@
   image: richardzhang.jpg
   altimage:
   position: Research & Design Engineer
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Yanay Rosen
+  degrees: 
+  image: yanayrosen.png
+  position: Undergraduate Researcher
   email:
   website:
   scholar:
