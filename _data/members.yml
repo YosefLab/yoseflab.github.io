@@ -125,7 +125,7 @@
 
 - name:  Matt Jones
   degrees:
-  image: matt_pic2.jpeg
+  image: matt_pic2.jpg
   altimage:
   position: Graduate student (Bioinformatics, UCSF); joint with [Jonathan Weissman](https://weissmanlab.ucsf.edu/)
   email: mattjones315 (at) berkeley.edu
@@ -194,7 +194,7 @@
   description:
 
 - name: Yanay Rosen
-  degrees: 
+  degrees:
   image: yanayrosen.png
   position: Undergraduate Researcher
   email:
