@@ -13,7 +13,7 @@ GEM
       latex-decode (~> 0.0)
     citeproc (1.0.10)
       namae (~> 1.0)
-    citeproc-ruby (1.1.12)
+    citeproc-ruby (1.1.13)
       citeproc (~> 1.0, >= 1.0.9)
       csl (~> 1.5)
     coffee-script (2.4.1)
@@ -28,7 +28,7 @@ GEM
       namae (~> 1.0)
     csl-styles (1.0.1.10)
       csl (~> 1.0)
-    dnsruby (1.61.4)
+    dnsruby (1.61.5)
       simpleidn (~> 0.1)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
@@ -219,7 +219,7 @@ GEM
       kramdown (~> 2.0)
     latex-decode (0.3.2)
     liquid (4.0.3)
-    listen (3.2.1)
+    listen (3.3.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
@@ -264,14 +264,14 @@ GEM
     thread_safe (0.3.6)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
-    tzinfo (1.2.7)
+    tzinfo (1.2.8)
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     unicode_utils (1.4.0)
-    zeitwerk (2.4.0)
+    zeitwerk (2.4.1)
 
 PLATFORMS
   ruby
