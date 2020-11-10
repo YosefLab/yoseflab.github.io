@@ -1,6 +1,129 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 # filetype options: "pdf - published version" "pdf - author manuscript version (peer-reviewed & edited)"...
 
+- authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
+  title: "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity."
+  details: bioRxiv
+  year: 2020
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.01.23.912717v1?rss=1
+  arxiv:
+  contentshare:
+  preprint: true
+  compass: true
+
+- authors: "C. Wang\\*, A. Wagner\\*, J. Fessler\\*, J. Avila-Pacheco, J. Karminski, P. Thakore, S. Zaghouani, K. Pierce, L. Bod, A. Schnell, D. DeTomaso, N. Ron-Harel, M. Haigis, D. Puleston, E.L. Pearce, M. Soleimani, R. Sobel, C. Clish, A. Regev, N. Yosef†, V.K. Kuchroo†."
+  title: "Metabolic and Epigenomic Regulation of Th17/Treg Balance by the Polyamine Pathway."
+  details: bioRxiv
+  year: 2020
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.01.23.911966v1?rss=1
+  arxiv:
+  contentshare:
+  preprint: true
+
+- authors: "D.J. Puleston, F. Baixauli, D.E. Sanin, M. Villa, A. Kabat, M.M. Kaminski, H. Weiss, K. Grzes, L.J. Flachsmann, C.S. Field, M. Stanckzak, L. Schimmelpfennig, F. Hassler, C. Wang, N. Yosef, V.K Kuchroo, Y. Musa, G. Mittler, J.M. Buescher, S. Balabanov, E.J. Pearce, D.R. Green, E.L. Pearce"
+  title: "Polyamine Metabolism Regulates the T Cell Epigenome Through Hypusination"
+  details: bioRxiv
+  year: 2020
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.01.24.918094v1
+  arxiv:
+  contentshare:
+  preprint: true
+
+- authors: "A. Gayoso\\*, Z. Steier\\*, R. Lopez, J. Regier, KL. Nazor, A. Streets†, N Yosef†"
+  title: "Joint probabilistic modeling of paired transcriptome and proteome measurements in single cells."
+  details: bioRxiv
+  year: 2020
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github: https://github.com/YosefLab/scvi-tools
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.05.08.083337v1
+  arxiv:
+  contentshare:
+  openmaterials: https://github.com/YosefLab/totalvi_reproducibility
+  scvitools: true
+  preprint: true
+
+- authors: "D. DeTomaso and N. Yosef"
+  title: "Identifying Informative Gene Modules Across Modalities of Single Cell Genomics."
+  details: bioRxiv
+  year: 2020
+  pmid:
+  pmcid:
+  openmaterials:
+  doi:
+  file:
+  filetype:
+  github: http://www.github.com/Yoseflab/Hotspot
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.02.06.937805v1
+  arxiv:
+  contentshare:
+  preprint: true
+
+- authors: "SL. Pompura\\*, A. Wagner\\*, A. Kitz, J. LaPerche, N. Yosef†, M. Dominguez-Villar†, DA, Hafler†"
+  title: "Oleic acid Induces Tissue Resident FoxP3 Regulatory T cell Lineage Stability and Suppressive Functions."
+  details: bioRxiv
+  year: 2020
+  pmid:
+  pmcid:
+  openmaterials:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.14.041525v1
+  arxiv:
+  contentshare:
+  preprint: true
+
+- authors: "N. Everetts\\*, MI .Worley\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
+  title: "Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions."
+  details: bioRxiv
+  year: 2020
+  pmid:
+  pmcid:
+  openmaterials:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://biorxiv.org/cgi/content/short/2020.07.27.222976v1
+  arxiv:
+  contentshare:
+  preprint: true
+
+- authors: "JJ. Quinn\\*, MG. Jones\\*, RA. Okimoto, S. Nanjo, MM. Chan, N. Yosef†, TG. Bivona†, JS. Weissman†"
+  title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.16.045245v3
+  github: https://github.com/YosefLab/Cassiopeia
+  details: bioRxiv
+  preprint: true
+  cassiopeia: true
+  
 - authors: "R. Lopez, P. Boyeau, N. Yosef, M. Jordan & J. Regier."
   title: "Decision-Making with Auto-Encoding Variational Bayes."
   year: 2020
@@ -13,7 +136,22 @@
   year: 2020
   doi: 10.15252/msb.20199198
   details: Molecular Systems Biology
-
+  
+  - authors: "C. Xu\\*, R. Lopez\\*, E. Mehlman\\*, J. Regier, M.I. Jordan, N. Yosef"
+  title: "Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models."
+  details: Molecular Systems Biology (in press)
+  year: 2020
+  pmid:
+  pmcid:
+  openmaterials: https://doi.org/10.5281/zenodo.2529945
+  doi:
+  file:
+  filetype:
+  github: https://github.com/YosefLab/scvi-tools
+  biorxiv: https://www.biorxiv.org/content/10.1101/532895v1
+  arxiv:
+  contentshare:
+  scvitools: true
 
 - authors: "D. Schafflick\\*, C. Xu\\*, M. Hartlehnert\\*, M. Cole\\*, T. Lautwein, K. Buscher, J.Wolbert, SG. Meuth, T. Kuhlmann, C. Gross, H. Wiendl, N. Yosef† , G.M zu Horste†"
   title: "Integrated single cell analysis of blood and cerebrospinal fluid leukocytes in multiple sclerosis."
@@ -86,146 +224,6 @@
   openaccess:
   doi: 10.1038/s41596-020-0333-5
   mpra: true
-
-- authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
-  title: "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity."
-  details: bioRxiv
-  year: 2020
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.01.23.912717v1?rss=1
-  arxiv:
-  contentshare:
-  preprint: true
-  compass: true
-
-- authors: "C. Wang\\*, A. Wagner\\*, J. Fessler\\*, J. Avila-Pacheco, J. Karminski, P. Thakore, S. Zaghouani, K. Pierce, L. Bod, A. Schnell, D. DeTomaso, N. Ron-Harel, M. Haigis, D. Puleston, E.L. Pearce, M. Soleimani, R. Sobel, C. Clish, A. Regev, N. Yosef†, V.K. Kuchroo†."
-  title: "Metabolic and Epigenomic Regulation of Th17/Treg Balance by the Polyamine Pathway."
-  details: bioRxiv
-  year: 2020
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.01.23.911966v1?rss=1
-  arxiv:
-  contentshare:
-  preprint: true
-
-- authors: "D.J. Puleston, F. Baixauli, D.E. Sanin, M. Villa, A. Kabat, M.M. Kaminski, H. Weiss, K. Grzes, L.J. Flachsmann, C.S. Field, M. Stanckzak, L. Schimmelpfennig, F. Hassler, C. Wang, N. Yosef, V.K Kuchroo, Y. Musa, G. Mittler, J.M. Buescher, S. Balabanov, E.J. Pearce, D.R. Green, E.L. Pearce"
-  title: "Polyamine Metabolism Regulates the T Cell Epigenome Through Hypusination"
-  details: bioRxiv
-  year: 2020
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.01.24.918094v1
-  arxiv:
-  contentshare:
-  preprint: true
-
-- authors: "A. Gayoso\\*, Z. Steier\\*, R. Lopez, J. Regier, KL. Nazor, A. Streets†, N Yosef†"
-  title: "Joint probabilistic modeling of paired transcriptome and proteome measurements in single cells."
-  details: bioRxiv
-  year: 2020
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github: https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.05.08.083337v1
-  arxiv:
-  contentshare:
-  openmaterials: https://github.com/YosefLab/totalvi_reproducibility
-  scvitools: true
-  preprint: true
-
-- authors: "C. Xu\\*, R. Lopez\\*, E. Mehlman\\*, J. Regier, M.I. Jordan, N. Yosef"
-  title: "Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models."
-  details: Molecular Systems Biology (in press)
-  year: 2020
-  pmid:
-  pmcid:
-  openmaterials: https://doi.org/10.5281/zenodo.2529945
-  doi:
-  file:
-  filetype:
-  github: https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/532895v1
-  arxiv:
-  contentshare:
-  scvitools: true
-  preprint: true
-
-- authors: "D. DeTomaso and N. Yosef"
-  title: "Identifying Informative Gene Modules Across Modalities of Single Cell Genomics."
-  details: bioRxiv
-  year: 2020
-  pmid:
-  pmcid:
-  openmaterials:
-  doi:
-  file:
-  filetype:
-  github: http://www.github.com/Yoseflab/Hotspot
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.02.06.937805v1
-  arxiv:
-  contentshare:
-  preprint: true
-
-- authors: "SL. Pompura\\*, A. Wagner\\*, A. Kitz, J. LaPerche, N. Yosef†, M. Dominguez-Villar†, DA, Hafler†"
-  title: "Oleic acid Induces Tissue Resident FoxP3 Regulatory T cell Lineage Stability and Suppressive Functions."
-  details: bioRxiv
-  year: 2020
-  pmid:
-  pmcid:
-  openmaterials:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.14.041525v1
-  arxiv:
-  contentshare:
-  preprint: true
-
-- authors: "N. Everetts\\*, MI .Worley\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
-  title: "Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions."
-  details: bioRxiv
-  year: 2020
-  pmid:
-  pmcid:
-  openmaterials:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://biorxiv.org/cgi/content/short/2020.07.27.222976v1
-  arxiv:
-  contentshare:
-  preprint: true
-
-- authors: "JJ. Quinn\\*, MG. Jones\\*, RA. Okimoto, S. Nanjo, MM. Chan, N. Yosef†, TG. Bivona†, JS. Weissman†"
-  title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.16.045245v3
-  github: https://github.com/YosefLab/Cassiopeia
-  details: bioRxiv
-  preprint: true
-  cassiopeia: true
 
 - authors: "F. Inoue\\*, A. Kreimer\\*, T. Ashuach, N. Ahituv†, N. Yosef†"
   title: "Identification and Massively Parallel Characterization of Regulatory Elements Driving Neural Induction."
