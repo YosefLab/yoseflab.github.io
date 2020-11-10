@@ -137,7 +137,7 @@
   doi: 10.15252/msb.20199198
   details: Molecular Systems Biology
   
-  - authors: "C. Xu\\*, R. Lopez\\*, E. Mehlman\\*, J. Regier, M.I. Jordan, N. Yosef"
+- authors: "C. Xu\\*, R. Lopez\\*, E. Mehlman\\*, J. Regier, M.I. Jordan, N. Yosef"
   title: "Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models."
   details: Molecular Systems Biology (in press)
   year: 2020
