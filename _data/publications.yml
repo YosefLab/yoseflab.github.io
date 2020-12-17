@@ -84,21 +84,6 @@
   contentshare:
   preprint: true
 
-- authors: "SL. Pompura\\*, A. Wagner\\*, A. Kitz, J. LaPerche, N. Yosef†, M. Dominguez-Villar†, DA, Hafler†"
-  title: "Oleic acid Induces Tissue Resident FoxP3 Regulatory T cell Lineage Stability and Suppressive Functions."
-  details: Journal of Clinical Immunology (In press)
-  year: 2020
-  pmid:
-  pmcid:
-  openmaterials:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.14.041525v1
-  arxiv:
-  contentshare:
-
 - authors: "N. Everetts\\*, MI .Worley\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
   title: "Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions."
   details: bioRxiv
@@ -115,13 +100,31 @@
   contentshare:
   preprint: true
 
+
+# 2020
+
+- authors: "SL. Pompura\\*, A. Wagner\\*, A. Kitz, J. LaPerche, N. Yosef†, M. Dominguez-Villar†, DA, Hafler†"
+  title: "Oleic acid Induces Tissue Resident FoxP3 Regulatory T cell Lineage Stability and Suppressive Functions."
+  details: Journal of Clinical Immunology (In press)
+  year: 2020
+  pmid:
+  pmcid:
+  openmaterials:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.14.041525v1
+  arxiv:
+  contentshare:
+
 - authors: "JJ. Quinn\\*, MG. Jones\\*, RA. Okimoto, S. Nanjo, MM. Chan, N. Yosef†, TG. Bivona†, JS. Weissman†"
   title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
   biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.16.045245v3
   github: https://github.com/YosefLab/Cassiopeia
   details: Science (In press)
   cassiopeia: true
-  
+
 - authors: "R. Lopez, P. Boyeau, N. Yosef, M. Jordan & J. Regier."
   title: "Decision-Making with Auto-Encoding Variational Bayes."
   year: 2020
@@ -134,7 +137,7 @@
   year: 2020
   doi: 10.15252/msb.20199198
   details: Molecular Systems Biology
-  
+
 - authors: "C. Xu\\*, R. Lopez\\*, E. Mehlman\\*, J. Regier, M.I. Jordan, N. Yosef"
   title: "Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models."
   details: Molecular Systems Biology (in press)
