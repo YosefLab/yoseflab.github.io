@@ -124,6 +124,7 @@
   github: https://github.com/YosefLab/Cassiopeia
   details: Science (In press)
   cassiopeia: true
+  year: 2020
 
 - authors: "R. Lopez, P. Boyeau, N. Yosef, M. Jordan & J. Regier."
   title: "Decision-Making with Auto-Encoding Variational Bayes."
