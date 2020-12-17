@@ -86,7 +86,7 @@
 
 - authors: "SL. Pompura\\*, A. Wagner\\*, A. Kitz, J. LaPerche, N. Yosef†, M. Dominguez-Villar†, DA, Hafler†"
   title: "Oleic acid Induces Tissue Resident FoxP3 Regulatory T cell Lineage Stability and Suppressive Functions."
-  details: bioRxiv
+  details: Journal of Clinical Immunology (In press)
   year: 2020
   pmid:
   pmcid:
@@ -98,7 +98,6 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.14.041525v1
   arxiv:
   contentshare:
-  preprint: true
 
 - authors: "N. Everetts\\*, MI .Worley\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
   title: "Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions."
@@ -120,8 +119,7 @@
   title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
   biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.16.045245v3
   github: https://github.com/YosefLab/Cassiopeia
-  details: bioRxiv
-  preprint: true
+  details: Science (In press)
   cassiopeia: true
   
 - authors: "R. Lopez, P. Boyeau, N. Yosef, M. Jordan & J. Regier."
