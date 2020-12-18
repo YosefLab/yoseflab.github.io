@@ -50,24 +50,6 @@
   contentshare:
   preprint: true
 
-- authors: "A. Gayoso\\*, Z. Steier\\*, R. Lopez, J. Regier, KL. Nazor, A. Streets†, N Yosef†"
-  title: "Joint probabilistic modeling of paired transcriptome and proteome measurements in single cells."
-  details: bioRxiv
-  year: 2020
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github: https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.05.08.083337v1
-  arxiv:
-  contentshare:
-  openmaterials: https://github.com/YosefLab/totalvi_reproducibility
-  scvitools: true
-  preprint: true
-
 - authors: "D. DeTomaso and N. Yosef"
   title: "Identifying Informative Gene Modules Across Modalities of Single Cell Genomics."
   details: bioRxiv
@@ -102,6 +84,23 @@
 
 
 # 2020
+
+- authors: "A. Gayoso\\*, Z. Steier\\*, R. Lopez, J. Regier, KL. Nazor, A. Streets†, N Yosef†"
+  title: "Joint probabilistic modeling of paired transcriptome and proteome measurements in single cells."
+  details: Nature Methods (In press)
+  year: 2020
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github: https://github.com/YosefLab/scvi-tools
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.05.08.083337v1
+  arxiv:
+  contentshare:
+  openmaterials: https://github.com/YosefLab/totalvi_reproducibility
+  scvitools: true
 
 - authors: "SL. Pompura\\*, A. Wagner\\*, A. Kitz, J. LaPerche, N. Yosef†, M. Dominguez-Villar†, DA, Hafler†"
   title: "Oleic acid Induces Tissue Resident FoxP3 Regulatory T cell Lineage Stability and Suppressive Functions."
