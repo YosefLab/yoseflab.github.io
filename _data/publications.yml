@@ -1,6 +1,22 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 # filetype options: "pdf - published version" "pdf - author manuscript version (peer-reviewed & edited)"...
 
+- authors: "H.W. Tsao\\*, J. Kaminski\\*, M. Kurachi, R.A. Barnitz, M.A. DiIorio, M.W. LaFleur, W. Ise, T. Kurosaki, E.J. Wherry, W.N. Haining†, N. Yosef†"
+  title: "Batf-mediated Epigenetic Control of Effector CD8+ T Cell Differentiation."
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.01.04.425241v1.full
+  arxiv:
+  contentshare:
+  preprint: true
+  
 - authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
   title: "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity."
   details: bioRxiv
