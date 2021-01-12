@@ -99,12 +99,12 @@
   preprint: true
 
 
-# 2020
+# 2021
 
 - authors: "A. Gayoso\\*, Z. Steier\\*, R. Lopez, J. Regier, KL. Nazor, A. Streets†, N Yosef†"
-  title: "Joint probabilistic modeling of paired transcriptome and proteome measurements in single cells."
+  title: "Joint probabilistic modeling of single-cell multi-omic data with totalVI."
   details: Nature Methods (In press)
-  year: 2020
+  year: 2021
   pmid:
   pmcid:
   openaccess:
@@ -117,6 +117,8 @@
   contentshare:
   openmaterials: https://github.com/YosefLab/totalvi_reproducibility
   scvitools: true
+
+# 2020
 
 - authors: "SL. Pompura\\*, A. Wagner\\*, A. Kitz, J. LaPerche, N. Yosef†, M. Dominguez-Villar†, DA, Hafler†"
   title: "Oleic acid Induces Tissue Resident FoxP3 Regulatory T cell Lineage Stability and Suppressive Functions."
