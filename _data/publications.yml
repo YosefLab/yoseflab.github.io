@@ -1,6 +1,21 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 # filetype options: "pdf - published version" "pdf - author manuscript version (peer-reviewed & edited)"...
 
+# 2021
+
+- authors: "JJ. Quinn\\*, MG. Jones\\*, RA. Okimoto, S. Nanjo, MM. Chan, N. Yosef†, TG. Bivona†, JS. Weissman†"
+  title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
+  year: 2021
+  doi: 10.1126/science.abc1944
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.16.045245v3
+  github: https://github.com/YosefLab/Cassiopeia
+  details: Science
+  preprint: false
+  cassiopeia: true
+
+
+# 2020
+
 - authors: "R. Lopez, P. Boyeau, N. Yosef, M. Jordan & J. Regier."
   title: "Decision-Making with Auto-Encoding Variational Bayes."
   year: 2020
@@ -218,14 +233,6 @@
   arxiv:
   contentshare:
   preprint: true
-
-- authors: "JJ. Quinn\\*, MG. Jones\\*, RA. Okimoto, S. Nanjo, MM. Chan, N. Yosef†, TG. Bivona†, JS. Weissman†"
-  title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.16.045245v3
-  github: https://github.com/YosefLab/Cassiopeia
-  details: bioRxiv
-  preprint: true
-  cassiopeia: true
 
 - authors: "F. Inoue\\*, A. Kreimer\\*, T. Ashuach, N. Ahituv†, N. Yosef†"
   title: "Identification and Massively Parallel Characterization of Regulatory Elements Driving Neural Induction."
