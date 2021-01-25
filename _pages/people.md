@@ -10,7 +10,7 @@ nav: true
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px; padding-left: 10px">
-    <img class="img-fluid" style="float: left; width: auto; padding-left: 20px; padding-right: 20px; min-width: 150px; max-width: 200px; max-height: 200px; padding-bottom: 10px" src="{{ person.image | prepend: '/assets/people_img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
+    <img class="img-fluid" style="float: left; width: auto; padding-left: 5px; padding-right: 20px; min-width: 100px; max-height: 185px; padding-bottom: 10px" src="{{ person.image | prepend: '/assets/people_img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
     <div>
         <h4>{{person.name}}{% if person.degrees %}, {{person.degrees}} {% endif %}</h4>
         {{person.position | markdownify}}
@@ -102,7 +102,7 @@ nav: true
 <!-- <div id = "{{alum.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px; padding-bottom: 20px;"> -->
   <strong>{{alum.name}}{% if alum.degrees %}, {{alum.degrees}} {% endif %}</strong> <br>
   <i>previously:</i> {{alum.previously}} <br>
-  <i>now:</i> {{alum.now}}<br>
+  <i>first position:</i> {{alum.now}}<br>
     {% if alum.website %} <i class="fa fa-globe"></i> <a href= "{{alum.website}}" target="_blank">{{alum.website}}</a>  {% endif %}
     {% for paper in site.data.publications %}
   {% if paper.authors contains alum.pubmed_name %}

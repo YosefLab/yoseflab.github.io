@@ -19,11 +19,11 @@
   scholar:
   twitter:
   description:
-  
-  
+
+
 - name:  Elior Rahmani
   degrees:
-  image: john_d.jpg
+  image: elior.jpg
   altimage:
   position: Postdoctoral associate
   email:
@@ -31,7 +31,7 @@
   scholar:
   twitter:
   description:
-  
+
 
 - name: Allon Wagner
   degrees:
@@ -49,9 +49,9 @@
   image: chenling.png
   altimage:
   position: Graduate student (CCB)
-  email:
+  email: chenlingantelope (at) gmail.com
   website:
-  scholar:
+  scholar: kybdHJ0AAAAJ
   twitter:
   description:
 
@@ -59,7 +59,7 @@
   degrees:
   image: zoe.jpg
   altimage:
-  position: Graduate student (BioE); joint with Aaron Streets
+  position: Graduate student (BioE); joint with [Aaron Streets](http://streetslab.berkeley.edu/)
   email: zsteier (at) berkeley.edu
   website:
   scholar: rX1q5VoAAAAJ
@@ -83,10 +83,10 @@
   image: alyssa.jpg
   altimage:
   position: Graduate student (EECS); joint with Anthony Joseph
-  email:
-  website:
+  email: akmorrow (at) berkeley.edu
+  website: alyssamorrow.com
   scholar:
-  twitter:
+  twitter: AlyssaKMorrow
   description:
 
 
@@ -101,9 +101,9 @@
   twitter:
   description:
 
-- name:    Nick Everetts
+- name:  Nick Everetts
   degrees:
-  image: john_d.jpg
+  image: nick.png
   altimage:
   position: Graduate student (CCB); joint with Iswar Hariharan
   email:
@@ -114,10 +114,10 @@
 
 - name:  Tal Ashuach
   degrees:
-  image: john_d.jpg
+  image: tal.jpg
   altimage:
   position: Graduate student (CCB)
-  email:
+  email: tal_ashuach (at) berkeley.edu
   website:
   scholar:
   twitter:
@@ -125,7 +125,7 @@
 
 - name:  Matt Jones
   degrees:
-  image: matt_pic2.jpeg
+  image: matt_pic2.jpg
   altimage:
   position: Graduate student (Bioinformatics, UCSF); joint with [Jonathan Weissman](https://weissmanlab.ucsf.edu/)
   email: mattjones315 (at) berkeley.edu
@@ -150,7 +150,7 @@
   degrees:
   image: adam.jpg
   altimage:
-  position: Graduate student (CCB); joint with Aaron Streets
+  position: Graduate student (CCB); joint with [Aaron Streets](http://streetslab.berkeley.edu/)
   email: adamgayoso (at) berekely.edu
   github:
   website: https://adamgayoso.com/
@@ -194,7 +194,7 @@
   description:
 
 - name: Yanay Rosen
-  degrees: 
+  degrees:
   image: yanayrosen.png
   position: Undergraduate Researcher
   email:

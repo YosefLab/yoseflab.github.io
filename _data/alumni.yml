@@ -6,6 +6,13 @@
   website:
   pubmed_name:
 
+- name: Xiuwei Zhang
+  degrees: PhD
+  previously: Postdoctoral Associate
+  now: Assistant Professor, School of Computational Science and Engineering, Georgia Institute of Technology
+  email:
+  website:
+  pubmed_name:
 
 - name: David Detomaso
   degrees: PhD
@@ -31,20 +38,10 @@
   website:
   pubmed_name:
 
-
-- name: Xiuwei Zhang
-  degrees: PhD
-  previously: Postdoctoral Associate
-  now: Assistant Professor, School of Computational Science and Engineering, Georgia Institute of Technology
-  email:
-  website:
-  pubmed_name:
-
-
 - name: Ali Sinan Koskal
   degrees: PhD
-  previously:
-  now:
+  previously: Graduate Student (EECS)
+  now: Google Brain
   email:
   website:
   pubmed_name:
@@ -60,7 +57,7 @@
 - name: David Fischer
   degrees: MS
   previously: Graduate student
-  now:
+  now: PhD student Computational Biology and Machine Learning, Helmholtz Zentrum München, Germany
   email:
   website:
   pubmed_name:
@@ -68,7 +65,7 @@
 - name: Zhongxia (Zee) Yan
   degrees: MS
   previously: Graduate student (EECS)
-  now:
+  now: PhD student, Computer Science, MIT
   email:
   website:
   pubmed_name:
