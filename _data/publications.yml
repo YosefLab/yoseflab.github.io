@@ -1,7 +1,7 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 # filetype options: "pdf - published version" "pdf - author manuscript version (peer-reviewed & edited)"...
 
-# 2021
+# PREPRINTS FIRST
 
 - authors: "H.W. Tsao\\*, J. Kaminski\\*, M. Kurachi, R.A. Barnitz, M.A. DiIorio, M.W. LaFleur, W. Ise, T. Kurosaki, E.J. Wherry, W.N. Haining†, N. Yosef†"
   title: "Batf-mediated Epigenetic Control of Effector CD8+ T Cell Differentiation."
@@ -18,19 +18,6 @@
   arxiv:
   contentshare:
   preprint: true
-
-- authors: "JJ. Quinn\\*, MG. Jones\\*, RA. Okimoto, S. Nanjo, MM. Chan, N. Yosef†, TG. Bivona†, JS. Weissman†"
-  title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
-  year: 2021
-  doi: 10.1126/science.abc1944
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.16.045245v3
-  github: https://github.com/YosefLab/Cassiopeia
-  details: Science
-  preprint: false
-  cassiopeia: true
-
-
-# 2020
   
 - authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
   title: "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity."
@@ -113,8 +100,17 @@
   contentshare:
   preprint: true
 
-
 # 2021
+
+- authors: "JJ. Quinn\\*, MG. Jones\\*, RA. Okimoto, S. Nanjo, MM. Chan, N. Yosef†, TG. Bivona†, JS. Weissman†"
+  title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
+  year: 2021
+  doi: 10.1126/science.abc1944
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.04.16.045245v3
+  github: https://github.com/YosefLab/Cassiopeia
+  details: Science
+  preprint: false
+  cassiopeia: true
 
 - authors: "A. Gayoso\\*, Z. Steier\\*, R. Lopez, J. Regier, KL. Nazor, A. Streets†, N Yosef†"
   title: "Joint probabilistic modeling of single-cell multi-omic data with totalVI."
