@@ -240,9 +240,6 @@
   arxiv:
   contentshare:
 
-<<<<<<< HEAD
-=======
-
 - authors: "Gordon, M. G., Inoue, F., Martin, B., Schubach, M., Agarwal, V., Whalen, S., Feng, S., Zhao, J., Ashuach, T., Ziffra, R., Kreimer, A., Georgakopoulous-Soares, I., Yosef, N., Ye, C. J., Pollard, K. S., Shendure, J., Kircher, M., & Ahituv, N."
   title: "LentiMPRA and MPRAflow for high-throughput functional characterization of gene regulatory elements."
   details: Nature Protocols
@@ -253,7 +250,6 @@
   doi: 10.1038/s41596-020-0333-5
   mpra: true
 
->>>>>>> de3ed83c5deab8e813b69178a4b731bf7291f139
 - authors: "F. Inoue\\*, A. Kreimer\\*, T. Ashuach, N. Ahituv†, N. Yosef†"
   title: "Identification and Massively Parallel Characterization of Regulatory Elements Driving Neural Induction."
   year: 2019
