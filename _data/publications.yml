@@ -3,6 +3,22 @@
 
 # PREPRINTS FIRST
 
+- authors: "M. Pawlak*, D. DeTomaso*, GM. zu Horste, Y. Lee, J. Nyman, D. Dionne, C. Wang, A. Wallrapp, PR. Burkett, SJ. Riesenfeld, AC. Anderson, A. Regev, RJ. Xavier, N. Yosef†, VK. Kuchroo†"
+  title: "Induction of a colitogenic phenotype in Th1 cells depends on IL-23R signaling."
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.01.24.426445v1.full
+  arxiv:
+  contentshare:
+  preprint: true
+  
 - authors: "LK. Lutes, Z. Steier, LL. McIntyre, S. Pandey, J. Kaminski, AR. Hoover, S. Ariotti, A. Streets, N. Yosef, EA. Robey"
   title: "T cell self-reactivity during thymic development dictates the timing of positive selection."
   details: bioRxiv
