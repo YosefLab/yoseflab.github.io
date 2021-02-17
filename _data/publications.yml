@@ -147,12 +147,12 @@
 
 - authors: "A. Gayoso\\*, Z. Steier\\*, R. Lopez, J. Regier, KL. Nazor, A. Streets†, N Yosef†"
   title: "Joint probabilistic modeling of single-cell multi-omic data with totalVI."
-  details: Nature Methods (In press)
+  details: Nature Methods
   year: 2021
   pmid:
   pmcid:
   openaccess:
-  doi:
+  doi: 10.1038/s41592-020-01050-x
   file:
   filetype:
   github: https://github.com/YosefLab/scvi-tools
