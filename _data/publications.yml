@@ -195,16 +195,15 @@
 
 - authors: "C. Xu\\*, R. Lopez\\*, E. Mehlman\\*, J. Regier, M.I. Jordan, N. Yosef"
   title: "Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models."
-  details: Molecular Systems Biology (in press)
+  details: Molecular Systems Biology
   year: 2020
   pmid:
   pmcid:
   openmaterials: https://doi.org/10.5281/zenodo.2529945
-  doi:
+  doi: 10.15252/msb.20209620
   file:
   filetype:
   github: https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/532895v1
   arxiv:
   contentshare:
   scvitools: true
