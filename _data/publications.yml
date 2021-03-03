@@ -181,20 +181,20 @@
   contentshare:
 
 - authors: "R. Lopez, P. Boyeau, N. Yosef, M. Jordan & J. Regier."
-  title: "Decision-Making with Auto-Encoding Variational Bayes."
+  title: "Decision-making with auto-encoding variational Bayes."
   year: 2020
   details: Advances in Neural Information Processing Systems
   github: https://github.com/PierreBoyeau/sbVAE
   arxiv: https://arxiv.org/abs/2002.07217
 
 - authors: "R. Lopez, A. Gayoso & N. Yosef."
-  title: "Enhancing Scientific Discoveries in Molecular Biology with Deep Generative Models."
+  title: "Enhancing scientific discoveries in molecular biology with deep generative models."
   year: 2020
   doi: 10.15252/msb.20199198
   details: Molecular Systems Biology
 
 - authors: "C. Xu\\*, R. Lopez\\*, E. Mehlman\\*, J. Regier, M.I. Jordan, N. Yosef"
-  title: "Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models."
+  title: "Probabilistic harmonization and annotation of single-cell transcriptomics data with deep generative models."
   details: Molecular Systems Biology
   year: 2020
   pmid:
@@ -348,7 +348,7 @@
   details: Nature
   cassiopeia: true
 
-- authors: "R. Lopez\\*, A. Nazaret\\*, M. Langevin\\*, J. Samaran*, J. Regier*, M.I. Jordan, N. Yosef"
+- authors: "R. Lopez\\*, A. Nazaret\\*, M. Langevin\\*, J. Samaran\\*, J. Regier\\*, M.I. Jordan, N. Yosef"
   title: "A joint model of unpaired data from scRNA-seq and spatial transcriptomics for imputing missing gene expression measurements."
   year: 2019
   arxiv: https://arxiv.org/pdf/1905.02269.pdf
@@ -357,14 +357,14 @@
   openmaterials: https://github.com/ANazaret/gimvi-reproducibility
 
 - authors: "P. Boyeau, R. Lopez, J. Regier, A. Gayoso, MI. Jordan, N. Yosef"
-  title: "Deep Generative Models for Detecting Differential Expression in Single Cells."
+  title: "Deep generative models for detecting differential expression in single cells."
   year: 2019
   biorxiv: https://www.biorxiv.org/content/10.1101/794289v1
   details: Machine Learning in Computational Biology meeting
   scvitools: true
 
 - authors: "O. Clivio, R. Lopez, J. Regier, A. Gayoso, MI. Jordan, N Yosef"
-  title: "Detecting Zero-Inflated Genes in Single-Cell Transcriptomics Data."
+  title: "Detecting zero-inflated genes in single-cell transcriptomics data."
   year: 2019
   biorxiv: https://www.biorxiv.org/content/10.1101/794875v1
   details: Machine Learning in Computational Biology meeting (spotlight presentation)
@@ -373,7 +373,7 @@
 
 
 - authors: "A. Gayoso, R. Lopez, ZR. Steier, J. Regier, AM Streets, N. Yosef"
-  title: "A Joint Model of RNA Expression and Surface Protein Abundance in Single Cells"
+  title: "A joint model of RNA expression and surface protein abundance in single cells"
   year: 2019
   biorxiv: https://www.biorxiv.org/content/10.1101/791947v1
   details: Machine Learning in Computational Biology meeting
@@ -382,7 +382,7 @@
   # 2018
 
 - authors: "R. Lopez, J. Regier, MB. Cole, M. Jordan, N. Yosef."
-  title: "Deep Generative Modeling for Single-cell Transcriptomics."
+  title: "Deep generative modeling for single-cell transcriptomics."
   details: Nature Methods
   year: 2018
   doi: 10.1038/s41592-018-0229-2
@@ -406,13 +406,13 @@
   impulse: true
 
 - authors: "R. Lopez, J. Regier, M. Jordan, N. Yosef."
-  title: "Information Constraints on Auto-Encoding Variational Bayes."
-  details: Advanced in Neural Information Processing Systems
+  title: "Information constraints on auto-encoding variational Bayes."
+  details: Advances in Neural Information Processing Systems
   arxiv: http://papers.nips.cc/paper/7850-information-constraints-on-auto-encoding-variational-bayes.pdf
   year: 2018
 
 - authors: "M. Langevin, E. Mehlman, J. Regier, R. Lopez, M. Jordan, N. Yosef."
-  title: "A Deep Generative Model for Semi-Supervised Classification with Noisy Labels."
+  title: "A deep generative model for semi-supervised classification with noisy labels."
   details: Bay Area Machine Learning Symposium (oral presentation)
   arxiv: https://arxiv.org/abs/1809.05957
   year: 2018
