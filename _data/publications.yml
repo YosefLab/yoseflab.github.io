@@ -102,21 +102,6 @@
   preprint: true
 
 
-- authors: "N. Everetts\\*, MI .Worley\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
-  title: "Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions."
-  details: bioRxiv
-  year: 2020
-  pmid:
-  pmcid:
-  openmaterials:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://biorxiv.org/cgi/content/short/2020.07.27.222976v1
-  arxiv:
-  contentshare:
-  preprint: true
 
 # 2021
 
@@ -159,6 +144,22 @@
   filetype:
   github: http://www.github.com/Yoseflab/Hotspot
   biorxiv: https://www.biorxiv.org/content/10.1101/2020.02.06.937805v1
+  arxiv:
+  contentshare:
+  preprint: false
+
+- authors: "N. Everetts\\*, MI .Worley\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
+  title: "Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions."
+  details: eLife;10:e61276 
+  year: 2021
+  pmid:
+  pmcid:
+  openmaterials:
+  doi: 10.7554/eLife.61276
+  file:
+  filetype:
+  github:
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
