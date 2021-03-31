@@ -19,6 +19,24 @@
   contentshare:
   preprint: true
   
+  
+  - authors: "H.W. Tsao\\*, J. Kaminski\\*, M. Kurachi, R.A. Barnitz, M.A. DiIorio, M.W. LaFleur, W. Ise, T. Kurosaki, E.J. Wherry, W.N. Haining†, N. Yosef†"
+  title: "Batf-mediated Epigenetic Control of Effector CD8+ T Cell Differentiation."
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.01.04.425241v1.full
+  arxiv:
+  contentshare:
+  preprint: true
+
+  
 - authors: "LK. Lutes, Z. Steier, LL. McIntyre, S. Pandey, J. Kaminski, AR. Hoover, S. Ariotti, A. Streets, N. Yosef, EA. Robey"
   title: "T cell self-reactivity during thymic development dictates the timing of positive selection."
   details: bioRxiv
@@ -31,23 +49,6 @@
   filetype:
   github:
   biorxiv: https://www.biorxiv.org/node/1744994.full
-  arxiv:
-  contentshare:
-  preprint: true
-
-
-- authors: "H.W. Tsao\\*, J. Kaminski\\*, M. Kurachi, R.A. Barnitz, M.A. DiIorio, M.W. LaFleur, W. Ise, T. Kurosaki, E.J. Wherry, W.N. Haining†, N. Yosef†"
-  title: "Batf-mediated Epigenetic Control of Effector CD8+ T Cell Differentiation."
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.01.04.425241v1.full
   arxiv:
   contentshare:
   preprint: true
