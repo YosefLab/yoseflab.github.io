@@ -36,23 +36,6 @@
   contentshare:
   preprint: true
 
-  
-- authors: "LK. Lutes, Z. Steier, LL. McIntyre, S. Pandey, J. Kaminski, AR. Hoover, S. Ariotti, A. Streets, N. Yosef, EA. Robey"
-  title: "T cell self-reactivity during thymic development dictates the timing of positive selection."
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/node/1744994.full
-  arxiv:
-  contentshare:
-  preprint: true
-
 
 - authors: "D.J. Puleston, F. Baixauli, D.E. Sanin, M. Villa, A. Kabat, M.M. Kaminski, H. Weiss, K. Grzes, L.J. Flachsmann, C.S. Field, M. Stanckzak, L. Schimmelpfennig, F. Hassler, C. Wang, N. Yosef, V.K Kuchroo, Y. Musa, G. Mittler, J.M. Buescher, S. Balabanov, E.J. Pearce, D.R. Green, E.L. Pearce"
   title: "Polyamine Metabolism Regulates the T Cell Epigenome Through Hypusination"
@@ -142,6 +125,23 @@
   pmcid:
   openmaterials:
   doi: 10.7554/eLife.61276
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  
+  
+- authors: "LK. Lutes, Z. Steier, LL. McIntyre, S. Pandey, J. Kaminski, AR. Hoover, S. Ariotti, A. Streets, N. Yosef, EA. Robey"
+  title: "T cell self-reactivity during thymic development dictates the timing of positive selection."
+  details: eLife
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.7554/eLife.65435
   file:
   filetype:
   github:
