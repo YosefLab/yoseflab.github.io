@@ -3,7 +3,7 @@
 
 # PREPRINTS FIRST
 
-- authors: "A. Gayoso\\*, R. Lopez\\*, G. Xing\\*, P. Boyeau, K. Wu, M. Jayasuriya, E. Melhman, M. Langevin, Y. Liu, J. Samaran, G. Misrachi, A. Nazaret, O. Clivio, C. Xu, T. Ashuach, M. Lotfollahi, V.Svensson, E. da Veiga Beltrame, C. Talavera-Lopez, L. Pachter, F.J. Theis, A. Streets, M.I. Jordan, J. Regier, N. Yosef†,"
+- authors: "A. Gayoso\\*, R. Lopez\\*, G. Xing\\*, P. Boyeau, K. Wu, M. Jayasuriya, E. Melhman, M. Langevin, Y. Liu, J. Samaran, G. Misrachi, A. Nazaret, O. Clivio, C. Xu, T. Ashuach, M. Lotfollahi, V.Svensson, E. da Veiga Beltrame, C. Talavera-Lopez, L. Pachter, F.J. Theis, A. Streets, M.I. Jordan, J. Regier, N. Yosef†"
   title: "scvi-tools: a library for deep probabilistic analysis of single-cell omics data."
   details: bioRxiv
   year: 2021
@@ -20,6 +20,23 @@
   preprint: true
   scvitools: true
 
+
+- authors: "T. Ashuach, DA. Reidenbach A. Gayoso, N. Yosef"
+  title: "PeakVI: A Deep Generative Model for Single Cell Chromatin Accessibility Analysis."
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/scvi-tools
+  biorxiv: https://www.biorxiv.org/content/2021/04/30/2021.04.29.442020
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
 
 - authors: "M. Pawlak\\*, D. DeTomaso\\*, GM. zu Horste, Y. Lee, J. Nyman, D. Dionne, C. Wang, A. Wallrapp, PR. Burkett, SJ. Riesenfeld, AC. Anderson, A. Regev, RJ. Xavier, N. Yosef†, VK. Kuchroo†"
   title: "Induction of a colitogenic phenotype in Th1 cells depends on IL-23R signaling."
