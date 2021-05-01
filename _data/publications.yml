@@ -21,7 +21,7 @@
   scvitools: true
 
 
-- authors: "T. Ashuach, DA. Reidenbach A. Gayoso, N. Yosef"
+- authors: "T. Ashuach, DA. Reidenbach, A. Gayoso, N. Yosef"
   title: "PeakVI: A Deep Generative Model for Single Cell Chromatin Accessibility Analysis."
   details: bioRxiv
   year: 2021
