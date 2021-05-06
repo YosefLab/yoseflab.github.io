@@ -92,6 +92,11 @@
 
 # 2021
 
+- authors: "M. Lotfollahi, M. Naghipourfar, M. D. Luecken, M. Khajavi, M. Büttner, M. Wagenstetter, Z. Avsec, A. Gayoso, N. Yosef, M. Interlandi,S. Rybakov, A.V. Misharin, F.J. Theis."
+  title: "Query to reference single-cell integration with transfer learning"
+  details: Nature Biotechnology (accepted)
+  preprint: false
+
 - authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
   title: "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity."
   details: Cell (accepted in principle)
