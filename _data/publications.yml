@@ -19,6 +19,23 @@
   contentshare:
   preprint: true
   scvitools: true
+  
+ - authors: "R. Lopez\\*, B. Li\\*, H. Keren-Shaul\\*, P. Boyeau, M. Kedmi, D. Pilzer, A.Jelinski, E. David, A. Wagner, Y. Addadi, M.I. Jordan, I. Amit†, N. Yosef†"
+  title: "Multi-resolution deconvolution of spatial transcriptomics data reveals continuous patterns of inflammation"
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/scvi-tools
+  biorxiv: doi.org/10.1101/2021.05.10.443517
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
 
 
 - authors: "T. Ashuach, DA. Reidenbach, A. Gayoso, N. Yosef"
@@ -91,12 +108,6 @@
 
 
 # 2021
-
-- authors: "M. Lotfollahi, M. Naghipourfar, M. D. Luecken, M. Khajavi, M. Büttner, M. Wagenstetter, Z. Avsec, A. Gayoso, N. Yosef, M. Interlandi,S. Rybakov, A.V. Misharin, F.J. Theis."
-  title: "Query to reference single-cell integration with transfer learning"
-  details: Nature Biotechnology (accepted)
-  year: 2021
-  preprint: false
 
 - authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
   title: "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity."
@@ -174,6 +185,11 @@
   contentshare:
   preprint: false
   
+- authors: "M. Lotfollahi, M. Naghipourfar, M. D. Luecken, M. Khajavi, M. Büttner, M. Wagenstetter, Z. Avsec, A. Gayoso, N. Yosef, M. Interlandi,S. Rybakov, A.V. Misharin, F.J. Theis."
+  title: "Query to reference single-cell integration with transfer learning"
+  details: Nature Biotechnology (accepted)
+  year: 2021
+  preprint: false
   
 - authors: "LK. Lutes, Z. Steier, LL. McIntyre, S. Pandey, J. Kaminski, AR. Hoover, S. Ariotti, A. Streets, N. Yosef, EA. Robey"
   title: "T cell self-reactivity during thymic development dictates the timing of positive selection."
