@@ -20,7 +20,7 @@
   preprint: true
   scvitools: true
   
- - authors: "R. Lopez\\*, B. Li\\*, H. Keren-Shaul\\*, P. Boyeau, M. Kedmi, D. Pilzer, A.Jelinski, E. David, A. Wagner, Y. Addadi, M.I. Jordan, I. Amit†, N. Yosef†"
+- authors: "R. Lopez\\*, B. Li\\*, H. Keren-Shaul\\*, P. Boyeau, M. Kedmi, D. Pilzer, A.Jelinski, E. David, A. Wagner, Y. Addadi, M.I. Jordan, I. Amit†, N. Yosef†"
   title: "Multi-resolution deconvolution of spatial transcriptomics data reveals continuous patterns of inflammation"
   details: bioRxiv
   year: 2021
