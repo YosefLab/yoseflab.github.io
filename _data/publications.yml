@@ -87,6 +87,22 @@
   arxiv:
   contentshare:
   preprint: true
+  
+- authors: "AK. Morrow, JW. Hughes, J. Singh, AD. Joseph, N. Yosef"
+  title: "Epitome: Predicting epigenetic events in novel cell types with multi-cell deep ensemble learning."
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.06.10.447140v1
+  arxiv:
+  contentshare:
+  preprint: true
 
 
 - authors: "D.J. Puleston, F. Baixauli, D.E. Sanin, M. Villa, A. Kabat, M.M. Kaminski, H. Weiss, K. Grzes, L.J. Flachsmann, C.S. Field, M. Stanckzak, L. Schimmelpfennig, F. Hassler, C. Wang, N. Yosef, V.K Kuchroo, Y. Musa, G. Mittler, J.M. Buescher, S. Balabanov, E.J. Pearce, D.R. Green, E.L. Pearce"
