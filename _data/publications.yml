@@ -104,11 +104,10 @@
   contentshare:
   preprint: true
 
-
-- authors: "D.J. Puleston, F. Baixauli, D.E. Sanin, M. Villa, A. Kabat, M.M. Kaminski, H. Weiss, K. Grzes, L.J. Flachsmann, C.S. Field, M. Stanckzak, L. Schimmelpfennig, F. Hassler, C. Wang, N. Yosef, V.K Kuchroo, Y. Musa, G. Mittler, J.M. Buescher, S. Balabanov, E.J. Pearce, D.R. Green, E.L. Pearce"
-  title: "Polyamine Metabolism Regulates the T Cell Epigenome Through Hypusination"
+- authors: "A. Kreimer\\*, T. Ashuach\\*, F. Inoue\\*, A. Khodaverdian, N. Yosef†, N. Ahituv†"
+  title: "Massively parallel reporter perturbation assay uncovers temporal regulatory architecture during neural differentiation."
   details: bioRxiv
-  year: 2020
+  year: 2021
   pmid:
   pmcid:
   openaccess:
@@ -116,7 +115,7 @@
   file:
   filetype:
   github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.01.24.918094v1
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.03.12.435197v1
   arxiv:
   contentshare:
   preprint: true
@@ -219,6 +218,22 @@
   filetype:
   github:
   biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  
+- authors: "D.J. Puleston, F. Baixauli, D.E. Sanin, M. Villa, A. Kabat, M.M. Kaminski, H. Weiss, K. Grzes, L.J. Flachsmann, C.S. Field, M. Stanckzak, L. Schimmelpfennig, F. Hassler, C. Wang, N. Yosef, V.K Kuchroo, Y. Musa, G. Mittler, J.M. Buescher, S. Balabanov, E.J. Pearce, D.R. Green, E.L. Pearce"
+  title: "Polyamine Metabolism Regulates the T Cell Epigenome Through Hypusination"
+  details: Cell (in press)
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2020.01.24.918094v1
   arxiv:
   contentshare:
   preprint: false
