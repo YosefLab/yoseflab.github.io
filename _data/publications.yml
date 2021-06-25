@@ -124,6 +124,26 @@
 
 # 2021
 
+- authors: "W. Gong\\*, AA Granados\\*, J Hu\\*, MG. Jones\\*, O. Raz\\*, I. Salvador-Martinez\\*, H. Zhang\\*,..., N. Yosef, J. Shendure, M. Telford, E. Shapiro, MB. Elowitz, P. Meyer"
+  title: "Benchmarked approaches for reconstruction of in vitro cell lineages and in silico models of C. elegans and M. musculus developmental trees."
+  year: 2021
+  doi: 10.1016/j.cels.2021.05.008
+  github: https://github.com/YosefLab/Cassiopeia
+  details: Cell Systems
+  preprint: false
+  cassiopeia: true
+
+- authors: "K. Ouardini, R. Lopez, MG. Jones, S. Prillo, R. Zhang, MI. Jordan, N. Yosef"
+  title: "Beconstructing unobserved cellular states from paired single-cell lineage tracing and transcriptomics data."
+  year: 2021
+  doi: 10.1101/2021.05.28.446021
+  github: https://github.com/YosefLab/Cassiopeia
+  details: ICML 2021 Workshop on Computational Biology
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.05.28.446021v1.abstract
+  preprint: false
+  cassiopeia: true
+  scvitools: true
+
 - authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
   title: "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity."
   details: Cell (in press)
