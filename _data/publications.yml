@@ -221,7 +221,7 @@
   preprint: false
   
 - authors: "M. Lotfollahi, M. Naghipourfar, M. D. Luecken, M. Khajavi, M. Büttner, M. Wagenstetter, Z. Avsec, A. Gayoso, N. Yosef, M. Interlandi,S. Rybakov, A.V. Misharin, F.J. Theis."
-  title: "Query to reference single-cell integration with transfer learning"
+  title: "Mapping single-cell data to reference atlases by transfer learning"
   details: Nature Biotechnology (accepted)
   year: 2021
   preprint: false
