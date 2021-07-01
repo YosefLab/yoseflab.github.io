@@ -32,26 +32,14 @@
   twitter:
   description:
 
-
 - name: Allon Wagner
   degrees:
   image: allon.png
   altimage:
-  position: Graduate student (EECS)
+  position: Postdoctoral associate
   email:
   website:
   scholar:
-  twitter:
-  description:
-
-- name: Chenling Antelope
-  degrees:
-  image: chenling.png
-  altimage:
-  position: Graduate student (CCB)
-  email: chenlingantelope (at) gmail.com
-  website:
-  scholar: kybdHJ0AAAAJ
   twitter:
   description:
 
@@ -64,41 +52,6 @@
   website:
   scholar: rX1q5VoAAAAJ
   twitter: zsteier
-  description:
-
-
-- name:  Romain Lopez
-  degrees:
-  image: romain.jpg
-  altimage:
-  position: Graduate student (EECS); joint with Michael I. Jordan
-  email: romain_lopez (at) berkeley.edu
-  website: https://romain-lopez.github.io/
-  scholar: 0AtmeCYAAAAJ&hl
-  twitter: _romain_lopez_
-  description:
-
-- name: Alyssa Morrow
-  degrees:
-  image: alyssa.jpg
-  altimage:
-  position: Graduate student (EECS); joint with Anthony Joseph
-  email: akmorrow (at) berkeley.edu
-  website: alyssamorrow.com
-  scholar:
-  twitter: AlyssaKMorrow
-  description:
-
-
-- name:  Carlos Buen Abad Najar
-  degrees:
-  image: carlos.jpg
-  altimage:
-  position: Graduate student (CCB); joint with Liana Lareau
-  email:
-  website:
-  scholar:
-  twitter:
   description:
 
 - name:  Nick Everetts
@@ -187,16 +140,6 @@
   image: richardzhang.jpg
   altimage:
   position: Research & Design Engineer
-  email:
-  website:
-  scholar:
-  twitter:
-  description:
-
-- name: Yanay Rosen
-  degrees:
-  image: yanayrosen.png
-  position: Undergraduate Researcher
   email:
   website:
   scholar:
