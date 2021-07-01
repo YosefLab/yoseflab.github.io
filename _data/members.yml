@@ -22,7 +22,7 @@
 
 
 - name:  Elior Rahmani
-  degrees:
+  degrees: PhD
   image: elior.jpg
   altimage:
   position: Postdoctoral associate
@@ -33,7 +33,7 @@
   description:
 
 - name: Allon Wagner
-  degrees:
+  degrees: PhD
   image: allon.png
   altimage:
   position: Postdoctoral associate
@@ -44,10 +44,10 @@
   description:
 
 - name: Zoë Steier
-  degrees:
+  degrees: PhD
   image: zoe.jpg
   altimage:
-  position: Graduate student (BioE); joint with [Aaron Streets](http://streetslab.berkeley.edu/)
+  position: Postdoctoral associate; joint with [Aaron Streets](http://streetslab.berkeley.edu/)
   email: zsteier (at) berkeley.edu
   website:
   scholar: rX1q5VoAAAAJ
@@ -120,19 +120,6 @@
   website: http://people.eecs.berkeley.edu/~sprillo/
   scholar: dvJiM_kAAAAJ&hl
   twitter: SebastianPrillo
-  description:
-
-
-- name:  Galen Xing
-  degrees:
-  image: galen.jpg
-  altimage:
-  position: Software engineer (CZI)
-  email: gx2113 (at) columbia.edu
-  website: https://galenxing.com/
-  scholar:
-  github: galenxing
-  twitter: GalenXing
   description:
 
 - name:  Richard Zhang
