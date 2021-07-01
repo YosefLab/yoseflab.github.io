@@ -89,7 +89,12 @@
   email:
   website:
   pubmed_name:
-
+  
+- name: [Galen Xing](https://galenxing.com/)
+  degrees: BA
+  previously: Software Engineer (CZI)
+  now: PhD student, Computational Biology, UC Berkeley
+  
 - name: Yanay Rosen
   degrees: BS
   previously: Undergraduate student (EECS)
