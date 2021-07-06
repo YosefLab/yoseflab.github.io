@@ -4,31 +4,34 @@
   now: Assistant Professor, Department of Biochemistry and Molecular Biology, Rutgers University
   email:
 
-- name: [Xiuwei Zhang](https://xiuweizhang.wordpress.com/)
+- name: Xiuwei Zhang
   degrees: PhD
   previously: Postdoctoral Associate
   now: Assistant Professor, School of Computational Science and Engineering, Georgia Institute of Technology
   email:
-  
+  website: https://xiuweizhang.wordpress.com/
+
 - name: Chenling Antelope
   degrees: PhD
   previously: Graduate student (CCB)
   now: Computational Biologist at Immunai
-  
-- name: [Alyssa Morrow](http://alyssamorrow.com/)
+
+- name: Alyssa Morrow
   degrees: PhD
   previously: Graduate student (EECS); joint with Anthony Joseph
   now: Scientist at Patch Biosciences
-  
+  website: http://alyssamorrow.com/
+
 - name:  Carlos Buen Abad Najar
   degrees: PhD
   previously: Graduate student (CCB); joint with Liana Lareau
   now: Postdoctoral associate, Li and Stephens labs, University of Chicago
 
-- name:  [Romain Lopez](https://romain-lopez.github.io/)
+- name:  Romain Lopez
   degrees: PhD
   previously: Graduate student (EECS); joint with Michael I. Jordan
   now: Postdoctoral scholar, Regev lab, Genentech, Pritchard lab, Stanford
+  website: https://romain-lopez.github.io/
 
 - name: David DeTomaso
   degrees: PhD
@@ -85,12 +88,13 @@
   email:
   website:
   pubmed_name:
-  
-- name: [Galen Xing](https://galenxing.com/)
+
+- name: Galen Xing
   degrees: BA
   previously: Software Engineer (CZI)
   now: PhD student, Computational Biology, UC Berkeley
-  
+  website: https://galenxing.com/
+
 - name: Yanay Rosen
   degrees: BS
   previously: Undergraduate student (EECS)
