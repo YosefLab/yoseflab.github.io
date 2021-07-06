@@ -6,15 +6,35 @@
   website:
   pubmed_name:
 
-- name: Xiuwei Zhang
+- name: [Xiuwei Zhang](https://xiuweizhang.wordpress.com/)
   degrees: PhD
   previously: Postdoctoral Associate
   now: Assistant Professor, School of Computational Science and Engineering, Georgia Institute of Technology
   email:
   website:
   pubmed_name:
+  
+- name: Chenling Antelope
+  degrees: PhD
+  previously: Graduate student (CCB)
+  now: Computational Biologist at Immunai
+  
+- name: [Alyssa Morrow](http://alyssamorrow.com/)
+  degrees: PhD
+  previously: Graduate student (EECS); joint with Anthony Joseph
+  now: Scientist at Patch Biosciences
+  
+- name:  Carlos Buen Abad Najar
+  degrees: PhD
+  previously: Graduate student (CCB); joint with Liana Lareau
+  now: Postdoctoral associate, Li and Stephens labs, University of Chicago
 
-- name: David Detomaso
+- name:  [Romain Lopez](https://romain-lopez.github.io/)
+  degrees: PhD
+  previously: Graduate student (EECS); joint with Michael I. Jordan
+  now: Postdoctoral scholar, Regev lab, Genentech, Pritchard lab, Stanford
+
+- name: David DeTomaso
   degrees: PhD
   previously: Graduate Student (CCB)
   now: Scientist at Arsenal Bio
@@ -69,3 +89,13 @@
   email:
   website:
   pubmed_name:
+  
+- name: [Galen Xing](https://galenxing.com/)
+  degrees: BA
+  previously: Software Engineer (CZI)
+  now: PhD student, Computational Biology, UC Berkeley
+  
+- name: Yanay Rosen
+  degrees: BS
+  previously: Undergraduate student (EECS)
+  now: PhD student, Computer Science, Stanford
