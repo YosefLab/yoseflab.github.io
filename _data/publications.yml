@@ -119,6 +119,22 @@
   arxiv:
   contentshare:
   preprint: true
+  
+ - authors: "MI .Worley\\*, N. Everetts\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
+  title: "Critical genetic program for Drosophila imaginal disc regeneration revealed by single-cell analysis."
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.08.451678v1?rss=1
+  arxiv:
+  contentshare:
+  preprint: true
 
 
 
