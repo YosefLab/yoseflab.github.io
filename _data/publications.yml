@@ -88,21 +88,6 @@
   contentshare:
   preprint: true
   
-- authors: "AK. Morrow, JW. Hughes, J. Singh, AD. Joseph, N. Yosef"
-  title: "Epitome: Predicting epigenetic events in novel cell types with multi-cell deep ensemble learning."
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.06.10.447140v1
-  arxiv:
-  contentshare:
-  preprint: true
 
 - authors: "A. Kreimer\\*, T. Ashuach\\*, F. Inoue\\*, A. Khodaverdian, N. Yosef†, N. Ahituv†"
   title: "Massively parallel reporter perturbation assay uncovers temporal regulatory architecture during neural differentiation."
@@ -136,13 +121,9 @@
   contentshare:
   preprint: true
 
-
-
-# 2021
-
-- authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
-  title: "In Silico Modeling of Metabolic State in Single Th17 Cells Reveals Novel Regulators of Inflammation and Autoimmunity."
-  details: Cell (in press)
+- authors: "CF. Buen Abad Najar, P. Burra, N. Yosef†, LF. Lareau†"
+  title: "Identifying cell-state associated alternative splicing events and their co-regulation"
+  details: bioRxiv
   year: 2021
   pmid:
   pmcid:
@@ -151,8 +132,27 @@
   file:
   filetype:
   github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2020.01.23.912717v1?rss=1
-  arxiv: https://www.biorxiv.org/content/10.1101/2020.01.23.911966v1?rss=1
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.23.453605v1?rss=1
+  arxiv:
+  contentshare:
+  preprint: true
+
+
+
+# 2021
+
+- authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
+  title: "Metabolic modeling of single Th17 cells reveals regulators of autoimmunity."
+  details: Cell 
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.cell.2021.05.045.
+  file:
+  filetype:
+  github:
+  biorxiv: 
   contentshare:
   preprint: false
   compass: true
@@ -184,6 +184,22 @@
   openmaterials: https://github.com/YosefLab/totalvi_reproducibility
   scvitools: true
 
+- authors: "AK. Morrow, JW. Hughes, J. Singh, AD. Joseph, N. Yosef"
+  title: "Epitome: Predicting epigenetic events in novel cell types with multi-cell deep ensemble learning."
+  details: Nucleic Acids Research (in press)
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.06.10.447140v1
+  arxiv:
+  contentshare:
+  preprint: false
+  
 - authors: "D. DeTomaso and N. Yosef"
   title: "Identifying Informative Gene Modules Across Modalities of Single Cell Genomics."
   details: Cell Systems
