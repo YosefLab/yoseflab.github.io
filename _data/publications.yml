@@ -151,7 +151,7 @@
   doi: 10.1016/j.cell.2021.05.045.
   file:
   filetype:
-  github:
+  github: https://github.com/YosefLab/Compass
   biorxiv: 
   contentshare:
   preprint: false
@@ -194,7 +194,7 @@
   doi:
   file:
   filetype:
-  github:
+  github: https://github.com/YosefLab/epitome
   biorxiv: https://www.biorxiv.org/content/10.1101/2021.06.10.447140v1
   arxiv:
   contentshare:
