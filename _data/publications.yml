@@ -156,7 +156,7 @@
   contentshare:
   preprint: false
   compass: true
-  extradetails: "Previewed in [*Cell*](https://www.sciencedirect.com/science/article/pii/S0092867421008382)"
+  extradetails: "Previewed in *Cell* [link](https://www.sciencedirect.com/science/article/pii/S0092867421008382)"
 
 - authors: "JJ. Quinn\\*, MG. Jones\\*, RA. Okimoto, S. Nanjo, MM. Chan, N. Yosef†, TG. Bivona†, JS. Weissman†"
   title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
@@ -290,7 +290,8 @@
   arxiv:
   contentshare:
   preprint: false
-  
+  extradetails: "Previewed in *Cell* [link](https://www.sciencedirect.com/science/article/pii/S0092867421008382)"
+
 - authors: "F. Wimmers, M. Donato, A. Kuo, T. Ashuach, S. Gupta, C. Li, M. Dvorak, MH. Foecke, SE. Chang, T. Hagan, SE. De Jong, HT. Maecker, R. van der Most, P. Cheung, M. Cortese, SE. Bosinger, M. Davis, N. Rouphael, S. Subramaniam, N. Yosef, PJ. Utz, P. Khatri, B. Pulendran"
   title: "The single-cell epigenomic and transcriptional landscape of immunity to influenza vaccination"
   details: Cell 
@@ -322,6 +323,7 @@
   github:
   arxiv:
   contentshare:
+  extradetails: "Highlighted in *The New England Journal of Medicine*, clinical implications of basic research [link](https://www.nejm.org/doi/full/10.1056/NEJMcibr2033544)"
 
 - authors: "R. Lopez, P. Boyeau, N. Yosef, M. Jordan & J. Regier."
   title: "Decision-making with auto-encoding variational Bayes."
