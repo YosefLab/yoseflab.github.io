@@ -8,8 +8,8 @@ For local development, you need to install Ruby and Jekyll. You can easily
 install these requirements in a conda environment:
 
 ```bash
-$ conda create -n Ruby ruby rb-jekyll
-$ source activate Ruby
+$ conda create -n Ruby ruby rb-jekyll -c conda-forge
+$ conda activate Ruby
 ```
 
 To view changes:
