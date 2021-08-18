@@ -140,6 +140,21 @@
 
 
 # 2021
+- authors: "A.K. Morrow, J.W. Hughes, J. Singh, A.D. Joseph, N. Yosef"
+  title: "Epitome: predicting epigenetic events in novel cell types with multi-cell deep ensemble learning."
+  details: Nucleic Acids Research
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi: https://doi.org/10.1093/nar/gkab676
+  file:
+  filetype:
+  github: https://github.com/YosefLab/epitome
+  biorxiv:
+  contentshare:
+  preprint: false
+  epitome: true
 
 - authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
   title: "Metabolic modeling of single Th17 cells reveals regulators of autoimmunity."
