@@ -59,12 +59,12 @@
   image: mariano.jpg
   altimage:
   position: Postdoctoral associate; joint with [Mike Jordan](https://people.eecs.berkeley.edu/~jordan/)
-  email: 
+  email:
   website:
   scholar:
   twitter:
   description:
-  
+
 - name:  Nick Everetts
   degrees:
   image: nick.png
@@ -127,13 +127,13 @@
   image: pierre.jpg
   altimage:
   position: Graduate student (EECS)
-  email: 
+  email:
   github:
-  website: 
-  scholar: 
-  twitter: 
+  website:
+  scholar:
+  twitter:
   description:
-  
+
 - name:  Sebastian Prillo
   degrees:
   image: sebastian_prillo.jpg
@@ -155,3 +155,15 @@
   scholar:
   twitter:
   description:
+
+- name:  Justin Hong
+  degrees:
+  image: justin.jpg
+  altimage:
+  position: ML Engineer
+  email: justinhong (at) berkeley.edu
+  website:
+  scholar:
+  twitter:
+  description:
+
