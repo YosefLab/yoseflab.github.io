@@ -160,10 +160,20 @@
   degrees:
   image: justin.jpg
   altimage:
-  position: ML Engineer
+  position: Research Engineer
   email: justinhong (at) berkeley.edu
   website:
   scholar:
   twitter:
   description:
 
+- name:  Valeh Valiollah Pour Amiri
+  degrees:
+  image: valeh.jpg
+  altimage:
+  position: Research Engineer
+  email: valehvpa (at) berkeley.edu
+  website:
+  scholar:
+  twitter:
+  description:
