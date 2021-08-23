@@ -55,7 +55,7 @@
   preprint: true
   scvitools: true
   
- - authors: "T. Ashuach*, M. Gabitto*, M. Jordan, N. Yosef"
+- authors: "T. Ashuach*, M. Gabitto*, M. Jordan, N. Yosef"
   title: "MultiVI: deep generative model for the integration of multi-modal data."
   details: bioRxiv
   year: 2021
