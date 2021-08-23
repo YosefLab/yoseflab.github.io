@@ -54,6 +54,23 @@
   contentshare:
   preprint: true
   scvitools: true
+  
+ - authors: "T. Ashuach*, M. Gabitto*, M. Jordan, N. Yosef"
+  title: "MultiVI: deep generative model for the integration of multi-modal data."
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/scvi-tools
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.08.20.457057v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
 
 - authors: "M. Pawlak\\*, D. DeTomaso\\*, GM. zu Horste, Y. Lee, J. Nyman, D. Dionne, C. Wang, A. Wallrapp, PR. Burkett, SJ. Riesenfeld, AC. Anderson, A. Regev, RJ. Xavier, N. Yosef†, VK. Kuchroo†"
   title: "Induction of a colitogenic phenotype in Th1 cells depends on IL-23R signaling."
@@ -140,21 +157,6 @@
 
 
 # 2021
-- authors: "A.K. Morrow, J.W. Hughes, J. Singh, A.D. Joseph, N. Yosef"
-  title: "Epitome: predicting epigenetic events in novel cell types with multi-cell deep ensemble learning."
-  details: Nucleic Acids Research
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi: https://doi.org/10.1093/nar/gkab676
-  file:
-  filetype:
-  github: https://github.com/YosefLab/epitome
-  biorxiv:
-  contentshare:
-  preprint: false
-  epitome: true
 
 - authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
   title: "Metabolic modeling of single Th17 cells reveals regulators of autoimmunity."
@@ -200,21 +202,21 @@
   openmaterials: https://github.com/YosefLab/totalvi_reproducibility
   scvitools: true
 
-- authors: "AK. Morrow, JW. Hughes, J. Singh, AD. Joseph, N. Yosef"
-  title: "Epitome: Predicting epigenetic events in novel cell types with multi-cell deep ensemble learning."
-  details: Nucleic Acids Research (in press)
+- authors: "A.K. Morrow, J.W. Hughes, J. Singh, A.D. Joseph, N. Yosef"
+  title: "Epitome: predicting epigenetic events in novel cell types with multi-cell deep ensemble learning."
+  details: Nucleic Acids Research
   year: 2021
   pmid:
   pmcid:
   openaccess:
-  doi:
+  doi: https://doi.org/10.1093/nar/gkab676
   file:
   filetype:
   github: https://github.com/YosefLab/epitome
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.06.10.447140v1
-  arxiv:
+  biorxiv:
   contentshare:
   preprint: false
+  epitome: true
   
 - authors: "D. DeTomaso and N. Yosef"
   title: "Identifying Informative Gene Modules Across Modalities of Single Cell Genomics."
