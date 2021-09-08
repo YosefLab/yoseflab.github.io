@@ -153,6 +153,38 @@
   arxiv:
   contentshare:
   preprint: true
+  
+ - authors: "The Tabula Sapiens Consortium, SR Quake"
+  title: "Identifying cell-state associated alternative splicing events and their co-regulation"
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2021.07.19.452956
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.19.452956v1
+  arxiv:
+  contentshare:
+  preprint: true
+  
+ - authors: "Z. Steier, LL. McIntyre, LK. Lutes, T Huang,  EA. Robey†, N. Yosef†, A. Streets†"
+  title: "Identifying cell-state associated alternative splicing events and their co-regulation"
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2021.07.12.452119
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.12.452119v1
+  arxiv:
+  contentshare:
+  preprint: true
 
 
 
@@ -272,7 +304,8 @@
   
 - authors: "M. Lotfollahi, M. Naghipourfar, M. D. Luecken, M. Khajavi, M. Büttner, M. Wagenstetter, Z. Avsec, A. Gayoso, N. Yosef, M. Interlandi,S. Rybakov, A.V. Misharin, F.J. Theis."
   title: "Mapping single-cell data to reference atlases by transfer learning"
-  details: Nature Biotechnology (accepted)
+  details: Nature Biotechnology 
+  doi: 10.1038/s41587-021-01001-7
   year: 2021
   preprint: false
   
