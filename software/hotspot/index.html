@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Yosef  Lab | VISION</title>
+<title>Yosef  Lab | hotspot</title>
 <meta name="description" content="Website for the Yosef Lab at UC Berkeley.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/software/vision/">
+<link rel="canonical" href="/software/hotspot/">
 
     
 <!-- MathJax -->
@@ -141,14 +141,14 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">VISION</h1>
-    <p class="post-description">Functional interpretation for scRNA-seq data</p>
+    <h1 class="post-title">hotspot</h1>
+    <p class="post-description">A tool for identifying informative genes (and gene modules) in a single-cell dataset.</p>
   </header>
 
   <article>
-    <p>VISION aids in the interpretation of single-cell RNA-seq (scRNA-seq) data by selecting for gene signatures which describe coordinated variation between cells. While the software only requires an expression matrix and a signature library (available in online databases), it is also designed to integrate into existing scRNA-seq analysis pipelines by taking advantage of precomputed dimensionality reductions, trajectory inferences or clustering results. The results of this analysis are made available through a dynamic web-app which can be shared with collaborators without requiring them to install any additional software.</p>
+    <p>Two fundamental aims that emerge when analyzing single-cell RNA-seq data are identifying which genes vary in an informative manner and determining how these genes organize into modules. Hotspot is a tool for identifying informative genes (and gene modules) in a single-cell dataset. Hotspot identifies these ‘informative’ genes based on how well a gene’s variation agrees with some cell metric - some similarity mapping between cells. Genes which are informative are those whose expression varies in similar way among cells which are nearby in the given metric.</p>
 
-<p>Please checkout the project on <a href="https://github.com/YosefLab/VISION">GitHub</a>.</p>
+<p>You can view and install the tool from <a href="https://github.com/YosefLab/Hotspot">GitHub</a>. For a more thorough description of the method, refer to our <a href="https://www.sciencedirect.com/science/article/pii/S2405471221001149">publication</a>.</p>
 
 <p><br />
 <br /></p>
@@ -179,43 +179,20 @@
     </div>
 </div>
 
-<div id="Functional-Interpretation-of-Single-Cell-Similarity-Maps" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
+<div id="Identifying-Informative-Gene-Modules-Across-Modalities-of-Single-Cell-Genomics" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
 <div valign="top" style="overflow: hidden">
-  <b>Functional Interpretation of Single-Cell Similarity Maps.</b><br />
-  D. Detomaso*, M. Jones*, M. Subramanian, J. Ye, N. Yosef.
+  <b>Identifying Informative Gene Modules Across Modalities of Single Cell Genomics.</b><br />
+  D. DeTomaso and N. Yosef
 <br />
-  <i>Nature Communications
+  <i>Cell Systems
 </i>
-  , 2019<br />
+  , 2021<br />
   
   
   
   
-  <i class="ai ai-doi ai-fw"></i> <a href="https://doi.org/10.1038/s41467-019-12235-0" target="_blank">10.1038/s41467-019-12235-0</a><br />
-  <i class="fab fa-github fa-fw"></i> <a href="https://github.com/YosefLab/VISION" target="_blank">GitHub</a><br />
-  
-  
-  
-  
-  
-  
-    </div>
-</div>
-
-<div id="FastProject:-A-Tool-for-Low-Dimensional-Analysis-of-Single-Cell-RNA-Seq-Data" class="clearfix" width="100%" style="padding-top: 5px; padding-bottom: 25px; clear: both;">
-<div valign="top" style="overflow: hidden">
-  <b>FastProject: A Tool for Low-Dimensional Analysis of Single-Cell RNA-Seq Data</b><br />
-  D. DeTomaso, N. Yosef.
-<br />
-  <i>BMC Bioinformatics
-</i>
-  , 2016<br />
-  
-  
-  
-  
-  <i class="ai ai-doi ai-fw"></i> <a href="https://doi.org/10.1186/s12859-016-1176-5" target="_blank">10.1186/s12859-016-1176-5</a><br />
-  <i class="fab fa-github fa-fw"></i> <a href="https://github.com/YosefLab/FastProject/" target="_blank">GitHub</a><br />
+  <i class="ai ai-doi ai-fw"></i> <a href="https://doi.org/10.1016/j.cels.2021.04.005" target="_blank">10.1016/j.cels.2021.04.005</a><br />
+  <i class="fab fa-github fa-fw"></i> <a href="http://www.github.com/Yoseflab/Hotspot" target="_blank">GitHub</a><br />
   
   
   
