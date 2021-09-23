@@ -145,6 +145,17 @@
   twitter: rrastogi02
   description:
 
+- name:  Kathy Wu
+  degrees:
+  image: kathy_wu.jpg
+  altimage:
+  position: Graduate student (EECS)
+  email: kathywu (at) berkeley.edu
+  website:
+  scholar:
+  twitter:
+  description:
+
 - name:  Richard Zhang
   degrees:
   image: richardzhang.jpg
