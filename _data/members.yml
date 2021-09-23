@@ -156,6 +156,17 @@
   twitter:
   description:
 
+- name:  Rohan Koodli
+  degrees:
+  image: rohan.jpg
+  altimage:
+  position: Master's student (EECS)
+  email: koodli (at) berkeley.edu
+  website: rk900.github.io
+  scholar: rYGYyCEAAAAJ&hl
+  twitter: "RohanKoodli"
+  description:
+
 - name:  Richard Zhang
   degrees:
   image: richardzhang.jpg
