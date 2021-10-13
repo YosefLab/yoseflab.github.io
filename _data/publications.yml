@@ -3,6 +3,23 @@
 
 # PREPRINTS FIRST
 
+- authors: "D. Yang\\*, MG. Jones\\*, S. Naranjo, WM. Rideout III, KH. Min, R. Ho, W. Wu, RM. Replogle, JL. Page, JJ. Quinn, F. Horns, X. Qiu, MZ. Chen, WA. Freed-Pastor, CS. McGinnis, DM. Patterson, ZJ. Gartner, ED. Chow, TG. Bivona, MM. Chan, N. Yosef†, T. Jacks†, JS. Weissman†"
+  title: "Lineage Recording Reveals the Phylodynamics, Plasticity and Paths of Tumor Evolution"
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:  https://github.com/mattjones315/KPTracer-release
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.10.12.464111v1
+  arxiv:
+  contentshare:
+  preprint: true
+  cassiopeia: true
+
 - authors: "MG. Jones\\*, Y. Rosen\\*, N. Yosef"
   title: "PhyloVision: Interactive Software for Integrated Analysis of Single-Cell Transcriptomic and Phylogenetic Data"
   details: bioRxiv
@@ -74,7 +91,7 @@
   preprint: true
   scvitools: true
   
-- authors: "T. Ashuach*, M. Gabitto*, M. Jordan, N. Yosef"
+- authors: "T. Ashuach\\*, M. Gabitto\\*, M. Jordan, N. Yosef"
   title: "MultiVI: deep generative model for the integration of multi-modal data."
   details: bioRxiv
   year: 2021
