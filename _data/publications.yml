@@ -238,6 +238,24 @@
   contentshare:
   preprint: true
 
+# 2022
+
+- authors: "V. Purohit, A. Wagner, N. Yosef, V.K. Kuchroo"
+  title: "Systems-based approaches to study immunometabolism."
+  details: Cellular & Molecular Immunology 
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: https://doi.org/10.1038/s41423-021-00783-9
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  contentshare:
+  preprint: false
+  compass: false
+  extradetails:
 
 
 # 2021
