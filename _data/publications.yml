@@ -88,7 +88,6 @@
   contentshare:
   preprint: true
 
-
 - authors: "MI .Worley\\*, N. Everetts\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
   title: "Critical genetic program for Drosophila imaginal disc regeneration revealed by single-cell analysis."
   details: bioRxiv
@@ -169,7 +168,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2021.04.28.441833v1
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true
   
 - authors: "R. Lopez\\*, B. Li\\*, H. Keren-Shaul\\*, P. Boyeau, M. Kedmi, D. Pilzer, A.Jelinski, E. David, A. Wagner, Y. Addadi, M.I. Jordan, I. Amit†, N. Yosef†"
@@ -189,7 +188,6 @@
   preprint: true
   scvitools: true
 
-
 - authors: "H.W. Tsao\\*, J. Kaminski\\*, M. Kurachi, R.A. Barnitz, M.A. DiIorio, M.W. LaFleur, W. Ise, T. Kurosaki, E.J. Wherry, W.N. Haining†, N. Yosef†"
   title: "Batf-mediated Epigenetic Control of Effector CD8+ T Cell Differentiation."
   details: Science Immunology (in press)
@@ -204,7 +202,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2021.01.04.425241v1.full
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   
 - authors: "V. Purohit, A. Wagner, N. Yosef, V.K. Kuchroo"
   title: "Systems-based approaches to study immunometabolism."
@@ -223,7 +221,6 @@
   compass: false
   extradetails:
 
-
 - authors: "T. Ashuach, DA. Reidenbach, A. Gayoso, N. Yosef"
   title: "PeakVI: A Deep Generative Model for Single Cell Chromatin Accessibility Analysis."
   details: Cell Reports Methods (accepted)
@@ -238,7 +235,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2021.04.29.442020v1
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true
   
 - authors: "A. Kreimer\\*, T. Ashuach\\*, F. Inoue\\*, A. Khodaverdian, N. Yosef†, N. Ahituv†"
@@ -255,7 +252,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2021.03.12.435197v1
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   
 # 2021
 
