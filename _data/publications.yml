@@ -185,7 +185,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2021.05.10.443517v1
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true
 
 - authors: "H.W. Tsao\\*, J. Kaminski\\*, M. Kurachi, R.A. Barnitz, M.A. DiIorio, M.W. LaFleur, W. Ise, T. Kurosaki, E.J. Wherry, W.N. Haining†, N. Yosef†"
