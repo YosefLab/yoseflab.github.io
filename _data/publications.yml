@@ -155,7 +155,7 @@
 # 2022
 
 - authors: "A. Gayoso\\*, R. Lopez\\*, G. Xing\\*, P. Boyeau, V. Valiollah Pour Amiri, J. Hong, K. Wu, M. Jayasuriya, E. Melhman, M. Langevin, Y. Liu, J. Samaran, G. Misrachi, A. Nazaret, O. Clivio, C. Xu, T. Ashuach, M. Lotfollahi, V.Svensson, E. da Veiga Beltrame, V. Kleshchevnikov, C. Talavera-Lopez, L. Pachter, F.J. Theis, A. Streets, M.I. Jordan, J. Regier, N. Yosef"
-  title: A Python library for probabilistic analysis of single-cell omics data."
+  title: "A Python library for probabilistic analysis of single-cell omics data."
   details: Nature Biotechnology
   year: 2022
   pmid:
