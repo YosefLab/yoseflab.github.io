@@ -32,4 +32,14 @@ $ conda install clangxx_osx-64
 $ export CONDA_BUILD_SYSROOT=$(xcrun --show-sdk-path)
 ```
 
+If you are using Ruby 3.0 and getting the following error during `bundle exec jekyll serve`:
+```bash
+	bundler: failed to load command: jekyll
+````
+
+you should run
+```bash
+	bundler: bundle add webrick
+````
+
 Update lab member info in `_data/members.yml`, publication info in `_data/publications.yml`.
