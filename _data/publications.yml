@@ -263,6 +263,24 @@
   contentshare:
   preprint: false
   
+- authors: "A. Gupta, F. Shamsi, N. Altemose, GF. Dorlhiac, AM. Cypess, AP. White, N. Yosef, ME. Patti, Y. Tseng, A. Streets"
+  title: "Characterization of transcript enrichment and detection bias in single-nucleus RNA-seq for mapping of distinct human adipocyte lineages"
+  details: Genome Research
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/gr.275509.121
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false  
+  
+
+  
 # 2021
 
 - authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
