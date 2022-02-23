@@ -279,8 +279,39 @@
   contentshare:
   preprint: false  
   
-
+- authors: "DJ. Bangs, A. Tsitsiklis, Z. Steier, SW. Chan, J. Kaminski, A. Streets, N. Yosef, EA. Robey"
+  title: "CXCR3 regulates stem and proliferative CD8+ T cells during chronic infection by promoting interactions with DCs in splenic bridging channels"
+  details: Cell Reports
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.celrep.2021.110266
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false 
   
+  
+- authors: "RM. Jong, E. Van Dis, SB. Berry, X. Nguyenla, A. Baltodano, G. Pastenkos, C. Xu, D. Fox, N. Yosef, SM. McWhirter, SA. Stanley"
+  title: "Mucosal Vaccination with Cyclic Dinucleotide Adjuvants Induces Effective T Cell Homing and IL-17–Dependent Protection against Mycobacterium tuberculosis Infection"
+  details: J Immunol
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.4049/jimmunol.2100029
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false 
+
 # 2021
 
 - authors: "A. Wagner\\*, C. Wang\\*, D. DeTomaso, J. Avila-Pacheco, S. Zaghouani, J. Fessler, E. Akama-Garren, K. Pierce, N. Ron-Harel, V. Paraskevi Douglas, M. Haigis, R.A. Sobel, C. Clish, A. Regev, V.K. Kuchroo†, N. Yosef†"
@@ -452,6 +483,23 @@
   arxiv:
   contentshare:
   preprint: false
+  
+- authors: "Gaidt, M.M., Morrow, A., Fairgrieve, M.R, Karr, J.P, Yosef, N. Vance, R.E"
+  title: "Self-guarding of MORC3 enables virulence factor-triggered immunity"
+  details: Nature 
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s41586-021-04054-5
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  
   
 # 2020
 
