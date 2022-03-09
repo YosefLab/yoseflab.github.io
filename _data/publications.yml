@@ -35,25 +35,6 @@
   contentshare:
   preprint: true
   cassiopeia: true
-
-- authors: "MG. Jones\\*, Y. Rosen\\*, N. Yosef"
-  title: "PhyloVision: Interactive Software for Integrated Analysis of Single-Cell Transcriptomic and Phylogenetic Data"
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:  https://github.com/YosefLab/VISION
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.09.13.460142v1
-  arxiv:
-  contentshare:
-  preprint: true
-  cassiopeia: true
-  hotspot: true
-  vision: true
   
 - authors: "T. Ashuach\\*, M. Gabitto\\*, M. Jordan, N. Yosef"
   title: "MultiVI: deep generative model for the integration of multi-modal data."
@@ -246,6 +227,25 @@
   contentshare:
   preprint: false
   scvitools: true
+
+- authors: "MG. Jones\\*, Y. Rosen\\*, N. Yosef"
+  title: "PhyloVision: Interactive Software for Integrated Analysis of Single-Cell Transcriptomic and Phylogenetic Data"
+  details: Cell Reports Methods (accepted)
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/VISION
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.09.13.460142v1
+  arxiv:
+  contentshare:
+  preprint: false
+  cassiopeia: true
+  hotspot: true
+  vision: true
   
 - authors: "A. Kreimer\\*, T. Ashuach\\*, F. Inoue\\*, A. Khodaverdian, N. Yosef†, N. Ahituv†"
   title: "Massively parallel reporter perturbation assay uncovers temporal regulatory architecture during neural differentiation."
