@@ -14,8 +14,13 @@
 - name:  Tal Ashuach
   degrees: PhD
   previously: Graduate student (CCB)
-  now: Scientist at Patch Biosciences 
+  now: Machine Learning Scientist at Patch Biosciences 
   
+- name:  Nick Everetts
+  degrees: PhD
+  previously: Graduate student (CCB); joint with [Iswar Hariharan](https://mcb.berkeley.edu/labs/hariharan)
+  now: Postdoc at Hariharan lab
+
 - name: Zoë Steier
   degrees: PhD
   previously: Graduate student (BioE); joint with [Aaron Streets](http://streetslab.berkeley.edu/)
@@ -29,7 +34,7 @@
 - name: Alyssa Morrow
   degrees: PhD
   previously: Graduate student (EECS); joint with Anthony Joseph
-  now: Scientist at Patch Biosciences
+  now: Machine Learning Scientist at Patch Biosciences
   website: http://alyssamorrow.com/
 
 - name:  Carlos Buen Abad Najar
