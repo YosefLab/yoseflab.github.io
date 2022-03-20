@@ -84,22 +84,6 @@
   arxiv:
   contentshare:
   preprint: true
-
-- authors: "CF. Buen Abad Najar, P. Burra, N. Yosef†, LF. Lareau†"
-  title: "Identifying cell-state associated alternative splicing events and their co-regulation"
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.23.453605v1?rss=1
-  arxiv:
-  contentshare:
-  preprint: true
   
 - authors: "The Tabula Sapiens Consortium, SR Quake"
   title: "The Tabula Sapiens: a single cell transcriptomic atlas of multiple organs from individual human donors"
@@ -190,6 +174,22 @@
   filetype:
   github:
   biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+
+- authors: "CF. Buen Abad Najar, P. Burra, N. Yosef†, LF. Lareau†"
+  title: "Identifying cell-state associated alternative splicing events and their co-regulation"
+  details: Genome Research (accepted)
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.23.453605v1?rss=1
   arxiv:
   contentshare:
   preprint: false
