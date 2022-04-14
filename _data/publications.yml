@@ -217,16 +217,16 @@
 
 - authors: "T. Ashuach, DA. Reidenbach, A. Gayoso, N. Yosef"
   title: "PeakVI: A Deep Generative Model for Single Cell Chromatin Accessibility Analysis."
-  details: Cell Reports Methods (accepted)
+  details: Cell Reports Methods 
   year: 2022
   pmid:
   pmcid:
   openaccess:
-  doi:
+  doi: 10.1016/j.crmeth.2022.100182
   file:
   filetype:
   github:  https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.04.29.442020v1
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
@@ -234,7 +234,7 @@
 
 - authors: "MG. Jones\\*, Y. Rosen\\*, N. Yosef"
   title: "PhyloVision: Interactive Software for Integrated Analysis of Single-Cell Transcriptomic and Phylogenetic Data"
-  details: Cell Reports Methods (accepted)
+  details: Cell Reports Methods (in press)
   year: 2022
   pmid:
   pmcid:
@@ -245,7 +245,7 @@
   github:  https://github.com/YosefLab/VISION
   biorxiv: https://www.biorxiv.org/content/10.1101/2021.09.13.460142v1
   arxiv:
-  contentshare:
+  contentshare: https://zenodo.org/record/6354747
   preprint: false
   cassiopeia: true
   hotspot: true
