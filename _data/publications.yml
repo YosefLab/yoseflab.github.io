@@ -19,23 +19,6 @@
   preprint: true
   cassiopeia: true
   
-- authors: "D. Yang\\*, MG. Jones\\*, S. Naranjo, WM. Rideout III, KH. Min, R. Ho, W. Wu, RM. Replogle, JL. Page, JJ. Quinn, F. Horns, X. Qiu, MZ. Chen, WA. Freed-Pastor, CS. McGinnis, DM. Patterson, ZJ. Gartner, ED. Chow, TG. Bivona, MM. Chan, N. Yosef†, T. Jacks†, JS. Weissman†"
-  title: "Lineage Recording Reveals the Phylodynamics, Plasticity and Paths of Tumor Evolution"
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:  https://github.com/mattjones315/KPTracer-release
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.10.12.464111v1
-  arxiv:
-  contentshare:
-  preprint: true
-  cassiopeia: true
-  
 - authors: "T. Ashuach\\*, M. Gabitto\\*, M. Jordan, N. Yosef"
   title: "MultiVI: deep generative model for the integration of multi-modal data."
   details: bioRxiv
@@ -84,22 +67,8 @@
   arxiv:
   contentshare:
   preprint: true
-  
-- authors: "The Tabula Sapiens Consortium, SR Quake"
-  title: "The Tabula Sapiens: a single cell transcriptomic atlas of multiple organs from individual human donors"
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2021.07.19.452956
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.19.452956v1
-  arxiv:
-  contentshare:
-  preprint: true
+ 
+
   
 - authors: "Z. Steier, LL. McIntyre, LK. Lutes, T Huang,  EA. Robey†, N. Yosef†, A. Streets†"
   title: "Single-cell multi-omic analysis of thymocyte development reveals NFAT as a driver of CD4/CD8 lineage commitment"
@@ -118,15 +87,6 @@
   preprint: true
 
 # 2022
-
-- authors: "E. Rahmani, MI. Jordan, N. Yosef"
-  title: "Identifying systematic variation at the single-cell level by leveraging low-resolution population-level data."
-  year: 2022
-  doi: 
-  github: https://github.com/YosefLab/keris
-  details: RECOMB
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.01.27.478115v1
-  preprint: false
 
 - authors: "A. Gayoso\\*, R. Lopez\\*, G. Xing\\*, P. Boyeau, V. Valiollah Pour Amiri, J. Hong, K. Wu, M. Jayasuriya, E. Melhman, M. Langevin, Y. Liu, J. Samaran, G. Misrachi, A. Nazaret, O. Clivio, C. Xu, T. Ashuach, M. Lotfollahi, V.Svensson, E. da Veiga Beltrame, V. Kleshchevnikov, C. Talavera-Lopez, L. Pachter, F.J. Theis, A. Streets, M.I. Jordan, J. Regier, N. Yosef"
   title: "A Python library for probabilistic analysis of single-cell omics data."
@@ -178,6 +138,50 @@
   contentshare:
   preprint: false
 
+ 
+- authors: "D. Yang\\*, MG. Jones\\*, S. Naranjo, WM. Rideout III, KH. Min, R. Ho, W. Wu, RM. Replogle, JL. Page, JJ. Quinn, F. Horns, X. Qiu, MZ. Chen, WA. Freed-Pastor, CS. McGinnis, DM. Patterson, ZJ. Gartner, ED. Chow, TG. Bivona, MM. Chan, N. Yosef†, T. Jacks†, JS. Weissman†"
+  title: "Lineage Recording Reveals the Phylodynamics, Plasticity and Paths of Tumor Evolution"
+  details: Cell (in press)
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:  https://github.com/mattjones315/KPTracer-release
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.10.12.464111v1
+  arxiv:
+  contentshare:
+  preprint: false
+  cassiopeia: true
+  
+- authors: "The Tabula Sapiens Consortium"
+  title: "The Tabula Sapiens: a single cell transcriptomic atlas of multiple organs from individual human donors"
+  details: Science (in press)
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2021.07.19.452956
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.19.452956v1
+  arxiv:
+  contentshare:
+  preprint: false
+  
+  
+- authors: "E. Rahmani, MI. Jordan, N. Yosef"
+  title: "Identifying systematic variation at the single-cell level by leveraging low-resolution population-level data."
+  year: 2022
+  doi: 
+  github: https://github.com/YosefLab/keris
+  details: RECOMB
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.01.27.478115v1
+  preprint: false
+  
 - authors: "CF. Buen Abad Najar, P. Burra, N. Yosef†, LF. Lareau†"
   title: "Identifying cell-state associated alternative splicing events and their co-regulation"
   details: Genome Research (accepted)
