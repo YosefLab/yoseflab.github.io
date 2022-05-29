@@ -3,6 +3,39 @@
 
 # PREPRINTS FIRST
 
+- authors: "P. Boyeau,  J. Regier,  A. Gayoso, M.I. Jordan, R. Lopez, N. Yosef"
+  title: "An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models"
+  details: bioRxiv
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.05.27.493625v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
+  
+- authors: "T. Ashuach\\*, M. Gabitto\\*, M. Jordan, N. Yosef"
+  title: "MultiVI: deep generative model for the integration of multi-modal data."
+  details: bioRxiv
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/scvi-tools
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.08.20.457057v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
+
 - authors: "R. Wang\\*, RY. Zhang\\*, A. Khodaverdian\\*, Nir Yosef"
   title: "Theoretical Guarantees for Phylogeny Inference from Single-Cell Lineage Tracing"
   details: bioRxiv
@@ -68,7 +101,6 @@
   contentshare:
   preprint: true
  
-
   
 - authors: "Z. Steier, LL. McIntyre, LK. Lutes, T Huang,  EA. Robey†, N. Yosef†, A. Streets†"
   title: "Single-cell multi-omic analysis of thymocyte development reveals NFAT as a driver of CD4/CD8 lineage commitment"
@@ -106,17 +138,17 @@
   scvitools: true
   
 - authors: "R. Lopez\\*, B. Li\\*, H. Keren-Shaul\\*, P. Boyeau, M. Kedmi, D. Pilzer, A.Jelinski, E. David, A. Wagner, Y. Addadi, M.I. Jordan, I. Amit†, N. Yosef†"
-  title: "Multi-resolution deconvolution of spatial transcriptomics data reveals continuous patterns of inflammation"
-  details: Nature Biotechnology (accepted)
+  title: "DestVI identifies continuums of cell types in spatial transcriptomics data"
+  details: Nature Biotechnology
   year: 2022
   pmid:
   pmcid:
   openaccess:
-  doi:
+  doi: 10.1038/s41587-022-01272-8
   file:
   filetype:
   github:  https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.05.10.443517v1
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
@@ -140,17 +172,17 @@
 
  
 - authors: "D. Yang\\*, MG. Jones\\*, S. Naranjo, WM. Rideout III, KH. Min, R. Ho, W. Wu, RM. Replogle, JL. Page, JJ. Quinn, F. Horns, X. Qiu, MZ. Chen, WA. Freed-Pastor, CS. McGinnis, DM. Patterson, ZJ. Gartner, ED. Chow, TG. Bivona, MM. Chan, N. Yosef†, T. Jacks†, JS. Weissman†"
-  title: "Lineage Recording Reveals the Phylodynamics, Plasticity and Paths of Tumor Evolution"
-  details: Cell (in press)
+  title: "Lineage tracing reveals the phylodynamics, plasticity, and paths of tumor evolution"
+  details: Cell 
   year: 2022
   pmid:
   pmcid:
   openaccess:
-  doi:
+  doi: 10.1016/j.cell.2022.04.015
   file:
   filetype:
   github:  https://github.com/mattjones315/KPTracer-release
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.10.12.464111v1
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
@@ -158,16 +190,16 @@
   
 - authors: "The Tabula Sapiens Consortium"
   title: "The Tabula Sapiens: a single cell transcriptomic atlas of multiple organs from individual human donors"
-  details: Science (in press)
+  details: Science 
   year: 2022
   pmid:
   pmcid:
   openaccess:
-  doi: 10.1101/2021.07.19.452956
+  doi: 10.1126/science.abq2116
   file:
   filetype:
   github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.19.452956v1
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
@@ -184,7 +216,7 @@
   
 - authors: "CF. Buen Abad Najar, P. Burra, N. Yosef†, LF. Lareau†"
   title: "Identifying cell-state associated alternative splicing events and their co-regulation"
-  details: Genome Research (accepted)
+  details: Genome Research 
   year: 2022
   pmid:
   pmcid:
