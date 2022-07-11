@@ -22,7 +22,7 @@
 - authors: "T. Ashuach\\*, M. Gabitto\\*, M. Jordan, N. Yosef"
   title: "MultiVI: deep generative model for the integration of multi-modal data."
   details: bioRxiv
-  year: 2021
+  year: 2022
   pmid:
   pmcid:
   openaccess:
@@ -39,7 +39,7 @@
 - authors: "R. Wang\\*, RY. Zhang\\*, A. Khodaverdian\\*, Nir Yosef"
   title: "Theoretical Guarantees for Phylogeny Inference from Single-Cell Lineage Tracing"
   details: bioRxiv
-  year: 2021
+  year: 2022
   pmid:
   pmcid:
   openaccess:
@@ -52,22 +52,22 @@
   preprint: true
   cassiopeia: true
   
-- authors: "T. Ashuach\\*, M. Gabitto\\*, M. Jordan, N. Yosef"
-  title: "MultiVI: deep generative model for the integration of multi-modal data."
+- authors: "A. Khodaverdian and N. Yosef
+  title: "Directed Shortest Walk on Temporal Graphs"
   details: bioRxiv
-  year: 2021
+  year: 2022
   pmid:
   pmcid:
   openaccess:
-  doi:
+  doi: 10.1101/2022.07.08.499368
   file:
   filetype:
-  github:  https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.08.20.457057v1
+  github:  https://github.com/YosefLab/temporal_condition_shortest_walk
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.07.08.499368v1
   arxiv:
   contentshare:
   preprint: true
-  scvitools: true
+  scvitools: false
 
 - authors: "M. Pawlak\\*, D. DeTomaso\\*, GM. zu Horste, Y. Lee, J. Nyman, D. Dionne, C. Wang, A. Wallrapp, PR. Burkett, SJ. Riesenfeld, AC. Anderson, A. Regev, RJ. Xavier, N. Yosef†, VK. Kuchroo†"
   title: "Induction of a colitogenic phenotype in Th1 cells depends on IL-23R signaling."
@@ -81,22 +81,6 @@
   filetype:
   github:
   biorxiv: https://www.biorxiv.org/content/10.1101/2021.01.24.426445v1.full
-  arxiv:
-  contentshare:
-  preprint: true
-
-- authors: "MI .Worley\\*, N. Everetts\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
-  title: "Critical genetic program for Drosophila imaginal disc regeneration revealed by single-cell analysis."
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.08.451678v1?rss=1
   arxiv:
   contentshare:
   preprint: true
@@ -291,6 +275,22 @@
   pmcid:
   openaccess:
   doi: 0.1038/s41467-022-28659-0
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+
+- authors: "MI .Worley\\*, N. Everetts\\*, R. Yasutomi, RJ. Chang, S. Saretha, N. Yosef†, IK. Hariharan†"
+  title: "Ets21C sustains a pro-regenerative transcriptional program in blastema cells of Drosophila imaginal discs."
+  details: Current Biology
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.cub.2022.06.040
   file:
   filetype:
   github:
