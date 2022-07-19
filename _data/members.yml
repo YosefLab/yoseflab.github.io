@@ -25,10 +25,10 @@
   degrees: PhD
   image: elior.jpg
   altimage:
-  position: Postdoctoral associate
+  position: Postdoctoral associate; joint with [Mike Jordan](https://people.eecs.berkeley.edu/~jordan/)
   email:
-  website:
-  scholar:
+  website: https://eliorrahmani.com
+  scholar: WDhy9ZAAAAAJ
   twitter:
   description:
 
@@ -49,28 +49,6 @@
   altimage:
   position: Postdoctoral associate; joint with [Mike Jordan](https://people.eecs.berkeley.edu/~jordan/)
   email:
-  website:
-  scholar:
-  twitter:
-  description:
-
-- name:  Nick Everetts
-  degrees:
-  image: nick.png
-  altimage:
-  position: Graduate student (CCB); joint with Iswar Hariharan
-  email:
-  website:
-  scholar:
-  twitter:
-  description:
-
-- name:  Tal Ashuach
-  degrees:
-  image: tal.jpg
-  altimage:
-  position: Graduate student (CCB)
-  email: tal_ashuach (at) berkeley.edu
   website:
   scholar:
   twitter:
@@ -218,5 +196,38 @@
   email: mjayasur (at) berkeley.edu
   website:
   scholar: 
+  twitter:
+  description:
+
+- name: Akshay Ravoor
+  degrees:
+  image: akshay.jpg
+  altimage:
+  position: Undergraduate researcher
+  email: akshayr (at) berkeley.edu
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Wilson Wu
+  degrees:
+  image: wilson.jpeg
+  altimage:
+  position: Undergraduate researcher
+  email: nosliw (at) berkeley.edu
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Samuel Alber
+  degrees:
+  image: samuel.jpg
+  altimage:
+  position: Undergraduate researcher
+  email: salber (at) berkeley.edu
+  website:
+  scholar:
   twitter:
   description:

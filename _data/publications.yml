@@ -3,89 +3,17 @@
 
 # PREPRINTS FIRST
 
-- authors: "D. Yang\\*, MG. Jones\\*, S. Naranjo, WM. Rideout III, KH. Min, R. Ho, W. Wu, RM. Replogle, JL. Page, JJ. Quinn, F. Horns, X. Qiu, MZ. Chen, WA. Freed-Pastor, CS. McGinnis, DM. Patterson, ZJ. Gartner, ED. Chow, TG. Bivona, MM. Chan, N. Yosef†, T. Jacks†, JS. Weissman†"
-  title: "Lineage Recording Reveals the Phylodynamics, Plasticity and Paths of Tumor Evolution"
+- authors: "P. Boyeau,  J. Regier,  A. Gayoso, M.I. Jordan, R. Lopez, N. Yosef"
+  title: "An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models"
   details: bioRxiv
-  year: 2021
+  year: 2022
   pmid:
   pmcid:
   openaccess:
   doi:
   file:
   filetype:
-  github:  https://github.com/mattjones315/KPTracer-release
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.10.12.464111v1
-  arxiv:
-  contentshare:
-  preprint: true
-  cassiopeia: true
-
-- authors: "MG. Jones\\*, Y. Rosen\\*, N. Yosef"
-  title: "PhyloVision: Interactive Software for Integrated Analysis of Single-Cell Transcriptomic and Phylogenetic Data"
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:  https://github.com/YosefLab/VISION
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.09.13.460142v1
-  arxiv:
-  contentshare:
-  preprint: true
-  cassiopeia: true
-  hotspot: true
-  vision: true
-
-- authors: "A. Gayoso\\*, R. Lopez\\*, G. Xing\\*, P. Boyeau, K. Wu, M. Jayasuriya, E. Melhman, M. Langevin, Y. Liu, J. Samaran, G. Misrachi, A. Nazaret, O. Clivio, C. Xu, T. Ashuach, M. Lotfollahi, V.Svensson, E. da Veiga Beltrame, C. Talavera-Lopez, L. Pachter, F.J. Theis, A. Streets, M.I. Jordan, J. Regier, N. Yosef"
-  title: "scvi-tools: a library for deep probabilistic analysis of single-cell omics data."
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:  https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.04.28.441833v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
-  
-- authors: "R. Lopez\\*, B. Li\\*, H. Keren-Shaul\\*, P. Boyeau, M. Kedmi, D. Pilzer, A.Jelinski, E. David, A. Wagner, Y. Addadi, M.I. Jordan, I. Amit†, N. Yosef†"
-  title: "Multi-resolution deconvolution of spatial transcriptomics data reveals continuous patterns of inflammation"
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:  https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.05.10.443517v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
-
-
-- authors: "T. Ashuach, DA. Reidenbach, A. Gayoso, N. Yosef"
-  title: "PeakVI: A Deep Generative Model for Single Cell Chromatin Accessibility Analysis."
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:  https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.04.29.442020v1
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.05.27.493625v1
   arxiv:
   contentshare:
   preprint: true
@@ -94,7 +22,7 @@
 - authors: "T. Ashuach\\*, M. Gabitto\\*, M. Jordan, N. Yosef"
   title: "MultiVI: deep generative model for the integration of multi-modal data."
   details: bioRxiv
-  year: 2021
+  year: 2022
   pmid:
   pmcid:
   openaccess:
@@ -107,6 +35,39 @@
   contentshare:
   preprint: true
   scvitools: true
+
+- authors: "R. Wang\\*, RY. Zhang\\*, A. Khodaverdian\\*, Nir Yosef"
+  title: "Theoretical Guarantees for Phylogeny Inference from Single-Cell Lineage Tracing"
+  details: bioRxiv
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.11.21.469464v1
+  arxiv:
+  contentshare:
+  preprint: true
+  cassiopeia: true
+  
+- authors: "A. Khodaverdian and N. Yosef"
+  title: "Directed Shortest Walk on Temporal Graphs"
+  details: bioRxiv
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2022.07.08.499368
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/temporal_condition_shortest_walk
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.07.08.499368v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
 
 - authors: "M. Pawlak\\*, D. DeTomaso\\*, GM. zu Horste, Y. Lee, J. Nyman, D. Dionne, C. Wang, A. Wallrapp, PR. Burkett, SJ. Riesenfeld, AC. Anderson, A. Regev, RJ. Xavier, N. Yosef†, VK. Kuchroo†"
   title: "Induction of a colitogenic phenotype in Th1 cells depends on IL-23R signaling."
@@ -123,88 +84,7 @@
   arxiv:
   contentshare:
   preprint: true
-
-
-- authors: "H.W. Tsao\\*, J. Kaminski\\*, M. Kurachi, R.A. Barnitz, M.A. DiIorio, M.W. LaFleur, W. Ise, T. Kurosaki, E.J. Wherry, W.N. Haining†, N. Yosef†"
-  title: "Batf-mediated Epigenetic Control of Effector CD8+ T Cell Differentiation."
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.01.04.425241v1.full
-  arxiv:
-  contentshare:
-  preprint: true
-  
-
-- authors: "A. Kreimer\\*, T. Ashuach\\*, F. Inoue\\*, A. Khodaverdian, N. Yosef†, N. Ahituv†"
-  title: "Massively parallel reporter perturbation assay uncovers temporal regulatory architecture during neural differentiation."
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.03.12.435197v1
-  arxiv:
-  contentshare:
-  preprint: true
-  
-- authors: "MI .Worley\\*, N. Everetts\\*, R. Yasutomi, N. Yosef†, IK. Hariharan†"
-  title: "Critical genetic program for Drosophila imaginal disc regeneration revealed by single-cell analysis."
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.08.451678v1?rss=1
-  arxiv:
-  contentshare:
-  preprint: true
-
-- authors: "CF. Buen Abad Najar, P. Burra, N. Yosef†, LF. Lareau†"
-  title: "Identifying cell-state associated alternative splicing events and their co-regulation"
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.23.453605v1?rss=1
-  arxiv:
-  contentshare:
-  preprint: true
-  
-- authors: "The Tabula Sapiens Consortium, SR Quake"
-  title: "The Tabula Sapiens: a single cell transcriptomic atlas of multiple organs from individual human donors"
-  details: bioRxiv
-  year: 2021
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2021.07.19.452956
-  file:
-  filetype:
-  github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.19.452956v1
-  arxiv:
-  contentshare:
-  preprint: true
+ 
   
 - authors: "Z. Steier, LL. McIntyre, LK. Lutes, T Huang,  EA. Robey†, N. Yosef†, A. Streets†"
   title: "Single-cell multi-omic analysis of thymocyte development reveals NFAT as a driver of CD4/CD8 lineage commitment"
@@ -222,7 +102,251 @@
   contentshare:
   preprint: true
 
+# 2022
 
+- authors: "A. Gayoso\\*, R. Lopez\\*, G. Xing\\*, P. Boyeau, V. Valiollah Pour Amiri, J. Hong, K. Wu, M. Jayasuriya, E. Melhman, M. Langevin, Y. Liu, J. Samaran, G. Misrachi, A. Nazaret, O. Clivio, C. Xu, T. Ashuach, M. Lotfollahi, V.Svensson, E. da Veiga Beltrame, V. Kleshchevnikov, C. Talavera-Lopez, L. Pachter, F.J. Theis, A. Streets, M.I. Jordan, J. Regier, N. Yosef"
+  title: "A Python library for probabilistic analysis of single-cell omics data."
+  details: Nature Biotechnology
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s41587-021-01206-w
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/scvi-tools
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.04.28.441833v1
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+  
+- authors: "R. Lopez\\*, B. Li\\*, H. Keren-Shaul\\*, P. Boyeau, M. Kedmi, D. Pilzer, A.Jelinski, E. David, A. Wagner, Y. Addadi, M.I. Jordan, I. Amit†, N. Yosef†"
+  title: "DestVI identifies continuums of cell types in spatial transcriptomics data"
+  details: Nature Biotechnology
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s41587-022-01272-8
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/scvi-tools
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+
+- authors: "H.W. Tsao\\*, J. Kaminski\\*, M. Kurachi, R.A. Barnitz, M.A. DiIorio, M.W. LaFleur, W. Ise, T. Kurosaki, E.J. Wherry, W.N. Haining†, N. Yosef†"
+  title: "Batf-mediated Epigenetic Control of Effector CD8+ T Cell Differentiation."
+  details: Science Immunology 
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1126/sciimmunol.abi4919
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+
+ 
+- authors: "D. Yang\\*, MG. Jones\\*, S. Naranjo, WM. Rideout III, KH. Min, R. Ho, W. Wu, RM. Replogle, JL. Page, JJ. Quinn, F. Horns, X. Qiu, MZ. Chen, WA. Freed-Pastor, CS. McGinnis, DM. Patterson, ZJ. Gartner, ED. Chow, TG. Bivona, MM. Chan, N. Yosef†, T. Jacks†, JS. Weissman†"
+  title: "Lineage tracing reveals the phylodynamics, plasticity, and paths of tumor evolution"
+  details: Cell 
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.cell.2022.04.015
+  file:
+  filetype:
+  github:  https://github.com/mattjones315/KPTracer-release
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  cassiopeia: true
+  
+- authors: "The Tabula Sapiens Consortium"
+  title: "The Tabula Sapiens: a single cell transcriptomic atlas of multiple organs from individual human donors"
+  details: Science 
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1126/science.abq2116
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  
+  
+- authors: "E. Rahmani, MI. Jordan, N. Yosef"
+  title: "Identifying systematic variation at the single-cell level by leveraging low-resolution population-level data."
+  year: 2022
+  doi: 
+  github: https://github.com/YosefLab/keris
+  details: RECOMB
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.01.27.478115v1
+  preprint: false
+  
+- authors: "CF. Buen Abad Najar, P. Burra, N. Yosef†, LF. Lareau†"
+  title: "Identifying cell-state associated alternative splicing events and their co-regulation"
+  details: Genome Research 
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.23.453605v1?rss=1
+  arxiv:
+  contentshare:
+  preprint: false
+  
+- authors: "V. Purohit, A. Wagner, N. Yosef, V.K. Kuchroo"
+  title: "Systems-based approaches to study immunometabolism."
+  details: Cellular & Molecular Immunology 
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: https://doi.org/10.1038/s41423-021-00783-9
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  contentshare:
+  preprint: false
+  compass: false
+  extradetails:
+
+- authors: "T. Ashuach, DA. Reidenbach, A. Gayoso, N. Yosef"
+  title: "PeakVI: A Deep Generative Model for Single Cell Chromatin Accessibility Analysis."
+  details: Cell Reports Methods 
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.crmeth.2022.100182
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/scvi-tools
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+
+- authors: "MG. Jones\\*, Y. Rosen\\*, N. Yosef"
+  title: "Interactive, integrated analysis of single-cell transcriptomic and phylogenetic data with PhyloVision"
+  details: Cell Reports Methods 
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.crmeth.2022.100200
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/VISION
+  biorxiv: 
+  arxiv:
+  contentshare: https://zenodo.org/record/6354747
+  preprint: false
+  cassiopeia: true
+  hotspot: true
+  vision: true
+  
+- authors: "A. Kreimer\\*, T. Ashuach\\*, F. Inoue\\*, A. Khodaverdian, N. Yosef†, N. Ahituv†"
+  title: "Massively parallel reporter perturbation assays uncover temporal regulatory architecture during neural differentiation"
+  details: Nature Communications
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 0.1038/s41467-022-28659-0
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+
+- authors: "MI .Worley\\*, N. Everetts\\*, R. Yasutomi, RJ. Chang, S. Saretha, N. Yosef†, IK. Hariharan†"
+  title: "Ets21C sustains a pro-regenerative transcriptional program in blastema cells of Drosophila imaginal discs."
+  details: Current Biology
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.cub.2022.06.040
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  
+- authors: "A. Gupta, F. Shamsi, N. Altemose, GF. Dorlhiac, AM. Cypess, AP. White, N. Yosef, ME. Patti, Y. Tseng, A. Streets"
+  title: "Characterization of transcript enrichment and detection bias in single-nucleus RNA-seq for mapping of distinct human adipocyte lineages"
+  details: Genome Research
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/gr.275509.121
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false  
+  
+- authors: "DJ. Bangs, A. Tsitsiklis, Z. Steier, SW. Chan, J. Kaminski, A. Streets, N. Yosef, EA. Robey"
+  title: "CXCR3 regulates stem and proliferative CD8+ T cells during chronic infection by promoting interactions with DCs in splenic bridging channels"
+  details: Cell Reports
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.celrep.2021.110266
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false 
+  
+  
+- authors: "RM. Jong, E. Van Dis, SB. Berry, X. Nguyenla, A. Baltodano, G. Pastenkos, C. Xu, D. Fox, N. Yosef, SM. McWhirter, SA. Stanley"
+  title: "Mucosal Vaccination with Cyclic Dinucleotide Adjuvants Induces Effective T Cell Homing and IL-17–Dependent Protection against Mycobacterium tuberculosis Infection"
+  details: J Immunol
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.4049/jimmunol.2100029
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false 
 
 # 2021
 
@@ -241,7 +365,8 @@
   contentshare:
   preprint: false
   compass: true
-  extradetails: "Previewed in [*Cell*](https://www.sciencedirect.com/science/article/pii/S0092867421008382)"
+  extradetails: "Previewed in [*Cell*](https://www.sciencedirect.com/science/article/pii/S0092867421008382); Commentary in [*Immunometabolism*](https://ij.hapres.com/htmls/IJ_1441_Detail.html)."
+
 
 - authors: "JJ. Quinn\\*, MG. Jones\\*, RA. Okimoto, S. Nanjo, MM. Chan, N. Yosef†, TG. Bivona†, JS. Weissman†"
   title: "Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts."
@@ -394,6 +519,23 @@
   arxiv:
   contentshare:
   preprint: false
+  
+- authors: "Gaidt, M.M., Morrow, A., Fairgrieve, M.R, Karr, J.P, Yosef, N. Vance, R.E"
+  title: "Self-guarding of MORC3 enables virulence factor-triggered immunity"
+  details: Nature 
+  year: 2021
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s41586-021-04054-5
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  
   
 # 2020
 
