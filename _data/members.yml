@@ -20,7 +20,6 @@
   twitter:
   description:
 
-
 - name:  Elior Rahmani
   degrees: PhD
   image: elior.jpg
@@ -43,12 +42,12 @@
   twitter:
   description:
 
-- name:  Mariano Gabitto
-  degrees:
-  image: mariano.jpg
+- name:  Can Ergen
+  degrees: MD
+  image: can.jpg
   altimage:
-  position: Postdoctoral associate; joint with [Mike Jordan](https://people.eecs.berkeley.edu/~jordan/)
-  email:
+  position: Postdoctoral associate
+  email: cergen (at) berkeley.edu
   website:
   scholar:
   twitter:
@@ -70,7 +69,7 @@
   image: adam.jpg
   altimage:
   position: Graduate student (CCB); joint with [Aaron Streets](http://streetslab.berkeley.edu/)
-  email: adamgayoso (at) berekely.edu
+  email: adamgayoso (at) berkely.edu
   github:
   website: https://adamgayoso.com/
   scholar: TNqOADUAAAAJ&hl
@@ -82,11 +81,11 @@
   image: pierre.jpg
   altimage:
   position: Graduate student (EECS)
-  email:
+  email: pierreboyeau (at) berkeley.edu
   github:
   website:
   scholar:
-  twitter:
+  twitter: pierreboyeau
   description:
 
 - name:  Sebastian Prillo
@@ -111,12 +110,12 @@
   twitter: rrastogi02
   description:
 
-- name:  Kathy Wu
+- name:  Shiyi Yang
   degrees:
-  image: kathy_wu.jpg
+  image: john_d.jpg
   altimage:
-  position: Master's student (EECS)
-  email: kathywu (at) berkeley.edu
+  position: Rotation student (EECS)
+  email: sy (dot) yang (at) berkeley.edu
   website:
   scholar:
   twitter:
@@ -133,40 +132,18 @@
   twitter: "RohanKoodli"
   description:
 
-- name:  Richard Zhang
-  degrees:
-  image: richardzhang.jpg
-  altimage:
-  position: Research & Design Engineer
-  email:
-  website:
-  scholar:
-  twitter:
-  description:
-
-- name:  Justin Hong
-  degrees:
-  image: justin.jpg
-  altimage:
-  position: Research Engineer
-  email: justinhong (at) berkeley.edu
-  website:
-  scholar:
-  twitter:
-  description:
-
 - name:  Valeh Valiollah Pour Amiri
   degrees:
   image: valeh.jpg
   altimage:
-  position: Research Engineer
+  position: Research engineer
   email: valehvpa (at) berkeley.edu
   website:
   scholar:
   twitter:
   description:
 
-- name:  Kevin An 
+- name:  Kevin An
   degrees:
   image: kevin.jpg
   altimage:
@@ -185,17 +162,6 @@
   email: ivalexander13 (at) berkeley.edu
   website:
   scholar:
-  twitter:
-  description:
-
-- name: Michael Jayasuriya
-  degrees:
-  image: michael_jayasuriya.jpg
-  altimage:
-  position: Undergraduate researcher
-  email: mjayasur (at) berkeley.edu
-  website:
-  scholar: 
   twitter:
   description:
 
@@ -231,3 +197,4 @@
   scholar:
   twitter:
   description:
+
