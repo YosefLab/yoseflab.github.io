@@ -1,27 +1,30 @@
 - name: Anat Kremier
   degrees: PhD
-  previously:  Postdoctoral Associate
+  previously:  Postdoctoral associate
   now: Assistant Professor, Department of Biochemistry and Molecular Biology, Rutgers University
-  email:
 
 - name: Xiuwei Zhang
   degrees: PhD
-  previously: Postdoctoral Associate
+  previously: Postdoctoral associate
   now: Assistant Professor, School of Computational Science and Engineering, Georgia Institute of Technology
-  email:
   website: https://xiuweizhang.wordpress.com/
+
+- name: Mariano Gabitto
+  degrees: PhD
+  previously: Postdoctoral associate
+  now: Assistant Investigator, Allen Institute for Brain Science, University of Washington
 
 - name: Matt Jones
   degrees: PhD
   previously: Graduate student (Bioinformatics, UCSF); joint with [Jonathan Weissman](https://weissman.wi.mit.edu/)
   now: Postdoctoral Scholar, Chang lab, Stanford University
   website: https://mattjones315.github.io/
-  
+
 - name:  Tal Ashuach
   degrees: PhD
   previously: Graduate student (CCB)
-  now: Machine Learning Scientist at Patch Biosciences 
-  
+  now: Machine Learning Scientist at Patch Biosciences
+
 - name:  Nick Everetts
   degrees: PhD
   previously: Graduate student (CCB); joint with [Iswar Hariharan](https://mcb.berkeley.edu/labs/hariharan)
@@ -56,63 +59,53 @@
 
 - name: David DeTomaso
   degrees: PhD
-  previously: Graduate Student (CCB)
+  previously: Graduate student (CCB)
   now: Scientist at Arsenal Bio
-  email:
-  website:
-  pubmed_name:
 
 - name: Jim Kaminski
   degrees: PhD
-  previously: Graduate Student (CCB)
+  previously: Graduate student (CCB)
   now: Postdoc at Shalek lab
-  email:
-  website:
-  pubmed_name:
 
 - name: Shaked Afik
   degrees: PhD
-  previously: Graduate Student (CCB)
+  previously: Graduate student (CCB)
   now: Computational Biologist at Immunai
-  email:
-  website:
-  pubmed_name:
 
 - name: Ali Sinan Koskal
   degrees: PhD
-  previously: Graduate Student (EECS)
+  previously: Graduate student (EECS)
   now: Google Brain
-  email:
-  website:
-  pubmed_name:
 
 - name: Michael Cole
   degrees: PhD
   previously: Graduate student (Physics)
   now: Data Scientist at Square
-  email:
-  website:
-  pubmed_name:
 
 - name: David Fischer
   degrees: MS
   previously: Graduate student
   now: PhD student Computational Biology and Machine Learning, Helmholtz Zentrum München, Germany
-  email:
-  website:
-  pubmed_name:
 
 - name: Zhongxia (Zee) Yan
   degrees: MS
   previously: Graduate student (EECS)
   now: PhD student, Computer Science, MIT
-  email:
-  website:
-  pubmed_name:
+
+- name: Kathy Wu
+  degrees: MS
+  previously: Graduate student (EECS)
+  now: Software Engineer, Instabase
+
+- name: Justin Hong
+  degrees: MS
+  previously: Research engineer
+  now: PhD student, Computer Science, Columbia
+  website: https://justinhong.me/
 
 - name: Galen Xing
   degrees: BA
-  previously: Software Engineer (CZI)
+  previously: Software engineer (CZI)
   now: PhD student, Computational Biology, UC Berkeley
   website: https://galenxing.com/
 
@@ -120,3 +113,14 @@
   degrees: BA
   previously: Undergraduate student (LS CS)
   now: PhD student, Computer Science, Stanford
+
+- name: Michael Jayasuriya
+  degrees: BA
+  previously: Undergraduate student (LS CS)
+  now: Software Engineer, Waymo
+
+- name: Richard Zhang
+  degrees: BA
+  previously: Research & Design engineer
+  now: PhD student, Computational Biology, Princeton
+
