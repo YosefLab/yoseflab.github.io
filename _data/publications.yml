@@ -346,7 +346,23 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: false 
+  preprint: false
+
+- authors: "K. Baßler, W. Fujii, T. S. Kapellos, E. Dudkin, N. Reusch, A. Horne, B. Reiz, M. D. Luecken, C. Osei-Sarpong, S. Warnat-Herresthal, L. Bonaguro, J. Schulte-Schrepping, A. Wagner, P. Günther, C. Pizarro, T. Schreiber, R. Knoll, L. Holsten, C. Kröger, E. De Domenico, M. Becker, K. Händler, C. T. Wohnhaas, F. Baumgartner, M. Köhler, H. Theis, M. Kraut, M. H. Wadsworth II, T. K. Hughes, H. J. Ferreira, E. Hinkley, I. H. Kaltheuner, M. Geyer, C. Thiele, A. K. Shalek, A. Feißt, D. Thomas, H. Dickten, M. Beyer, P. Baum, N. Yosef, A. C. Aschenbrenner, T. Ulas, J. Hasenauer, F. J. Theis, D. Skowasch, J. L. Schultze"
+  title: "Alveolar macrophages in early stage COPD show functional deviations with properties of impaired immune activation"
+  details: Frontiers in Immunology
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.3389/fimmu.2022.917232
+  file:
+  filetype:
+  github:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
 
 # 2021
 
