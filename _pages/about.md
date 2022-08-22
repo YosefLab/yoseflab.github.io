@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-**Department of Electrical Engineering & Computer Sciences, Center for Computational Biology, UC Berkeley**
+**Departmenr of Systems Immunology, Weizmann Institute of Science AND Department of Electrical Engineering & Computer Sciences, Center for Computational Biology, UC Berkeley**
 
 <!-- <img align="right" height="225px" src="assets/img/logo_fullsize.png"> -->
 
