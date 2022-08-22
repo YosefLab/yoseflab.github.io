@@ -15,12 +15,28 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-**Departmenr of Systems Immunology, Weizmann Institute of Science 
-Department of Electrical Engineering & Computer Sciences, Center for Computational Biology, UC Berkeley**
+**Departmenr of Systems Immunology, Weizmann Institute of Science <br>
+Department of Electrical Engineering & Computer Sciences, Center for Computational Biology, UC Berkeley (on leave)**
 
 <!-- <img align="right" height="225px" src="assets/img/logo_fullsize.png"> -->
 
-The broad goals of the research in the lab are to understand:
+<!--
+We are an interdisciplinary group, with interests in statistical machine learning, algorithms, T cell biology and cancer immunology.<br>
+We are taking a data- centric perspective on studying how changes in transcription are associated with molecular and cellular phenotypes in immunity and cancer. In that capacity, our group is developing computational tools and leverages single cell genomics to reach a better understanding of the factors that contribute to variability between cells (e.g, 
+metabolic activity, 
+chromatin structure, 
+microenvironment) 
+and their broader implications (e.g., in 
+autoimmunity). <p>
+
+Examples [software]({{ site.baseurl }}{% link _pages/software.md %}) projects in the lab include:
+
+- [scvi-tools]({{ site.baseurl }}{% link _software/scvi-tools.markdown %}) for end-to-end analysis of single-cell omics data with deep generative models
+- [cassiopeia]({{ site.baseurl }}{% link _software/cassiopeia.markdown %}) for single cell lineage tracing tree reconstruction
+- [vision]({{ site.baseurl }}{% link _software/vision.markdown %}) for functional interpretation for scRNA-seq data
+- [epitome]({{ site.baseurl }}{% link _software/epitome.markdown %}) for prediction of epigenetic events using chromatin accessibility
+-->
+The goals of the research in the lab are to understand:
 
 - How transcription is regulated in immune cells.
 - How changes in transcription affect cell- and tissue-level phenotypes.
