@@ -3,6 +3,22 @@
 
 # PREPRINTS FIRST
 
+- authors: "A. Gayoso\\*, P. Weiler\\*, M. Lotfollahi, D. Klein, J. Hong, A. Streets, FJ. Theis†, N. Yosef†"
+  title: "Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells"
+  details: bioRxiv
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2022.08.12.503709
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.08.12.503709v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
+  
 - authors: "P. Boyeau,  J. Regier,  A. Gayoso, M.I. Jordan, R. Lopez, N. Yosef"
   title: "An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models"
   details: bioRxiv
