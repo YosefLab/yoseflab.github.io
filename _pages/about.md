@@ -44,7 +44,7 @@ The goals of the research in the lab are to understand:
 Beyond a basic scientific drive to study these fundamental questions, we are motivated by the translational potential of identifying and modulating the causes of transcriptional shifts. Our contribution to this wide area of research is in developing and applying computational tools (algorithms, software) to design, integrate and interpret large molecular data sets that can teach us about the regulation and the downstream effects of the transcriptional process. Some of the [software]({{ site.baseurl }}{% link _pages/software.md %}) we have developed includes:
 
 - [scvi-tools]({{ site.baseurl }}{% link _software/scvi-tools.markdown %}) for end-to-end analysis of single-cell omics data with deep generative models
-- [cassiopeia]({{ site.baseurl }}{% link _software/cassiopeia.markdown %}) for single cell lineage tracing tree reconstruction
+- [cassiopeia]({{ site.baseurl }}{% link _software/cassiopeia.markdown %}) for single cell lineage tracing 
 - [vision]({{ site.baseurl }}{% link _software/vision.markdown %}) for interactive interpretation of single-cell RNA-seq data
 - [epitome]({{ site.baseurl }}{% link _software/epitome.markdown %}) for prediction of epigenetic events using chromatin accessibility
 
