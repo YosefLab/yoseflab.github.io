@@ -33,7 +33,7 @@ Examples [software]({{ site.baseurl }}{% link _pages/software.md %}) projects in
 
 - [scvi-tools]({{ site.baseurl }}{% link _software/scvi-tools.markdown %}) for end-to-end analysis of single-cell omics data with deep generative models
 - [cassiopeia]({{ site.baseurl }}{% link _software/cassiopeia.markdown %}) for single cell lineage tracing tree reconstruction
-- [vision]({{ site.baseurl }}{% link _software/vision.markdown %}) for functional interpretation for scRNA-seq data
+- [vision]({{ site.baseurl }}{% link _software/vision.markdown %}) for interactive interpretation of single cell RNA-seq data
 - [epitome]({{ site.baseurl }}{% link _software/epitome.markdown %}) for prediction of epigenetic events using chromatin accessibility
 -->
 The goals of the research in the lab are to understand:
