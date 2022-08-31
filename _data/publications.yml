@@ -3,6 +3,22 @@
 
 # PREPRINTS FIRST
 
+- authors: "CR. Simoneau\\*, P. Chen\\*, GK. Xing\\*, MM. Khalid,  NL. Meyers,  JM. Hayashi,  TY. Taha,  KE. Leon, T. Ashuach, KA. Fontaine, L. Rodriguez, B. Joehnk,  K. Walcott,  S. Vasudevan,  X. Fang, M. Maishan, S. Schultz,  J. Roose,  MA. Matthay,  A. Sil, M. Arjomandi, N. Yosef†,  M. Ott†"
+  title: "NF-κB inhibitor alpha has a cross-variant role during SARS-CoV-2 infection in ACE2-overexpressing human airway organoids"
+  details: bioRxiv
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2022.08.02.502100
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.08.02.502100v1.full
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
+  
 - authors: "A. Gayoso\\*, P. Weiler\\*, M. Lotfollahi, D. Klein, J. Hong, A. Streets, FJ. Theis†, N. Yosef†"
   title: "Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells"
   details: bioRxiv
