@@ -23,7 +23,7 @@ Department of Electrical Engineering & Computer Sciences, Center for Computation
 
 We are an interdisciplinary group, with interests in statistical machine learning, algorithms, T cell biology and tumor immunology.
 
-We take a data- centric perspective on studying how changes in transcription are associated with molecular and cellular phenotypes in immunity and cancer. To achieve that, we are developing and applying computational tools to design and make sense of large molecular data sets. We have special interest in single cell genomics, with the goal of better understanding of the <a href="https://doi.org/10.1038/nbt.3711">factors</a> that contribute to variability between cells (e.g, 
+We take a data- centric perspective on studying how changes in transcription are associated with molecular and cellular phenotypes in immunity and cancer. To achieve that, we are developing and applying computational tools to design and make sense of large molecular data sets. We have special interest in single cell genomics, with the goal of delineating and better understanding the <a href="https://doi.org/10.1038/nbt.3711">factors</a> that contribute to variability between cells (e.g, 
 <a href = "https://doi.org/10.1016/j.cell.2021.05.045"> metabolic activity</a>, 
 <a href="https://doi.org/10.1016/j.crmeth.2022.100182"> chromatin structure</a>, 
 <a href="https://doi.org/10.1038/s41587-022-01272-8">microenvironment</a>) 
@@ -31,11 +31,11 @@ and their broader implications
 (e.g., in 
 <a href="https://doi.org/10.1038/s41467-019-14118-w">autoimmunity</a> and <a href="https://doi.org/10.1016/j.cell.2022.04.015">cancer</a>). 
 
-Examples [software]({{ site.baseurl }}{% link _pages/software.md %}) projects in the lab include:
+Examples [software]({{ site.baseurl }}{% link _pages/software.md %}) projects:
 
 - [scvi-tools]({{ site.baseurl }}{% link _software/scvi-tools.markdown %}) for end-to-end analysis of single-cell omics data with deep generative models
-- [cassiopeia]({{ site.baseurl }}{% link _software/cassiopeia.markdown %}) for single cell lineage tracing tree reconstruction
-- [vision]({{ site.baseurl }}{% link _software/vision.markdown %}) for interactive interpretation of single cell RNA-seq data
+- [cassiopeia]({{ site.baseurl }}{% link _software/cassiopeia.markdown %}) for single cell lineage tracing
+- [vision]({{ site.baseurl }}{% link _software/vision.markdown %}) for interactive interpretation of single cell RNA-seq and CITE-seq data
 - [epitome]({{ site.baseurl }}{% link _software/epitome.markdown %}) for prediction of epigenetic events using chromatin accessibility
 
  
