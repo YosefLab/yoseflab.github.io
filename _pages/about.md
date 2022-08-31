@@ -20,14 +20,14 @@ Department of Electrical Engineering & Computer Sciences, Center for Computation
 
 <!-- <img align="right" height="225px" src="assets/img/logo_fullsize.png"> -->
 
-<!--
-We are an interdisciplinary group, with interests in statistical machine learning, algorithms, T cell biology and cancer immunology.<br>
-We are taking a data- centric perspective on studying how changes in transcription are associated with molecular and cellular phenotypes in immunity and cancer. In that capacity, our group is developing computational tools and leverages single cell genomics to reach a better understanding of the factors that contribute to variability between cells (e.g, 
-metabolic activity, 
-chromatin structure, 
-microenvironment) 
+
+We are an interdisciplinary group, with interests in statistical machine learning, algorithms, T cell biology and tumor immunology.<br>
+We take a data- centric perspective on studying how changes in transcription are associated with molecular and cellular phenotypes in immunity and cancer. To achieve that, we are developing and applying computational tools to design and make sense of large molecular data sets. We have special interest in single cell genomics, with the goal of better understanding of the <a href="https://doi.org/10.1038/nbt.3711">factors</a> that contribute to variability between cells (e.g, 
+<a href = "https://doi.org/10.1016/j.cell.2021.05.045"> metabolic activity</a>, 
+<a href="https://doi.org/10.1016/j.crmeth.2022.100182"> chromatin structure</a>, 
+<a href="https://doi.org/10.1038/s41587-022-01272-8">microenvironment</a>) 
 and their broader implications (e.g., in 
-autoimmunity). <p>
+<a href="https://doi.org/10.1038/s41467-019-14118-w">autoimmunity</a> and <a href="https://doi.org/10.1016/j.cell.2022.04.015">cancer</a>). <p>
 
 Examples [software]({{ site.baseurl }}{% link _pages/software.md %}) projects in the lab include:
 
@@ -35,7 +35,8 @@ Examples [software]({{ site.baseurl }}{% link _pages/software.md %}) projects in
 - [cassiopeia]({{ site.baseurl }}{% link _software/cassiopeia.markdown %}) for single cell lineage tracing tree reconstruction
 - [vision]({{ site.baseurl }}{% link _software/vision.markdown %}) for interactive interpretation of single cell RNA-seq data
 - [epitome]({{ site.baseurl }}{% link _software/epitome.markdown %}) for prediction of epigenetic events using chromatin accessibility
--->
+
+ <!--
 The goals of the research in the lab are to understand:
 
 - How transcription is regulated in immune cells.
@@ -54,7 +55,7 @@ The lab currently focuses on two related areas of research:
 - Exploring regulatory factors that govern cell state transitions based on [large-scale chromatin profiling assays](https://www.ncbi.nlm.nih.gov/pubmed/27789799) and [massively parallel reporter assays](https://www.cell.com/cell-stem-cell/pdfExtended/S1934-5909(19)30421-7).
 
 We pursue these areas primarily in the context of immune cells, covering various aspects of their biology, such as their [differentiation](http://www.nature.com/nature/journal/v496/n7446/full/nature11981.html), [stability](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature11984.html)/ plasticity, and response to acute [stimulation](http://www.cell.com/molecular-cell/retrieve/pii/S1097276512006570).
-
+-->
 
 <!-- The lab is part of the Department of Electrical Engineering & Computer Sciences and the Center for Computational Biology at UC Berkeley. -->
 
