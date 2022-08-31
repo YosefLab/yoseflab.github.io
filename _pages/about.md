@@ -36,8 +36,7 @@ Examples [software]({{ site.baseurl }}{% link _pages/software.md %}) projects in
 - [vision]({{ site.baseurl }}{% link _software/vision.markdown %}) for interactive interpretation of single cell RNA-seq data
 - [epitome]({{ site.baseurl }}{% link _software/epitome.markdown %}) for prediction of epigenetic events using chromatin accessibility
 
- <!--
-The goals of the research in the lab are to understand:
+ <!-- The goals of the research in the lab are to understand:
 
 - How transcription is regulated in immune cells.
 - How changes in transcription affect cell- and tissue-level phenotypes.
@@ -54,8 +53,7 @@ The lab currently focuses on two related areas of research:
 - [Modeling](https://www.nature.com/articles/s41592-018-0229-2) and [interpreting](https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/48921-integrated-single-cell-analysis-of-blood-and-cerebrospinal-fluid-leukocytes-in-multiple-sclerosis) the effects of heterogeneity between immune cells based on [single-cell genomics](https://www.nature.com/articles/nbt.3711), with a focus on mRNA profiling.
 - Exploring regulatory factors that govern cell state transitions based on [large-scale chromatin profiling assays](https://www.ncbi.nlm.nih.gov/pubmed/27789799) and [massively parallel reporter assays](https://www.cell.com/cell-stem-cell/pdfExtended/S1934-5909(19)30421-7).
 
-We pursue these areas primarily in the context of immune cells, covering various aspects of their biology, such as their [differentiation](http://www.nature.com/nature/journal/v496/n7446/full/nature11981.html), [stability](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature11984.html)/ plasticity, and response to acute [stimulation](http://www.cell.com/molecular-cell/retrieve/pii/S1097276512006570).
--->
+We pursue these areas primarily in the context of immune cells, covering various aspects of their biology, such as their [differentiation](http://www.nature.com/nature/journal/v496/n7446/full/nature11981.html), [stability](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature11984.html)/ plasticity, and response to acute [stimulation](http://www.cell.com/molecular-cell/retrieve/pii/S1097276512006570).-->
 
 <!-- The lab is part of the Department of Electrical Engineering & Computer Sciences and the Center for Computational Biology at UC Berkeley. -->
 
