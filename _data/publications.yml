@@ -3,6 +3,22 @@
 
 # PREPRINTS FIRST
 
+- authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Jordan, E. Azizi, N. Yosef"
+  title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
+  details: bioRxiv
+  year: 2022
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2022.10.04.510898
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.04.510898v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
+
 - authors: "CR. Simoneau\\*, P. Chen\\*, GK. Xing\\*, MM. Khalid,  NL. Meyers,  JM. Hayashi,  TY. Taha,  KE. Leon, T. Ashuach, KA. Fontaine, L. Rodriguez, B. Joehnk,  K. Walcott,  S. Vasudevan,  X. Fang, M. Maishan, S. Schultz,  J. Roose,  MA. Matthay,  A. Sil, M. Arjomandi, N. Yosef†,  M. Ott†"
   title: "NF-κB inhibitor alpha has a cross-variant role during SARS-CoV-2 infection in ACE2-overexpressing human airway organoids"
   details: bioRxiv
