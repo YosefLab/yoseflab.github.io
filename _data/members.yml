@@ -2,7 +2,7 @@
   degrees: PhD
   image: nir_y.jpg
   altimage:
-  position: Principal Investigator, Associate Professor of [EECS](https://eecs.berkeley.edu/), Core Member of [CCB](https://ccb.berkeley.edu/)
+  position: Principal Investigator, Associate Professor of [Systems Immunology](https://www.weizmann.ac.il/immunology/) @Weizmann Institute of Science (active) and [EECS](https://eecs.berkeley.edu/) @UC Berkeley  (on leave)
   email: niryosef (at) berkeley.edu
   website:
   scholar: eQ8KEHoAAAAJ&hl
@@ -13,12 +13,24 @@
   degrees:
   image: john_d.jpg
   altimage:
-  position: Lab manager
+  position: Lab manager (UC Berkeley)
   email: mwitte (at) berkeley.edu
   website:
   scholar:
   twitter:
   description:
+
+- name:  Shlomit Reich-Zeliger 
+  degrees: PhD
+  image: john_d.jpg
+  altimage:
+  position: Senior Staff Scientist, Lab manager (Weizmann Institute)
+  email: mwitte (at) berkeley.edu
+  website:
+  scholar:
+  twitter:
+  description:
+
 
 - name:  Elior Rahmani
   degrees: PhD
@@ -42,17 +54,6 @@
   twitter:
   description:
 
-- name:  Can Ergen
-  degrees: MD
-  image: can.jpg
-  altimage:
-  position: Postdoctoral associate
-  email: cergen (at) berkeley.edu
-  website:
-  scholar:
-  twitter:
-  description:
-
 - name:  Can Ergen-Behr
   degrees: MD
   image: can.jpg
@@ -64,6 +65,28 @@
   twitter:
   description:
 
+- name:  Jonas Maaskola 
+  degrees: PhD
+  image: john_d.jpg
+  altimage:
+  position: Postdoctoral associate
+  email:
+  website: 
+  scholar: 
+  twitter:
+  description:
+
+- name:  Michal Mark 
+  degrees: PhD
+  image: john_d.jpg
+  altimage:
+  position: Postdoctoral associate
+  email:
+  website: 
+  scholar: 
+  twitter:
+  description:
+  
 - name:  Alex Khodaverdian
   degrees:
   image: Alex_k.jpg
@@ -121,28 +144,39 @@
   twitter: rrastogi02
   description:
 
-- name:  Shiyi Yang
+- name:  Michal Rozenwald 
   degrees:
   image: john_d.jpg
   altimage:
-  position: Rotation student (EECS)
-  email: sy (dot) yang (at) berkeley.edu
+  position: Graduate student (CCB)
+  email:
   website:
   scholar:
   twitter:
   description:
-
-- name:  Rohan Koodli
+  
+- name:  Anmol Kulkarni  
   degrees:
-  image: rohan.jpg
+  image: john_d.jpg
   altimage:
-  position: Master's student (EECS)
-  email: koodli (at) berkeley.edu
-  website: rk900.github.io
-  scholar: rYGYyCEAAAAJ&hl
-  twitter: "RohanKoodli"
+  position: Graduate student (Weizmann Institute)
+  email:
+  website:
+  scholar:
+  twitter:
   description:
-
+  
+- name:  Nathan Levy  
+  degrees:
+  image: john_d.jpg
+  altimage:
+  position: MS student (Machine Learning; ENS Paris-Saclay)
+  email:
+  website:
+  scholar:
+  twitter:
+  description:
+  
 - name:  Valeh Valiollah Pour Amiri
   degrees:
   image: valeh.jpg
@@ -198,14 +232,5 @@
   twitter:
   description:
 
-- name: Samuel Alber
-  degrees:
-  image: samuel.jpg
-  altimage:
-  position: Undergraduate researcher
-  email: salber (at) berkeley.edu
-  website:
-  scholar:
-  twitter:
-  description:
+
 
