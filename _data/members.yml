@@ -22,7 +22,7 @@
 
 - name:  Shlomit Reich-Zeliger 
   degrees: PhD
-  image: john_d.jpg
+  image: shlomit.jpg
   altimage:
   position: Senior Staff Scientist, Lab manager (Weizmann Institute)
   email: mwitte (at) berkeley.edu
@@ -67,7 +67,7 @@
 
 - name:  Jonas Maaskola 
   degrees: PhD
-  image: john_d.jpg
+  image: jonas.jpg
   altimage:
   position: Postdoctoral associate
   email:
@@ -78,7 +78,7 @@
 
 - name:  Michal Mark 
   degrees: PhD
-  image: john_d.jpg
+  image: michal_m.jpg
   altimage:
   position: Postdoctoral associate
   email:
@@ -146,7 +146,7 @@
   
 - name:  Anmol Kulkarni  
   degrees:
-  image: john_d.jpg
+  image: anmol.jpg
   altimage:
   position: Graduate student (Weizmann Institute)
   email:
@@ -157,7 +157,7 @@
   
 - name:  Oier Etxezarreta  
   degrees:
-  image: john_d.jpg
+  image: oier.jpg
   altimage:
   position: MS student (Biomedical Engineering; University of Navarra)
   email:
