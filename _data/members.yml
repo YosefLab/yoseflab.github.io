@@ -143,17 +143,6 @@
   scholar: 9bHYFgQAAAAJ
   twitter: rrastogi02
   description:
-
-- name:  Michal Rozenwald 
-  degrees:
-  image: john_d.jpg
-  altimage:
-  position: Graduate student (CCB)
-  email:
-  website:
-  scholar:
-  twitter:
-  description:
   
 - name:  Anmol Kulkarni  
   degrees:
@@ -166,16 +155,6 @@
   twitter:
   description:
   
-- name:  Nathan Levy  
-  degrees:
-  image: john_d.jpg
-  altimage:
-  position: MS student (Machine Learning; ENS Paris-Saclay)
-  email:
-  website:
-  scholar:
-  twitter:
-  description:
   
 - name:  Valeh Valiollah Pour Amiri
   degrees:
