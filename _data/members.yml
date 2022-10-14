@@ -167,7 +167,7 @@
   description:
   
 - name:  Valeh Valiollah Pour Amiri
-  degrees:
+  degrees: M.Sc
   image: valeh.jpg
   altimage:
   position: Research engineer
@@ -177,6 +177,17 @@
   twitter:
   description:
 
+- name:  Martin Kim
+  degrees: B.Sc
+  image: john_d.jpg
+  altimage:
+  position: Research engineer
+  email: martinkim (at) berkeley.edu
+  website:
+  scholar:
+  twitter:
+  description:
+  
 - name:  Kevin An
   degrees:
   image: kevin.jpg
