@@ -16,12 +16,13 @@ social: true  # includes social icons at the bottom of the page
 
 
 **Department of Systems Immunology, Weizmann Institute of Science <br>
-Department of Electrical Engineering & Computer Sciences, Center for Computational Biology, UC Berkeley (on leave)**
 
 <!-- <img align="right" height="225px" src="assets/img/logo_fullsize.png"> -->
 
 
-We are an interdisciplinary group, with interests in statistical machine learning, algorithms, T cell biology and tumor immunology.
+We are an interdisciplinary group, with interests in genomics, statistical machine learning, algorithms, T cell biology and tumor immunology.
+We have recently moved from the Department of Electrical Engineering & Computer Sciences at UC Berkeley to the Weizmann Institute. 
+
 
 We take a data- centric perspective on studying how changes in transcription are associated with molecular and cellular phenotypes in immunity and cancer. To achieve that, we are developing and applying computational tools to design and make sense of large molecular data sets. We have special interest in single cell genomics, with the goal of delineating and better understanding the <a href="https://doi.org/10.1038/nbt.3711">factors</a> that contribute to variability between cells (e.g, 
 <a href = "https://doi.org/10.1016/j.cell.2021.05.045"> metabolic activity</a>, 
