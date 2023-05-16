@@ -35,71 +35,6 @@
   preprint: true
   scvitools: false
   
-- authors: "A. Gayoso\\*, P. Weiler\\*, M. Lotfollahi, D. Klein, J. Hong, A. Streets, FJ. Theis†, N. Yosef†"
-  title: "Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells"
-  details: bioRxiv
-  year: 2022
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2022.08.12.503709
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.08.12.503709v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
-  
-- authors: "P. Boyeau,  J. Regier,  A. Gayoso, M.I. Jordan, R. Lopez, N. Yosef"
-  title: "An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models"
-  details: bioRxiv
-  year: 2022
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.05.27.493625v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
-  
-- authors: "T. Ashuach\\*, M. Gabitto\\*, M. Jordan, N. Yosef"
-  title: "MultiVI: deep generative model for the integration of multi-modal data."
-  details: bioRxiv
-  year: 2022
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  github:  https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.08.20.457057v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
-
-- authors: "R. Wang\\*, RY. Zhang\\*, A. Khodaverdian\\*, Nir Yosef"
-  title: "Theoretical Guarantees for Phylogeny Inference from Single-Cell Lineage Tracing"
-  details: bioRxiv
-  year: 2022
-  pmid:
-  pmcid:
-  openaccess:
-  doi:
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.11.21.469464v1
-  arxiv:
-  contentshare:
-  preprint: true
-  cassiopeia: true
-  
 - authors: "A. Khodaverdian and N. Yosef"
   title: "Directed Shortest Walk on Temporal Graphs"
   details: bioRxiv
@@ -136,6 +71,87 @@
   
 # 2023
 
+- authors: "Virshup I\\*, Bredikhin D\\*, Heumos L\\*, Palla G\\*, Sturm G\\*, Gayoso A\\*, Kats I, Koutrouli M; Scverse Community; Berger B, Pe'er D, Regev A, Teichmann SA, Finotello F†, Wolf FA†, Yosef N†, Stegle O†, Theis FJ†"
+  title: "The scverse project provides a computational ecosystem for single-cell omics data analysis"
+  details: Nature Biotechnology 
+  year: 2023
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s41587-023-01733-8
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+  
+- authors: "A. Gayoso\\*, P. Weiler\\*, M. Lotfollahi, D. Klein, J. Hong, A. Streets, FJ. Theis†, N. Yosef†"
+  title: "Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells"
+  details: Nature Methods (to appear)
+  year: 2023
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2022.08.12.503709
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.08.12.503709v1
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+  
+- authors: "P. Boyeau,  J. Regier,  A. Gayoso, M.I. Jordan, R. Lopez, N. Yosef"
+  title: "An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models"
+  details: Proc Natl Acad Sci (to appear)
+  year: 2023
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.05.27.493625v1
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+  
+- authors: "T. Ashuach\\*, M. Gabitto\\*, M. Jordan, N. Yosef"
+  title: "MultiVI: deep generative model for the integration of multi-modal data."
+  details: Nature Methods (to appear)
+  year: 2023
+  pmid:
+  pmcid:
+  openaccess:
+  doi:
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/scvi-tools
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.08.20.457057v1
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+
+- authors: "R. Wang\\*, RY. Zhang\\*, A. Khodaverdian\\*, Nir Yosef"
+  title: "Theoretical Guarantees for Phylogeny Inference from Single-Cell Lineage Tracing"
+  details: Proc Natl Acad Sci 
+  year: 2023
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1073/pnas.2203352120
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  cassiopeia: true
+  
 - authors: "B.F. Côrte-Real, I. Hamad, R. Arroyo Hornero, S. Geisberger, J. Roels, L. Van Zeebroeck, A. Dyczko, M.W. van Gisbergen, H. Kurniawan, A. Wagner, N. Yosef, S.N.Y. Weiss, K.G. Schmetterer, A. Schröder, L. Krampert, S. Haase, H. Bartolomaeus, N. Hellings, Y. Saeys, L.J. Dubois, D. Brenner, S. Kempa, D.A. Hafler, J. Stegbauer, R.A. Linker, J. Jantsch, D.N. Müller, M. Kleinewietfeld"
   title: "Sodium perturbs mitochondrial respiration and induces dysfunctional Tregs"
   details: Cell Metabolism
