@@ -103,7 +103,7 @@
   preprint: false
   scvitools: true
   
-- authors: "P. Boyeau,  J. Regier,  A. Gayoso, M.I. Jordan, R. Lopez, N. Yosef"
+- authors: "P. Boyeau,  J. Regier,  A. Gayoso, M.I. Jordan, R. Lopez†, N. Yosef†"
   title: "An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models"
   details: Proc Natl Acad Sci (to appear)
   year: 2023
@@ -168,6 +168,7 @@
   preprint: false
   scvitools: false
 
+  
 # 2022
 
 - authors: "M. Pawlak\\*, D. DeTomaso\\*, GM. zu Horste, Y. Lee, J. Nyman, D. Dionne, C. Wang, A. Wallrapp, PR. Burkett, SJ. Riesenfeld, AC. Anderson, A. Regev, RJ. Xavier, N. Yosef†, VK. Kuchroo†"
