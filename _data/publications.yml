@@ -53,10 +53,13 @@
   scvitools: false
  
   
+  
+# 2023
+
 - authors: "Z. Steier, LL. McIntyre, LK. Lutes, T Huang,  EA. Robey†, N. Yosef†, A. Streets†"
   title: "Single-cell multi-omic analysis of thymocyte development reveals NFAT as a driver of CD4/CD8 lineage commitment"
-  details: bioRxiv
-  year: 2021
+  details: Nature Immunology (in press)
+  year: 2023
   pmid:
   pmcid:
   openaccess:
@@ -67,10 +70,8 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.12.452119v1
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   
-# 2023
-
 - authors: "Virshup I\\*, Bredikhin D\\*, Heumos L\\*, Palla G\\*, Sturm G\\*, Gayoso A\\*, Kats I, Koutrouli M; Scverse Community; Berger B, Pe'er D, Regev A, Teichmann SA, Finotello F†, Wolf FA†, Yosef N†, Stegle O†, Theis FJ†"
   title: "The scverse project provides a computational ecosystem for single-cell omics data analysis"
   details: Nature Biotechnology 
