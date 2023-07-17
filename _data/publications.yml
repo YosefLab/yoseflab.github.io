@@ -57,22 +57,6 @@
   contentshare:
   preprint: false
   
-- authors: "Virshup I\\*, Bredikhin D\\*, Heumos L\\*, Palla G\\*, Sturm G\\*, Gayoso A\\*, Kats I, Koutrouli M; Scverse Community; Berger B, Pe'er D, Regev A, Teichmann SA, Finotello F†, Wolf FA†, Yosef N†, Stegle O†, Theis FJ†"
-  title: "The scverse project provides a computational ecosystem for single-cell omics data analysis"
-  details: Nature Biotechnology 
-  year: 2023
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1038/s41587-023-01733-8
-  file:
-  filetype:
-  biorxiv: 
-  arxiv:
-  contentshare:
-  preprint: false
-  scvitools: true
-  
 - authors: "A. Gayoso\\*, P. Weiler\\*, M. Lotfollahi, D. Klein, J. Hong, A. Streets, FJ. Theis†, N. Yosef†"
   title: "Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells"
   details: Nature Methods (to appear)
@@ -137,11 +121,27 @@
   contentshare:
   preprint: false
   cassiopeia: true
+
+- authors: "Virshup I\\*, Bredikhin D\\*, Heumos L\\*, Palla G\\*, Sturm G\\*, Gayoso A\\*, Kats I, Koutrouli M; Scverse Community; Berger B, Pe'er D, Regev A, Teichmann SA, Finotello F†, Wolf FA†, Yosef N†, Stegle O†, Theis FJ†"
+  title: "The scverse project provides a computational ecosystem for single-cell omics data analysis"
+  details: Nature Biotechnology 
+  year: 2023
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s41587-023-01733-8
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
   
 - authors: "CR. Simoneau\\*, P. Chen\\*, GK. Xing\\*, MM. Khalid,  NL. Meyers,  JM. Hayashi,  TY. Taha,  KE. Leon, T. Ashuach, KA. Fontaine, L. Rodriguez, B. Joehnk,  K. Walcott,  S. Vasudevan,  X. Fang, M. Maishan, S. Schultz,  J. Roose,  MA. Matthay,  A. Sil, M. Arjomandi, N. Yosef†,  M. Ott†"
   title: "NF-κB inhibitor alpha has a cross-variant role during SARS-CoV-2 infection in ACE2-overexpressing human airway organoids"
   details: mBio (in press)
-  year: 2022
+  year: 2023
   pmid:
   pmcid:
   openaccess:
