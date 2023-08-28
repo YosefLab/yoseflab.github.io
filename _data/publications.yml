@@ -3,6 +3,23 @@
 
 # PREPRINTS FIRST
 
+- authors: "C. Ergen, G. Xing, C. Xu, M. Jayasuriya, E. McGeever, A.O. Pisco,  A. Streets, N. Yosef"
+  title: "Consensus prediction of cell type labels with popV"
+  details: bioRxiv
+  year: 
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2023.08.18.553912
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/PopV
+  biorxiv: https://www.biorxiv.org/content/10.1101/2023.08.18.553912v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
+  
 - authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Jordan, E. Azizi, N. Yosef"
   title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
   details: bioRxiv
@@ -43,16 +60,16 @@
 
 - authors: "Z. Steier, LL. McIntyre, LK. Lutes, T Huang,  EA. Robey†, N. Yosef†, A. Streets†"
   title: "Single-cell multi-omic analysis of thymocyte development reveals NFAT as a driver of CD4/CD8 lineage commitment"
-  details: Nature Immunology (in press)
+  details: Nature Immunology 
   year: 2023
   pmid:
   pmcid:
   openaccess:
-  doi: 10.1101/2021.07.12.452119
+  doi: 10.1038/s41590-023-01584-0
   file:
   filetype:
   github:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.07.12.452119v1
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
@@ -75,15 +92,15 @@
   
 - authors: "P. Boyeau,  J. Regier,  A. Gayoso, M.I. Jordan, R. Lopez†, N. Yosef†"
   title: "An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models"
-  details: Proc Natl Acad Sci (to appear)
+  details: Proc Natl Acad Sci 
   year: 2023
   pmid:
   pmcid:
   openaccess:
-  doi:
+  doi: 10.1073/pnas.2209124120
   file:
   filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.05.27.493625v1
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
@@ -91,16 +108,16 @@
   
 - authors: "T. Ashuach\\*, M. Gabitto\\*, M. Jordan, N. Yosef"
   title: "MultiVI: deep generative model for the integration of multi-modal data."
-  details: Nature Methods (to appear)
+  details: Nature Methods 
   year: 2023
   pmid:
   pmcid:
   openaccess:
-  doi:
+  doi: 10.1038/s41592-023-01909-9
   file:
   filetype:
   github:  https://github.com/YosefLab/scvi-tools
-  biorxiv: https://www.biorxiv.org/content/10.1101/2021.08.20.457057v1
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
