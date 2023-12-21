@@ -54,8 +54,22 @@
   preprint: true
   scvitools: false
  
-  
-  
+- authors: "CR. Simoneau\\*, P. Chen\\*, GK. Xing\\*, MM. Khalid,  NL. Meyers,  JM. Hayashi,  TY. Taha,  KE. Leon, T. Ashuach, KA. Fontaine, L. Rodriguez, B. Joehnk,  K. Walcott,  S. Vasudevan,  X. Fang, M. Maishan, S. Schultz,  J. Roose,  MA. Matthay,  A. Sil, M. Arjomandi, N. Yosef†,  M. Ott†"
+  title: "NF-κB inhibitor alpha has a cross-variant role during SARS-CoV-2 infection in ACE2-overexpressing human airway organoids"
+  details: bioRxiv
+  year: 2023
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2022.08.02.502100
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.08.02.502100v1.full
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
+
 # 2023
 
 - authors: "Z. Steier, LL. McIntyre, LK. Lutes, T Huang,  EA. Robey†, N. Yosef†, A. Streets†"
@@ -155,21 +169,24 @@
   preprint: false
   scvitools: true
   
-- authors: "CR. Simoneau\\*, P. Chen\\*, GK. Xing\\*, MM. Khalid,  NL. Meyers,  JM. Hayashi,  TY. Taha,  KE. Leon, T. Ashuach, KA. Fontaine, L. Rodriguez, B. Joehnk,  K. Walcott,  S. Vasudevan,  X. Fang, M. Maishan, S. Schultz,  J. Roose,  MA. Matthay,  A. Sil, M. Arjomandi, N. Yosef†,  M. Ott†"
-  title: "NF-κB inhibitor alpha has a cross-variant role during SARS-CoV-2 infection in ACE2-overexpressing human airway organoids"
-  details: mBio (in press)
+- authors: "Meyers NL, Ashuach T, Lyons DE, Simoneau CR, Erickson AL, Bouhaddou M, Nguyen TT, Khalid MM, Taha TY, Natajaran V, Baron JL, Neff N, Zanini F, Mahmoud T, Quake SR, Krogan NJ, Cooper S, McDevitt TC, N. Yosef†,  M. Ott†"
+  title: "Hepatitis C Virus Infects and Perturbs Liver Stem Cells"
+  details: mBio
   year: 2023
   pmid:
   pmcid:
   openaccess:
-  doi: 10.1101/2022.08.02.502100
+  doi: 10.1128/mbio.01318-23
   file:
   filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.08.02.502100v1.full
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
   scvitools: false
+
+Hepatitis C Virus Infects and Perturbs Liver Stem Cells.
+  
   
 - authors: "B.F. Côrte-Real, I. Hamad, R. Arroyo Hornero, S. Geisberger, J. Roels, L. Van Zeebroeck, A. Dyczko, M.W. van Gisbergen, H. Kurniawan, A. Wagner, N. Yosef, S.N.Y. Weiss, K.G. Schmetterer, A. Schröder, L. Krampert, S. Haase, H. Bartolomaeus, N. Hellings, Y. Saeys, L.J. Dubois, D. Brenner, S. Kempa, D.A. Hafler, J. Stegbauer, R.A. Linker, J. Jantsch, D.N. Müller, M. Kleinewietfeld"
   title: "Sodium perturbs mitochondrial respiration and induces dysfunctional Tregs"
