@@ -9,112 +9,144 @@
   twitter: "YosefLab"
   description: Wolfson building, office 608 
 
-- name:  Martin Witte
+- name: Martin Witte
   degrees:
   image: john_d.jpg
   altimage:
-  position: Lab manager (UC Berkeley)
+  position: Lab manager, UC Berkeley
   email: mwitte (at) berkeley.edu
   website:
   scholar:
   twitter:
   description:
 
-- name:  Shlomit Reich-Zeliger 
+- name: Shelly Munichor
+  degrees:
+  image: john_d.jpg
+  altimage:
+  position: Lab manager, Weizmann Institute of Science
+  email: shelly.munichor (at) weizmann.ac.il
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Shlomit Reich-Zeliger 
   degrees: PhD
   image: shlomit.jpeg
   altimage:
-  position: Senior Staff Scientist, Lab manager (Weizmann Institute)
+  position: Senior staff scientist, Weizmann Institute of Science
   email: shlomit.reich-zeliger (at) weizmann.ac.il
   website:
   scholar:
   twitter:
   description:
 
-
-- name:  Elior Rahmani
+- name: Amit Agrawal
   degrees: PhD
-  image: elior.jpg
+  image: john_d.jpg
   altimage:
-  position: Postdoctoral associate; joint with [Mike Jordan](https://people.eecs.berkeley.edu/~jordan/)
-  email:
-  website: https://eliorrahmani.com
-  scholar: WDhy9ZAAAAAJ
+  position: Postdoctoral associate, Weizmann Institute of Science
+  email: amit.agrawal (at) weizmann.ac.il
+  website:
+  scholar:
   twitter:
   description:
 
-- name: Allon Wagner
+- name: Giacomo Cinnirella
   degrees: PhD
-  image: allon.png
+  image: john_d.jpg
   altimage:
-  position: Postdoctoral associate
-  email: allonwag (at) berkeley.edu
-  website: https://www.allonwagnerlab.org/
-  scholar: vJMq3OcAAAAJ
+  position: Postdoctoral associate, Weizmann Institute of Science
+  email: giacomo.cinnirella (at) weizmann.ac.il
+  website:
+  scholar:
   twitter:
   description:
 
-- name:  Can Ergen-Behr
+- name: Can Ergen-Behr
   degrees: MD
   image: can.jpg
   altimage:
-  position: Postdoctoral associate
+  position: Postdoctoral associate, UC Berkeley
   email: cergen (at) berkeley.edu
   website:
   scholar: O9uxHN4AAAAJ
   twitter:
   description:
 
-- name:  Jonas Maaskola 
+- name: Florian Ingelfinger
   degrees: PhD
-  image: jonas.jpeg
+  image: john_d.jpg
   altimage:
-  position: Postdoctoral associate
-  email:
-  website: 
-  scholar: 
-  twitter:
-  description:
-
-- name:  Michal Mark 
-  degrees: PhD
-  image: michal_m.jpeg
-  altimage:
-  position: Postdoctoral associate
-  email:
-  website: 
-  scholar: 
-  twitter:
-  description:
-  
-- name:  Alex Khodaverdian
-  degrees:
-  image: Alex_k.jpg
-  altimage:
-  position: Graduate student (EECS)
-  email:
+  position: Postdoctoral associate, Weizmann Institute of Science
+  email: florian.ingelfinger (at) weizmann.ac.il
   website:
   scholar:
   twitter:
   description:
 
-- name:  Adam Gayoso
-  degrees:
-  image: adam.jpg
+- name: Jonas Maaskola 
+  degrees: PhD
+  image: jonas.jpeg
   altimage:
-  position: Graduate student (CCB); joint with [Aaron Streets](http://streetslab.berkeley.edu/)
-  email: adamgayoso (at) berkeley.edu
-  github:
-  website: https://adamgayoso.com/
-  scholar: TNqOADUAAAAJ&hl
-  twitter: adamgayoso
+  position: Postdoctoral associate, Weizmann Institute of Science
+  email: jonas.maaskola (at) weizmann.ac.il
+  website: 
+  scholar: 
+  twitter:
   description:
 
-- name:  Pierre Boyeau
+- name: Michal Mark 
+  degrees: PhD
+  image: michal_m.jpeg
+  altimage:
+  position: Postdoctoral associate, Weizmann Institute of Science
+  email: michal.mark (at) weizmann.ac.il
+  website: 
+  scholar: 
+  twitter:
+  description:
+
+- name: Anna-Chiara Pirona
+  degrees: PhD
+  image: john_d.jpg
+  altimage:
+  position: Postdoctoral associate, Weizmann Institute of Science
+  email: anna-chiara.pirona (at) weizmann.ac.il
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Linor Bengal
+  degrees:
+  image: john_d.jpg
+  altimage:
+  position: Graduate student, Weizmann Institute of Science
+  email: linor.bengal (at) weizmann.ac.il
+  github:
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Eli Benuck
+  degrees:
+  image: john_d.jpg
+  altimage:
+  position: Graduate student, Weizmann Institute of Science
+  email: eli.benuck (at) weizmann.ac.il
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Pierre Boyeau
   degrees:
   image: pierre.jpg
   altimage:
-  position: Graduate student (EECS)
+  position: Graduate student, EECS, UC Berkeley
   email: pierreboyeau (at) berkeley.edu
   github:
   website:
@@ -122,115 +154,90 @@
   twitter: pierreboyeau
   description:
 
-- name:  Sebastian Prillo
+- name: Oier Etxezarreta  
+  degrees:
+  image: oier.jpeg
+  altimage:
+  position: Graduate student, Weizmann Institute of Science
+  email: oier.etxezarreta (at) weizmann.ac.il
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Nathan Levy
+  degrees:
+  image: john_d.jpg
+  altimage:
+  position: Graduate student, Weizmann Institute of Science
+  email: nathan.levy (at) weizmann.ac.il
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Sebastian Prillo
   degrees:
   image: sebastian_prillo.jpg
   altimage:
-  position: Graduate student (EECS); joint with Yun S. Song
+  position: Graduate student, EECS, UC Berkeley; joint with Yun S. Song
   email: sprillo (at) berkeley.edu
   website: http://people.eecs.berkeley.edu/~sprillo/
   scholar: dvJiM_kAAAAJ&hl
   twitter: SebastianPrillo
   description:
 
-- name:  Ruchir Rastogi
+- name: Ruchir Rastogi
   degrees:
   image: ruchir_rastogi.jpg
   altimage:
-  position: Graduate student (EECS); joint with Nilah Ioannidis
+  position: Graduate student, EECS, UC Berkeley; joint with Nilah Ioannidis
   email: ruchir_rastogi (at) berkeley.edu
   website:
   scholar: 9bHYFgQAAAAJ
   twitter: rrastogi02
   description:
-  
-- name:  Anmol Kulkarni  
+
+- name: Avital Rodov
   degrees:
-  image: anmol.jpeg
+  image: john_d.jpg
   altimage:
-  position: Graduate student (Weizmann Institute)
-  email:
-  website:
-  scholar:
-  twitter:
-  description:
-  
-- name:  Oier Etxezarreta  
-  degrees:
-  image: oier.jpeg
-  altimage:
-  position: MS student (Biomedical Engineering; University of Navarra)
-  email:
-  website:
-  scholar:
-  twitter:
-  description:
-  
-- name:  Valeh Valiollah Pour Amiri
-  degrees: M.Sc
-  image: valeh.jpg
-  altimage:
-  position: Research engineer
-  email: valehvpa (at) berkeley.edu
+  position: Graduate student, Weizmann Institute of Science
+  email: avital.rodov (at) weizmann.ac.il
   website:
   scholar:
   twitter:
   description:
 
-- name:  Martin Kim
-  degrees: B.Sc
-  image: martin_k.jpeg
+- name: Tomer Segev
+  degrees:
+  image: john_d.jpg
   altimage:
-  position: Research engineer
+  position: Graduate student, Weizmann Institute of Science
+  email: tomer.segev (at) weizmann.ac.il
+  website:
+  scholar:
+  twitter:
+  description:
+
+- name: Martin Kim
+  degrees: BS
+  image: john_d.jpg
+  altimage:
+  position: Research engineer, UC Berkeley
   email: martinkim (at) berkeley.edu
   website:
   scholar:
   twitter:
   description:
-  
-- name:  Kevin An
+
+- name: Yoav Nahum
   degrees:
-  image: kevin.jpg
+  image: john_d.jpg
   altimage:
-  position: Undergraduate researcher
-  email: kevinan (at) berkeley.edu
+  position: Research engineer, Weizmann Institute of Science
+  email: yoavnah (at) weizmann.ac.il
   website:
   scholar:
   twitter:
   description:
-
-- name:  Ivan Kristanto
-  degrees:
-  image: ivan.jpg
-  altimage:
-  position: Undergraduate researcher
-  email: ivalexander13 (at) berkeley.edu
-  website:
-  scholar:
-  twitter:
-  description:
-
-- name: Akshay Ravoor
-  degrees:
-  image: akshay.jpg
-  altimage:
-  position: Undergraduate researcher
-  email: akshayr (at) berkeley.edu
-  website:
-  scholar:
-  twitter:
-  description:
-
-- name: Wilson Wu
-  degrees:
-  image: wilson.jpeg
-  altimage:
-  position: Undergraduate researcher
-  email: nosliw (at) berkeley.edu
-  website:
-  scholar:
-  twitter:
-  description:
-
-
-
