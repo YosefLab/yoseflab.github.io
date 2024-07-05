@@ -108,6 +108,24 @@
   scvitools: false
 
 
+- authors: "P. Boyeau, AN. Angelopoulos, N. Yosef, J. Malik, MI. Jordan"
+  title: "AutoEval Done Right: Using Synthetic Data for Model Evaluation"
+  details: arXiv
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.48550/arXiv.2403.07008
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
+
+  
+
 - authors: "A. Khodaverdian and N. Yosef"
   title: "Directed Shortest Walk on Temporal Graphs"
   details: bioRxiv
