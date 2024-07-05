@@ -74,6 +74,24 @@
 
  
 
+- authors: "S. Prillo, A. Ravoor, N. Yosef†, YS. Song†"
+  title: "ConvexML: Scalable and accurate inference of single-cell chronograms from CRISPR/Cas9 lineage tracing data"
+  details: bioRxiv
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2023.12.03.569785
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2023.12.03.569785v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
+
+ 
+
 - authors: "A. Khodaverdian and N. Yosef"
   title: "Directed Shortest Walk on Temporal Graphs"
   details: bioRxiv
@@ -90,6 +108,7 @@
   contentshare:
   preprint: true
   scvitools: false
+
  
 - authors: "CR. Simoneau\\*, P. Chen\\*, GK. Xing\\*, MM. Khalid,  NL. Meyers,  JM. Hayashi,  TY. Taha,  KE. Leon, T. Ashuach, KA. Fontaine, L. Rodriguez, B. Joehnk,  K. Walcott,  S. Vasudevan,  X. Fang, M. Maishan, S. Schultz,  J. Roose,  MA. Matthay,  A. Sil, M. Arjomandi, N. Yosef†,  M. Ott†"
   title: "NF-κB inhibitor alpha has a cross-variant role during SARS-CoV-2 infection in ACE2-overexpressing human airway organoids"
