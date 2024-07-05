@@ -3,7 +3,7 @@
 
 # PREPRINTS FIRST
 
-- authors: "C. Ergen, G. Xing, C. Xu, M. Jayasuriya, E. McGeever, A.O. Pisco,  A. Streets, N. Yosef"
+- authors: "C. Ergen, G. Xing, C. Xu, M. Jayasuriya, E. McGeever, A.O. Pisco, A. Streets, N. Yosef"
   title: "Consensus prediction of cell type labels with popV"
   details: bioRxiv
   year: 
@@ -21,7 +21,7 @@
   scvitools: true
   
 
-- authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen, N. Yosef"
+- authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen\\†, N. Yosef\\†"
   title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
   details: bioRxiv
   year: 2024
@@ -74,7 +74,7 @@
 
  
 
-- authors: "S. Prillo, A. Ravoor, N. Yosef†, YS. Song†"
+- authors: "S. Prillo, A. Ravoor, N. Yosef\\†, YS. Song\\†"
   title: "ConvexML: Scalable and accurate inference of single-cell chronograms from CRISPR/Cas9 lineage tracing data"
   details: bioRxiv
   year: 2024
@@ -91,7 +91,7 @@
   scvitools: false
 
  
-- authors: "S.  Prillo, K. An, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
+- authors: "S. Prillo, K. An, W. Wu, I. Kristanto, MG. Jones, YS. Song\\† , N. Yosef\\†"
   title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
   details: bioRxiv
   year: 2024
@@ -124,12 +124,12 @@
   preprint: true
   scvitools: true
 
-  
+
 
 - authors: "A. Khodaverdian and N. Yosef"
   title: "Directed Shortest Walk on Temporal Graphs"
   details: bioRxiv
-  year: 2022
+  year: 2024
   pmid:
   pmcid:
   openaccess:
@@ -144,6 +144,27 @@
   scvitools: false
 
  
+- authors: "SB. Wells\\*, DB. Rainbow\\*, M. Mark\\*, PA. Szabo\\*, C. Ergen\\*, A. Maceiras\\*, DP. Caron, E. Rahmani, E. Benuck, V. Pour Amiri, D. Chen, A. Wagner, SK. Howlett, LB. Jarvis, KL. Ellis, M. Kubota, R. Matsumoto, K. Mahbubani, K. Saeb-Parsy, C. Dominguez-Conde, L. Richardson, C. Xu, S. Li, L. Mamanova, L. Bolt, A. Wilk, SA. Teichmann\\†, DL. Farber\\†, PA. Sims\\†, JL. Jones\\†, N. Yosef\\†"
+  title: "Multimodal profiling reveals tissue-directed signatures of human immune cells altered with age"
+  details: bioRxiv
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2022.07.08.499368
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/temporal_condition_shortest_walk
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.07.08.499368v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
+
+
+
+ #2024
+
 - authors: "CR. Simoneau\\*, P. Chen\\*, GK. Xing\\*, MM. Khalid,  NL. Meyers,  JM. Hayashi,  TY. Taha,  KE. Leon, T. Ashuach, KA. Fontaine, L. Rodriguez, B. Joehnk,  K. Walcott,  S. Vasudevan,  X. Fang, M. Maishan, S. Schultz,  J. Roose,  MA. Matthay,  A. Sil, M. Arjomandi, N. Yosef†,  M. Ott†"
   title: "NF-κB inhibitor alpha has a cross-variant role during SARS-CoV-2 infection in ACE2-overexpressing human airway organoids"
   details: bioRxiv
@@ -159,6 +180,8 @@
   contentshare:
   preprint: true
   scvitools: false
+
+
 
 # 2023
 
