@@ -165,22 +165,54 @@
 
  #2024
 
-- authors: "CR. Simoneau\\*, P. Chen\\*, GK. Xing\\*, MM. Khalid,  NL. Meyers,  JM. Hayashi,  TY. Taha,  KE. Leon, T. Ashuach, KA. Fontaine, L. Rodriguez, B. Joehnk,  K. Walcott,  S. Vasudevan,  X. Fang, M. Maishan, S. Schultz,  J. Roose,  MA. Matthay,  A. Sil, M. Arjomandi, N. Yosef†,  M. Ott†"
-  title: "NF-κB inhibitor alpha has a cross-variant role during SARS-CoV-2 infection in ACE2-overexpressing human airway organoids"
-  details: bioRxiv
-  year: 2023
+- authors: "A. Gayoso\\*, P. Weiler\\*, M. Lotfollahi, D. Klein, J. Hong, A. Streets, FJ. Theis†, N. Yosef†"
+  title: "Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells"
+  details: Nature Methods
+  year: 2024
   pmid:
   pmcid:
   openaccess:
-  doi: 10.1101/2022.08.02.502100
+  doi: 10.1101/2022.08.12.503709
   file:
   filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.08.02.502100v1.full
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.08.12.503709v1
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
+  scvitools: true
+
+- authors: "CR. Simoneau\\*, P. Chen\\*, GK. Xing\\*, MM. Khalid,  NL. Meyers,  JM. Hayashi,  TY. Taha,  KE. Leon, T. Ashuach, KA. Fontaine, L. Rodriguez, B. Joehnk,  K. Walcott,  S. Vasudevan,  X. Fang, M. Maishan, S. Schultz,  J. Roose,  MA. Matthay,  A. Sil, M. Arjomandi, N. Yosef†,  M. Ott†"
+  title: "NF-κB inhibitor alpha has a cross-variant role during SARS-CoV-2 infection in ACE2-overexpressing human airway organoids"
+  details: Scientific Reports
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s41598-024-66003-2
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
   scvitools: false
 
+
+- authors: "The Critical Assessment of Genome Interpretation Consortium"
+  title: "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods"
+  details: Genome Biology
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1186/s13059-023-03113-6
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
 
 
 # 2023
@@ -201,21 +233,6 @@
   contentshare:
   preprint: false
   
-- authors: "A. Gayoso\\*, P. Weiler\\*, M. Lotfollahi, D. Klein, J. Hong, A. Streets, FJ. Theis†, N. Yosef†"
-  title: "Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells"
-  details: Nature Methods (to appear)
-  year: 2023
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2022.08.12.503709
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.08.12.503709v1
-  arxiv:
-  contentshare:
-  preprint: false
-  scvitools: true
   
 - authors: "P. Boyeau,  J. Regier,  A. Gayoso, M.I. Jordan, R. Lopez†, N. Yosef†"
   title: "An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models"
