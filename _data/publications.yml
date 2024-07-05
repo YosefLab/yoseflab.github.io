@@ -91,6 +91,22 @@
   scvitools: false
 
  
+- authors: "S.  Prillo, K. An, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
+  title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
+  details: bioRxiv
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
+
 
 - authors: "A. Khodaverdian and N. Yosef"
   title: "Directed Shortest Walk on Temporal Graphs"
