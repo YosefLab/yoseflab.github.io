@@ -55,6 +55,25 @@
   scvitools: true
 
   
+
+- authors: "C. Ergen, VV. Pour Amiri, M. Kim, A. Streets, A. Gayoso, N. Yosef"
+  title: "Scvi-hub: an actionable repository for model-driven single cell analysis"
+  details: bioRxiv
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2024.03.01.582887
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2024.03.01.582887v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
+
+ 
+
 - authors: "A. Khodaverdian and N. Yosef"
   title: "Directed Shortest Walk on Temporal Graphs"
   details: bioRxiv
