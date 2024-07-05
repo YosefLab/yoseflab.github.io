@@ -1,21 +1,16 @@
-name: Build and Deploy
+name: build and deploy
+
 on:
   push:
-    # NOTE:
-    #   For a **project** site (username.github.io/project/), push things
-    #     to the **master** branch and make sure to set the line below to
-    # `   - master`; also, at the end of the file, change to `BRANCH: gh-pages`
-    #
-    #   For a **personal** site (username.github.io/), push things to a **dev**
-    #     branch  and make sure to set the line  below to `- dev` this is
-    #     because for user pages GitHub pages **requires** the deployment to be
-    #     on the master branch; also, at the end of the file, change to
-    #    `BRANCH: master`
-    branches:
-      - source
+    branches: ["source"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -26,9 +21,14 @@ jobs:
 
       - uses: actions/upload-pages-artifact@v3
 
-      - uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: master # The branch the action should deploy to.
-          FOLDER: _site # The folder the action should deploy.
-          CLEAN: true # Automatically remove deleted files from the deploy branch
+  deploy:
+    needs: build
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/deploy-pages@v4
