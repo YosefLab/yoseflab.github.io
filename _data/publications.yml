@@ -215,6 +215,75 @@
   scvitools: false
 
 
+- authors: "Gray, J. I., Caron, D. P., Wells, S. B., Guyer, R., Szabo, P., Rainbow, D., Ergen, C., Rybkina, K., Bradley, M. C., Matsumoto, R., Pethe, K., Kubota, M., Teichmann, S., Jones, J., Yosef, N., Atkinson, M., Brusko, M., Brusko, T. M., Connors, T. J., Sims, P. A.,  Farber, D. L."
+  title: "Human γδ T cells in diverse tissues exhibit site-specific maturation dynamics across the life span"
+  details: Genome Biology
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1126/sciimmunol.adn3954
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
+
+
+- authors: "Sinha, S., Vegesna, R., Mukherjee, S., Kammula, A. V., Dhruba, S. R., Wu, W., Kerr, D. L., Nair, N. U., Jones, M. G., Yosef, N., Stroganov, O. V., Grishagin, I., Aldape, K. D., Blakely, C. M., Jiang, P., Thomas, C. J., Benes, C. H., Bivona, T. G., Schäffer, A. A., & Ruppin, E."
+  title: "PERCEPTION predicts patient response and resistance to treatment using single-cell transcriptomics of their tumors"
+  details: Nature cancer
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s43018-024-00756-7
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
+
+
+- authors: "D. Kirschenbaum, K. Xie, F. Ingelfinger, Y. Katzenelenbogen, K. Abadie, T. Look, F. Sheban, T. San Phan, B. Li, P. Zwicky, I. Yofe, E. David, K. Mazuz, J. Hou, Y. Chen, H. Shaim, M. Shanley, S. Becker, J. Qian, M. Colonna, F. Ginhoux, K. Rezvani, FJ. Theis, N. Yosef, T. Weiss, A. Weiner, I. Amit"
+  title: "Time-resolved single-cell transcriptomics defines immune trajectories in glioblastoma"
+  details: Cell
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.cell.2023.11.032
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
+
+
+- authors: "J. Liu, T. Ashuach, F. Inoue, N. Ahituv, N. Yosef, A. Kreimer"
+  title: "Optimizing sequence design strategies for perturbation MPRAs: a computational evaluation framework"
+  details: Nucleic Acids Research
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1093/nar/gkae012
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
+
+
+
 # 2023
 
 - authors: "Z. Steier, LL. McIntyre, LK. Lutes, T Huang,  EA. Robey†, N. Yosef†, A. Streets†"
