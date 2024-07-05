@@ -20,6 +20,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.4"
+          bundler-cache: true
+
       - uses: lemonarc/jekyll-action@1.0.0
 
       - uses: JamesIves/github-pages-deploy-action@v4
