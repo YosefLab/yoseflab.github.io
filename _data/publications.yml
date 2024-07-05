@@ -37,6 +37,23 @@
   preprint: true
   scvitools: true
 
+
+- authors: "P. Boyeau, S. Bates, C. Ergen, MI. Jordan, N. Yosef"
+  title: "Calibrated Identification of Feature Dependencies in Single-cell Multiomics "
+  details: bioRxiv
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2023.11.03.565520
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2023.11.03.565520v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
+
   
 - authors: "A. Khodaverdian and N. Yosef"
   title: "Directed Shortest Walk on Temporal Graphs"
