@@ -27,7 +27,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - uses: lemonarc/jekyll-action@v1
+      - uses: lemonarc/jekyll-action@1.0.0
 
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
