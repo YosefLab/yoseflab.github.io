@@ -20,13 +20,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/cache@v4
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-
       - uses: lemonarc/jekyll-action@1.0.0
 
       - uses: JamesIves/github-pages-deploy-action@v4
