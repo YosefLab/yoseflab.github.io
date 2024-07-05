@@ -20,11 +20,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: "3.3"
+      - uses: actions/configure-pages@v5
 
-      - uses: lemonarc/jekyll-action@1.0.0
+      - uses: actions/jekyll-build-pages@v1
+
+      - uses: actions/upload-pages-artifact@v3
 
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
