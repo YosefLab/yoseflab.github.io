@@ -161,9 +161,6 @@
   preprint: true
   scvitools: false
 
- 
-# 2024
-
 
 - authors: "A. Gayoso\\*, P. Weiler\\*, M. Lotfollahi, D. Klein, J. Hong, A. Streets, FJ. Theis†, N. Yosef†"
   title: "Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells"
