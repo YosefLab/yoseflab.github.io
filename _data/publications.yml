@@ -161,7 +161,23 @@
   preprint: true
   scvitools: false
 
+# 2024
 
+- authors: "A. Gayoso\\*, P. Weiler\\*, M. Lotfollahi, D. Klein, J. Hong, A. Streets, FJ. Theis†, N. Yosef†"
+  title: "Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells"
+  details: Nature Methods
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s41592-023-01994-w
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
 
 - authors: "CR. Simoneau\\*, P. Chen\\*, GK. Xing\\*, MM. Khalid,  NL. Meyers,  JM. Hayashi,  TY. Taha,  KE. Leon, T. Ashuach, KA. Fontaine, L. Rodriguez, B. Joehnk,  K. Walcott,  S. Vasudevan,  X. Fang, M. Maishan, S. Schultz,  J. Roose,  MA. Matthay,  A. Sil, M. Arjomandi, N. Yosef†,  M. Ott†"
   title: "NF-κB inhibitor alpha has a cross-variant role during SARS-CoV-2 infection in ACE2-overexpressing human airway organoids"
