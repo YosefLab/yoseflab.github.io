@@ -1,150 +1,155 @@
 - name: Mariano Gabitto
   degrees: PhD
-  previously: Postdoctoral associate
+  previously: Postdoctoral Associate
   now: Assistant Investigator, Allen Institute for Brain Science, University of Washington
 
 - name: Anat Kremier
   degrees: PhD
-  previously:  Postdoctoral associate
+  previously:  Postdoctoral Associate
   now: Assistant Professor, Department of Biochemistry and Molecular Biology, Rutgers University
 
 - name: Elior Rahmani
   degrees: PhD
-  previously: Postdoctoral associate
+  previously: Postdoctoral Associate
   now: Assistant Adjunct Professor, Department of Computational Medicine, UCLA
   website: https://eliorrahmani.com
 
 - name: Allon Wagner
   degrees: PhD
-  previously: Postdoctoral associate
+  previously: Postdoctoral Associate
   now: Assistant Professor, Department of Molecular and Cell Biology, UC Berkeley
   website: https://www.allonwagnerlab.org/
 
 - name: Xiuwei Zhang
   degrees: PhD
-  previously: Postdoctoral associate
+  previously: Postdoctoral Associate
   now: Assistant Professor, School of Computational Science and Engineering, Georgia Institute of Technology
   website: https://xiuweizhang.wordpress.com/
 
 - name: Shaked Afik
   degrees: PhD
-  previously: Graduate student (CCB)
+  previously: Graduate Student (CCB)
   now: Computational Biologist, Immunai
 
 - name: Chenling Antelope
   degrees: PhD
-  previously: Graduate student (CCB)
+  previously: Graduate Student (CCB)
   now: Computational Biologist, Immunai
 
 - name:  Tal Ashuach
   degrees: PhD
-  previously: Graduate student (CCB)
+  previously: Graduate Student (CCB)
   now: Machine Learning Scientist, Patch Biosciences
 
 - name:  Carlos Buen Abad Najar
   degrees: PhD
-  previously: Graduate student (CCB); joint with Liana Lareau
+  previously: Graduate Student (CCB); joint with Liana Lareau
   now: Postdoctoral Associate, Li and Stephens labs, University of Chicago
 
 - name: Michael Cole
   degrees: PhD
-  previously: Graduate student (Physics)
+  previously: Graduate Student (Physics)
   now: Data Scientist, Square
 
 - name: David DeTomaso
   degrees: PhD
-  previously: Graduate student (CCB)
+  previously: Graduate Student (CCB)
   now: Scientist, Arsenal Bio
 
 - name: Nick Everetts
   degrees: PhD
-  previously: Graduate student (CCB); joint with [Iswar Hariharan](https://mcb.berkeley.edu/labs/hariharan)
+  previously: Graduate Student (CCB); joint with [Iswar Hariharan](https://mcb.berkeley.edu/labs/hariharan)
   now: Postdoctoral Associate, Hariharan lab, UC Berkeley
 
 - name: Adam Gayoso
   degrees: PhD
-  previously: Graduate student (CCB); joint with [Aaron Streets](http://streetslab.berkeley.edu/)
+  previously: Graduate Student (CCB); joint with [Aaron Streets](http://streetslab.berkeley.edu/)
   now: Research Scientist, Google DeepMind
   website: https://adamgayoso.com/
 
 - name: Matt Jones
   degrees: PhD
-  previously: Graduate student (Bioinformatics, UCSF); joint with [Jonathan Weissman](https://weissman.wi.mit.edu/)
+  previously: Graduate Student (Bioinformatics, UCSF); joint with [Jonathan Weissman](https://weissman.wi.mit.edu/)
   now: Postdoctoral Associate, Chang lab, Stanford University
   website: https://mattjones315.github.io/
 
 - name: Jim Kaminski
   degrees: PhD
-  previously: Graduate student (CCB)
+  previously: Graduate Student (CCB)
   now: Postdoctoral Associate, Shalek lab
 
 - name: Alex Khodaverdian
   degrees: PhD
-  previously: Graduate student (EECS)
+  previously: Graduate Student (EECS)
 
 - name: Ali Sinan Koskal
   degrees: PhD
-  previously: Graduate student (EECS)
+  previously: Graduate Student (EECS)
   now: Software Engineer, Google
 
 - name: Romain Lopez
   degrees: PhD
-  previously: Graduate student (EECS); joint with Michael I. Jordan
+  previously: Graduate Student (EECS); joint with Michael I. Jordan
   now: Postdoctoral Associate, Regev lab, Genentech; Pritchard lab, Stanford University
   website: https://romain-lopez.github.io/
 
 - name: Alyssa Morrow
   degrees: PhD
-  previously: Graduate student (EECS); joint with Anthony Joseph
+  previously: Graduate Student (EECS); joint with Anthony Joseph
   now: Machine Learning Scientist, Patch Biosciences
 
 - name: Zoë Steier
   degrees: PhD
-  previously: Graduate student (BioE); joint with [Aaron Streets](http://streetslab.berkeley.edu/)
+  previously: Graduate Student (BioE); joint with [Aaron Streets](http://streetslab.berkeley.edu/)
   now: Postdoctoral Associate, Shalek lab
 
 - name: David Fischer
   degrees: MS
-  previously: Graduate student
+  previously: Graduate Student
   now: PhD student, Computational Biology and Machine Learning, Helmholtz Zentrum München
 
 - name: Rohan Koodli
   degrees: MS
-  previously: Graduate student (EECS)
+  previously: Graduate Student (EECS)
   now: PhD student, Biomedical Informatics, Stanford University
   website: https://www.koodli.com/
 
 - name: Kathy Wu
   degrees: MS
-  previously: Graduate student (EECS)
+  previously: Graduate Student (EECS)
   now: Software Engineer, Instabase
 
 - name: Zhongxia (Zee) Yan
   degrees: MS
-  previously: Graduate student (EECS)
+  previously: Graduate Student (EECS)
   now: PhD student, Computer Science, MIT
 
 - name: Justin Hong
   degrees: MS
-  previously: Research engineer
+  previously: Research Engineer (UC Berkeley)
   now: PhD student, Computer Science, Columbia University
   website: https://justinhong.me/
 
+- name: Martin Kim
+  degrees: BS
+  previously: Research Engineer (UC Berkeley)
+  now: Software Engineer, Insitro
+
 - name: Valeh Valiollah Pour Amiri
   degrees: MS
-  previously: Research engineer
+  previously: Research Engineer (UC Berkeley)
   now: PhD student, Genetics, Stanford University
   website: https://www.valehamiri.com/
 
 - name: Galen Xing
   degrees: BA
-  previously: Software engineer (CZI)
+  previously: Software Engineer (CZI)
   now: PhD student, Computational Biology, UC Berkeley
   website: https://galenxing.com/
 
 - name: Richard Zhang
   degrees: BA
-  previously: Research & Design engineer
+  previously: Research & Design Engineer
   now: PhD student, Computational Biology, Princeton University
 
 - name: Eugenie Multrier
@@ -152,29 +157,29 @@
 
 - name: Kevin An
   degrees: BA
-  previously: Undergraduate student, Mathematics & Computer Science, UC Berkeley
+  previously: Undergraduate Student, Mathematics & Computer Science (UC Berkeley)
 
 - name: Michael Jayasuriya
   degrees: BA
-  previously: Undergraduate student, Computer Science, UC Berkeley
+  previously: Undergraduate Student, Computer Science (UC Berkeley)
   now: Software Engineer, Waymo
 
 - name: Ivan Kristanto
   degrees: BA
-  previously: Undergraduate student, Molecular and Cell Biology & Data Science, UC Berkeley
+  previously: Undergraduate Student, Molecular and Cell Biology & Data Science (UC Berkeley)
   now: Software Engineer, Arbor Biotechnologies
 
 - name: Yanay Rosen
   degrees: BA
-  previously: Undergraduate student, Computer Science, UC Berkeley
+  previously: Undergraduate Student, Computer Science (UC Berkeley)
   now: PhD student, Computer Science, Stanford University
 
 - name: Akshay Ravoor
   degrees: BA
-  previously: Undergraduate student, Electrical Engineering and Computer Science, UC Berkeley
+  previously: Undergraduate Student, Electrical Engineering and Computer Science (UC Berkeley)
   now: MS student, Electrical Engineering and Computer Science, UC Berkeley
 
 - name: Wilson Wu
   degrees: BA
-  previously: Undergraduate student, Computer Science, UC Berkeley
+  previously: Undergraduate Student, Computer Science (UC Berkeley)
   now: MS student, Electrical Engineering and Computer Science, UC Berkeley
