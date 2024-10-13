@@ -5,6 +5,7 @@ title: people
 description:
 nav: true
 ---
+<meta http-equiv="refresh" content="0; url=https://www.weizmann.ac.il/immunology/yosef/group" />
 
 {% for person in site.data.members %}
 
