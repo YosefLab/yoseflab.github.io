@@ -3,40 +3,6 @@
 
 # PREPRINTS FIRST
 
-- authors: "C. Ergen, G. Xing, C. Xu, M. Jayasuriya, E. McGeever, A.O. Pisco, A. Streets, N. Yosef"
-  title: "Consensus prediction of cell type labels with popV"
-  details: bioRxiv
-  year: 
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2023.08.18.553912
-  file:
-  filetype:
-  github:  https://github.com/YosefLab/PopV
-  biorxiv: https://www.biorxiv.org/content/10.1101/2023.08.18.553912v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
-  
-
-- authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen\\†, N. Yosef\\†"
-  title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
-  details: bioRxiv
-  year: 2024
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2022.10.04.510898
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.04.510898v2
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
-
 
 - authors: "P. Boyeau, S. Bates, C. Ergen, MI. Jordan, N. Yosef"
   title: "Calibrated Identification of Feature Dependencies in Single-cell Multiomics "
@@ -126,23 +92,6 @@
 
 
 
-- authors: "A. Khodaverdian and N. Yosef"
-  title: "Directed Shortest Walk on Temporal Graphs"
-  details: bioRxiv
-  year: 2024
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2022.07.08.499368
-  file:
-  filetype:
-  github:  https://github.com/YosefLab/temporal_condition_shortest_walk
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.07.08.499368v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: false
-
  
 - authors: "SB. Wells\\*, DB. Rainbow\\*, M. Mark\\*, PA. Szabo\\*, C. Ergen\\*, A. Maceiras\\*, DP. Caron, E. Rahmani, E. Benuck, V. Pour Amiri, D. Chen, A. Wagner, SK. Howlett, LB. Jarvis, KL. Ellis, M. Kubota, R. Matsumoto, K. Mahbubani, K. Saeb-Parsy, C. Dominguez-Conde, L. Richardson, C. Xu, S. Li, L. Mamanova, L. Bolt, A. Wilk, SA. Teichmann\\†, DL. Farber\\†, PA. Sims\\†, JL. Jones\\†, N. Yosef\\†"
   title: "Multimodal profiling reveals tissue-directed signatures of human immune cells altered with age"
@@ -163,6 +112,39 @@
 
 # 2024
 
+- authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen\\†, N. Yosef\\†"
+  title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
+  details: Genome Biology (in press)
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2022.10.04.510898
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.04.510898v2
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+
+- authors: "C. Ergen, G. Xing, C. Xu, M. Jayasuriya, E. McGeever, A.O. Pisco, A. Streets, N. Yosef"
+  title: "Consensus prediction of cell type labels with popV"
+  details: Nature Genetics (in press)
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2023.08.18.553912
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/PopV
+  biorxiv: https://www.biorxiv.org/content/10.1101/2023.08.18.553912v1
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+  
 - authors: "A. Gayoso\\*, P. Weiler\\*, M. Lotfollahi, D. Klein, J. Hong, A. Streets, FJ. Theis†, N. Yosef†"
   title: "Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells"
   details: Nature Methods
@@ -398,6 +380,23 @@
   preprint: false
   scvitools: false
 
+ 
+- authors: "A. Khodaverdian and N. Yosef"
+  title: "Directed Shortest Walk on Temporal Graphs"
+  details: bioRxiv
+  year: 2023
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2022.07.08.499368
+  file:
+  filetype:
+  github:  https://github.com/YosefLab/temporal_condition_shortest_walk
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.07.08.499368v1
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false 
   
 # 2022
 
