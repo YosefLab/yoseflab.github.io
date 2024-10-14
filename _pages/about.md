@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 <meta http-equiv="refresh" content="0; url=https://www.weizmann.ac.il/immunology/yosef/" />
 
-<b>Department of Systems Immunology, Weizmann Institute of Science </b><br>
+<!-- <b>Department of Systems Immunology, Weizmann Institute of Science </b><br> -->
 
 <!-- <img align="right" height="225px" src="assets/img/logo_fullsize.png"> -->
 
