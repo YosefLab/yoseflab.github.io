@@ -13,7 +13,9 @@ news: false  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<!--
 <meta http-equiv="refresh" content="0; url=https://www.weizmann.ac.il/immunology/yosef/" />
+-->
 <!--
 
 <b>Department of Systems Immunology, Weizmann Institute of Science </b><br>
