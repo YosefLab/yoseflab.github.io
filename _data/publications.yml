@@ -3,24 +3,21 @@
 
 # PREPRINTS FIRST
 
-
-- authors: "P. Boyeau, S. Bates, C. Ergen, MI. Jordan, N. Yosef"
-  title: "Calibrated Identification of Feature Dependencies in Single-cell Multiomics "
+- authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen\\†, N. Yosef\\†"
+  title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
   details: bioRxiv
   year: 2024
   pmid:
   pmcid:
   openaccess:
-  doi: 10.1101/2023.11.03.565520
+  doi: 10.1101/2022.10.04.510898
   file:
   filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2023.11.03.565520v1
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.04.510898v2
   arxiv:
   contentshare:
   preprint: true
-  scvitools: true
-
-  
+  scvitools: true  
 
 - authors: "C. Ergen, VV. Pour Amiri, M. Kim, A. Streets, A. Gayoso, N. Yosef"
   title: "Scvi-hub: an actionable repository for model-driven single cell analysis"
@@ -112,21 +109,22 @@
 
 # 2024
 
-- authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen\\†, N. Yosef\\†"
-  title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
+- authors: "P. Boyeau, S. Bates, C. Ergen, MI. Jordan, N. Yosef"
+  title: "Calibrated Identification of Feature Dependencies in Single-cell Multiomics "
   details: Genome Biology (in press)
   year: 2024
   pmid:
   pmcid:
   openaccess:
-  doi: 10.1101/2022.10.04.510898
+  doi: 10.1101/2023.11.03.565520
   file:
   filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.04.510898v2
+  biorxiv: https://www.biorxiv.org/content/10.1101/2023.11.03.565520v1
   arxiv:
   contentshare:
   preprint: false
   scvitools: true
+  
 
 - authors: "C. Ergen, G. Xing, C. Xu, M. Jayasuriya, E. McGeever, A.O. Pisco, A. Streets, N. Yosef"
   title: "Consensus prediction of cell type labels with popV"
