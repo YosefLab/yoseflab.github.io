@@ -19,7 +19,7 @@
   preprint: true
   scvitools: false 
   
-- authors: "P. Boyeau\*, J. Hong\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen†, N. Yosef†"
+- authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen†, N. Yosef†"
   title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
   details: bioRxiv
   year: 2024
