@@ -18,6 +18,22 @@
   contentshare:
   preprint: true
   scvitools: false 
+
+- authors: "C. Wang\\*, A. Wagner\\*, J. Fessler\\*, D. DeTomaso, S. Zaghouani, Y. Zhou, K. Pierce, RA. Sobel, C. Clish, Nir Yosef†, VK. Kuchroo†"
+  title: "The glycolytic reaction PGAM unexpectedly restrains Th17 pathogenicity and Th17-dependent autoimmunity"
+  details: bioRxiv
+  year: 2024
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2024.08.18.607992v1
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2024.08.18.607992v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false 
   
 - authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen†, N. Yosef†"
   title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
