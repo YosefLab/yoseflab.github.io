@@ -86,22 +86,6 @@
   scvitools: false
 
  
-- authors: "S. Prillo, K. An, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
-  title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
-  details: bioRxiv
-  year: 2024
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 
-  file:
-  filetype:
-  biorxiv: 
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: false
-
 
 - authors: "P. Boyeau, AN. Angelopoulos, N. Yosef, J. Malik, MI. Jordan"
   title: "AutoEval Done Right: Using Synthetic Data for Model Evaluation"
@@ -138,6 +122,24 @@
   contentshare:
   preprint: true
   scvitools: false
+
+# 2025
+- authors: "S. Prillo, K. An, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
+  title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
+  details: RECOMB
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
+
 
 # 2024
 
