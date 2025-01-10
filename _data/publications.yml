@@ -94,7 +94,7 @@
   scvitools: true
 
 - authors: "SB. Wells\\*, DB. Rainbow\\*, M. Mark\\*, PA. Szabo\\*, C. Ergen\\*, A. Maceiras\\*, DP. Caron, E. Rahmani, E. Benuck, V. Pour Amiri, D. Chen, A. Wagner, SK. Howlett, LB. Jarvis, KL. Ellis, M. Kubota, R. Matsumoto, K. Mahbubani, K. Saeb-Parsy, C. Dominguez-Conde, L. Richardson, C. Xu, S. Li, L. Mamanova, L. Bolt, A. Wilk, SA. Teichmann†, DL. Farber†, PA. Sims†, JL. Jones†, N. Yosef†"
-  title: "Multimodal profiling reveals tissue-directed signatures of human immune cells altered with age"
+  title: "xMultimodal profiling reveals tissue-directed signatures of human immune cells altered with age"
   details: bioRxiv
   pmid:
   pmcid:
@@ -122,7 +122,7 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: false
+  preprint: true
   scvitools: false
 
 
