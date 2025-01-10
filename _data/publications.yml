@@ -126,7 +126,7 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: false
+  preprint: true
   scvitools: false
 
 
