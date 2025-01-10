@@ -109,8 +109,6 @@
   preprint: true
   scvitools: false
 
-# 2025
-
 - authors: "S. Prillo, K. An, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
   title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
   details: RECOMB
