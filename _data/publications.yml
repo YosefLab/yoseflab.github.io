@@ -33,36 +33,6 @@
   preprint: true
   scvitools: false 
   
-- authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen†, N. Yosef†"
-  title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
-  details: bioRxiv
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2022.10.04.510898
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.04.510898v2
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true  
-
-- authors: "C. Ergen, VV. Pour Amiri, M. Kim, A. Streets, A. Gayoso, N. Yosef"
-  title: "Scvi-hub: an actionable repository for model-driven single cell analysis"
-  details: bioRxiv
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2024.03.01.582887
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2024.03.01.582887v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
-
 - authors: "S. Prillo, A. Ravoor, N. Yosef†, YS. Song†"
   title: "ConvexML: Scalable and accurate inference of single-cell chronograms from CRISPR/Cas9 lineage tracing data"
   details: bioRxiv
@@ -143,6 +113,39 @@
   contentshare:
   preprint: true
   scvitools: false
+
+
+- authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen†, N. Yosef†"
+  title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
+  details: Nature Methods (accepted)
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2022.10.04.510898
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.04.510898v2
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true  
+
+- authors: "C. Ergen, VV. Pour Amiri, M. Kim, A. Streets, A. Gayoso, N. Yosef"
+  title: "Scvi-hub: an actionable repository for model-driven single cell analysis"
+  details: Nature Methods (accepted)
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2024.03.01.582887
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2024.03.01.582887v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
 
 
 # 2024
