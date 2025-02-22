@@ -111,7 +111,7 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: false
 
 
@@ -128,7 +128,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.04.510898v2
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true  
 
 - authors: "C. Ergen, VV. Pour Amiri, M. Kim, A. Streets, A. Gayoso, N. Yosef"
@@ -144,7 +144,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2024.03.01.582887v1
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true
 
 
