@@ -147,6 +147,36 @@
   preprint: true
   scvitools: true
 
+- authors: "A. Rodov, H. Baniadam, R. Zeiser, I. Amit, N. Yosef, T. Wertheimer, F. Ingelfinger"
+  title: "Towards the Next Generation of Data-Driven Therapeutics Using Spatially Resolved Single-Cell Technologies and Generative AI"
+  details: European journal of immunology
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1002/eji.202451234
+  file:
+  filetype:
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
+
+- authors: "W. DeGroat, F. Inoue, T. Ashuach, N. Yosef, N. Ahituv, A. Kreimer"
+  title: "Towards the Next Generation of Data-Driven Therapeutics Using Spatially Resolved Single-Cell Technologies and Generative AI"
+  details: Genome Biology
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1186/s13059-024-03365-w
+  file:
+  filetype:
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
+
 
 # 2024
 
