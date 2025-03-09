@@ -112,7 +112,7 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: false
 
 
@@ -129,7 +129,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.04.510898v2
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true  
 
 - authors: "C. Ergen, VV. Pour Amiri, M. Kim, A. Streets, A. Gayoso, N. Yosef"
@@ -145,7 +145,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2024.03.01.582887v1
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true
 
 - authors: "A. Rodov, H. Baniadam, R. Zeiser, I. Amit, N. Yosef, T. Wertheimer, F. Ingelfinger"
@@ -160,7 +160,7 @@
   filetype:
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: false
 
 - authors: "W. DeGroat, F. Inoue, T. Ashuach, N. Yosef, N. Ahituv, A. Kreimer"
@@ -175,7 +175,7 @@
   filetype:
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: false
 
 
