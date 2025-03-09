@@ -3,6 +3,21 @@
 
 # PREPRINTS FIRST
 
+- authors: "C. Ergen, N. Yosef"
+  title: "ResolVI - addressing noise and bias in spatial transcriptomics"
+  details: bioRxiv
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2025.01.20.634005
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2025.01.20.634005v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
+  
 - authors: "MG. Jones, D. Sun, KH. Min, WN. Colgan, L. Tian, JA. Weir, VZ. Chen, W. Koblan, KE. Yost, N. Mathey-Andrews, A.J.C. Russell, RR. Stickels, KS. Balderrama, WM. Rideout III, HY. Chang, T. Jacks, F. Chen†, JS. Weissman†, N. Yosef† , Dian Yang†"
   title: "Spatiotemporal lineage tracing reveals the dynamic spatial architecture of tumor growth and metastasis"
   details: bioRxiv
@@ -79,20 +94,6 @@
   preprint: true
   scvitools: false
 
-- authors: "C. Ergen, N. Yosef"
-  title: "ResolVI - addressing noise and bias in spatial transcriptomics"
-  details: bioRxiv
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2025.01.20.634005
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2025.01.20.634005v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
 
   
 # 2025
