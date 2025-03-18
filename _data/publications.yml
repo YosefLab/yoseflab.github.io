@@ -33,20 +33,6 @@
   preprint: true
   scvitools: false 
 
-- authors: "C. Wang\\*, A. Wagner\\*, J. Fessler\\*, D. DeTomaso, S. Zaghouani, Y. Zhou, K. Pierce, RA. Sobel, C. Clish, Nir Yosef†, VK. Kuchroo†"
-  title: "The glycolytic reaction PGAM unexpectedly restrains Th17 pathogenicity and Th17-dependent autoimmunity"
-  details: bioRxiv
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2024.08.18.607992v1
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2024.08.18.607992v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: false 
   
 - authors: "S. Prillo, A. Ravoor, N. Yosef†, YS. Song†"
   title: "ConvexML: Scalable and accurate inference of single-cell chronograms from CRISPR/Cas9 lineage tracing data"
@@ -147,6 +133,73 @@
   contentshare:
   preprint: false
   scvitools: true
+
+- authors: "C. Wang\\*, A. Wagner\\*, J. Fessler\\*, D. DeTomaso, S. Zaghouani, Y. Zhou, K. Pierce, RA. Sobel, C. Clish, Nir Yosef†, VK. Kuchroo†"
+  title: "The glycolytic reaction PGAM unexpectedly restrains Th17 pathogenicity and Th17-dependent autoimmunity"
+  details: Cell Reports (accepted)
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2024.08.18.607992v1
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2024.08.18.607992v1
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false 
+
+- authors: "A. Bakulin, N. Levy, C. Ergen, J. Maaskola, N. Yosef"
+  title: "Nolan: self-supervised framework for mapping continuous tissue organization"
+  details: MLGenX
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 1
+  file:
+  filetype:
+  github:  
+  biorxiv: 
+  arxiv: https://openreview.net/forum?id=DzlhvkuFqz
+  contentshare:
+  preprint: false
+  scvitools: false
+
+- authors: "A. Bakulin, P. Boyeau, N. Yosef"
+  title: "AI Agent for Data-Driven Hypothesis\\ Exploration in Single-Cell Transcriptomics"
+  details: MLGenX
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 
+  file:
+  filetype:
+  github:  
+  biorxiv: 
+  arxiv: https://openreview.net/forum?id=DjxLkshuSx
+  contentshare:
+  preprint: false
+  scvitools: false
+
+- authors: "A. Bakulin, P. Boyeau, N. Yosef"
+  title: "AI Agent for Data-Driven Hypothesis\\ Exploration in Single-Cell Transcriptomics"
+  details: MLGenX
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 
+  file:
+  filetype:
+  github:  
+  biorxiv: 
+  arxiv: https://openreview.net/forum?id=DjxLkshuSx
+  contentshare:
+  preprint: false
+  scvitools: false
 
 - authors: "A. Rodov, H. Baniadam, R. Zeiser, I. Amit, N. Yosef, T. Wertheimer, F. Ingelfinger"
   title: "Towards the Next Generation of Data-Driven Therapeutics Using Spatially Resolved Single-Cell Technologies and Generative AI"
