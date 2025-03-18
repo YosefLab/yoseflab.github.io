@@ -157,29 +157,12 @@
   pmid:
   pmcid:
   openaccess:
-  doi: 1
-  file:
-  filetype:
-  github:  
-  biorxiv: 
-  arxiv: https://openreview.net/forum?id=DzlhvkuFqz
-  contentshare:
-  preprint: false
-  scvitools: false
-
-- authors: "A. Bakulin, P. Boyeau, N. Yosef"
-  title: "AI Agent for Data-Driven Hypothesis\\ Exploration in Single-Cell Transcriptomics"
-  details: MLGenX
-  year: 2025
-  pmid:
-  pmcid:
-  openaccess:
   doi: 
   file:
   filetype:
   github:  
   biorxiv: 
-  arxiv: https://openreview.net/forum?id=DjxLkshuSx
+  arxiv: https://openreview.net/forum?id=DzlhvkuFqz
   contentshare:
   preprint: false
   scvitools: false
