@@ -168,7 +168,7 @@
   scvitools: false
 
 - authors: "A. Bakulin, P. Boyeau, N. Yosef"
-  title: "AI Agent for Data-Driven Hypothesis\\ Exploration in Single-Cell Transcriptomics"
+  title: "AI Agent for Data-Driven Hypothesis Exploration in Single-Cell Transcriptomics"
   details: MLGenX
   year: 2025
   pmid:
@@ -183,6 +183,23 @@
   contentshare:
   preprint: false
   scvitools: false
+
+- authors: "N. Levy, F. Ingelfinger, A. Bakulin, G. Cinnirella, P. Boyeau, C. Ergen, N. Yosef"
+  title: "2DE: a probabilistic method for differential expression across niches in spatial transcriptomics"
+  details: MLGenX
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 
+  file:
+  filetype:
+  github:  
+  biorxiv: 
+  arxiv: https://openreview.net/forum?id=7Jxb5zfcZn
+  contentshare:
+  preprint: false
+  scvitools: true
 
 - authors: "A. Rodov, H. Baniadam, R. Zeiser, I. Amit, N. Yosef, T. Wertheimer, F. Ingelfinger"
   title: "Towards the Next Generation of Data-Driven Therapeutics Using Spatially Resolved Single-Cell Technologies and Generative AI"
