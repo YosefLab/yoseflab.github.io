@@ -50,7 +50,20 @@
   preprint: true
   scvitools: true
 
-  
+- authors: "N. Levy, F. Ingelfinger, A. Bakulin, G. Cinnirella, P. Boyeau, B. Nadler, C. Ergen, N. Yosef"
+  title: "scVIVA: a probabilistic framework for representation of cells and their environments in spatial transcriptomics"
+  details: bioRxiv
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2025.06.01.657182
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2025.06.01.657182v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
 
   
 # 2025
