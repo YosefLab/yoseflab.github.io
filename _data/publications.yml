@@ -34,22 +34,6 @@
   scvitools: false 
 
 
-
-- authors: "P. Boyeau, AN. Angelopoulos, N. Yosef, J. Malik, MI. Jordan"
-  title: "AutoEval Done Right: Using Synthetic Data for Model Evaluation"
-  details: arXiv
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.48550/arXiv.2403.07008
-  file:
-  filetype:
-  biorxiv: 
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
-
 - authors: "N. Levy, F. Ingelfinger, A. Bakulin, G. Cinnirella, P. Boyeau, B. Nadler, C. Ergen, N. Yosef"
   title: "scVIVA: a probabilistic framework for representation of cells and their environments in spatial transcriptomics"
   details: bioRxiv
@@ -163,6 +147,22 @@
   preprint: false
   scvitools: false 
 
+- authors: "P. Boyeau, AN. Angelopoulos, N. Yosef, J. Malik, MI. Jordan"
+  title: "AutoEval Done Right: Using Synthetic Data for Model Evaluation"
+  details: ICML
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.48550/arXiv.2403.07008
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+  
 - authors: "A. Bakulin, N. Levy, C. Ergen, J. Maaskola, N. Yosef"
   title: "Nolan: self-supervised framework for mapping continuous tissue organization"
   details: MLGenX
