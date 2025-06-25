@@ -49,6 +49,22 @@
   preprint: true
   scvitools: true
 
+
+- authors: "LW. Koblan, KE. Yost, P. Zheng, WN. Colgan, MG. Jones, D. Yang, A. Kumar, J. Sandhu, A. Schnell, D. Sun, C. Ergen, RA. Saunders, X. Zhuang, WE. Allen, N. Yosef, JS. Weissman"
+  title: "High-resolution spatial mapping of cell state and lineage dynamics in vivo with PEtracer"
+  details: bioRxiv
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2025.06.15.659774
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2025.06.15.659774
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
+
   
 # 2025
 - authors: "SB. Wells\\*, DB. Rainbow\\*, M. Mark\\*, PA. Szabo\\*, C. Ergen\\*, A. Maceiras\\*, DP. Caron, E. Rahmani, E. Benuck, V. Pour Amiri, D. Chen, A. Wagner, SK. Howlett, LB. Jarvis, KL. Ellis, M. Kubota, R. Matsumoto, K. Mahbubani, K. Saeb-Parsy, C. Dominguez-Conde, L. Richardson, C. Xu, S. Li, L. Mamanova, L. Bolt, A. Wilk, SA. Teichmann†, DL. Farber†, PA. Sims†, JL. Jones†, N. Yosef†"
@@ -237,6 +253,21 @@
   pmcid:
   openaccess:
   doi: 10.1186/s13059-024-03365-w
+  file:
+  filetype:
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
+
+- authors: "F. Sheban, T. San Phan, K. Xie, F. Ingelfinger, C. Gur, Y. Shapir Itai, R. Blecher-Gonen, C. Yu, R. Avellino, P. Chalan, K. Freitag, I. Yofe, V. Yutkin, P. Boyeau, C. Ergen, J. Hong, K. Mazuz, Y. Liu, K. Chen, R. Dahan, M. Kortylewski, N. Yosef, A. Weiner, I. Amit"
+  title: "ZEB2 is a master switch controlling the tumor-associated macrophage program"
+  details: Cancer Cell
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.ccell.2025.03.021
   file:
   filetype:
   arxiv:
