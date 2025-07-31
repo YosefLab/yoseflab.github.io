@@ -49,21 +49,20 @@
   preprint: true
   scvitools: true
 
-
-- authors: "LW. Koblan, KE. Yost, P. Zheng, WN. Colgan, MG. Jones, D. Yang, A. Kumar, J. Sandhu, A. Schnell, D. Sun, C. Ergen, RA. Saunders, X. Zhuang, WE. Allen, N. Yosef, JS. Weissman"
-  title: "High-resolution spatial mapping of cell state and lineage dynamics in vivo with PEtracer"
+- authors: "P. Zilber, S. Prillo, N. Yosef, B. Nadler"
+  title: "Can you trust your reconstructed lineage tree? A homoplasy-based approach for irreversible evolution"
   details: bioRxiv
   pmid:
   pmcid:
   openaccess:
-  doi: 10.1101/2025.06.15.659774
+  doi: 10.1101/2025.07.27.667007
   file:
   filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2025.06.15.659774
+  biorxiv: https://www.biorxiv.org/content/10.1101/2025.07.27.667007
   arxiv:
   contentshare:
   preprint: true
-  scvitools: false
+  scvitools: false 
 
   
 # 2025
@@ -81,39 +80,6 @@
   contentshare:
   preprint: false
   scvitools: false
-
-- authors: "S. Prillo, A. Ravoor, N. Yosef†, YS. Song†"
-  title: "ConvexML: Scalable and accurate inference of single-cell chronograms from CRISPR/Cas9 lineage tracing data"
-  details: Systematic Biology (accepted)
-  year: 2025
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2023.12.03.569785
-  file:
-  filetype:
-  arxiv:
-  contentshare:
-  preprint: false
-  scvitools: false
-  
-
-- authors: "S. Prillo, K. An, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
-  title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
-  details: RECOMB
-  year: 2025
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2024.08.27.610007
-  file:
-  filetype:
-  biorxiv: 
-  arxiv:
-  contentshare:
-  preprint: false
-  scvitools: false
-
 
 - authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen†, N. Yosef†"
   title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
@@ -146,6 +112,38 @@
   contentshare:
   preprint: false
   scvitools: true
+  
+- authors: "S. Prillo, A. Ravoor, N. Yosef†, YS. Song†"
+  title: "ConvexML: Scalable and accurate inference of single-cell chronograms from CRISPR/Cas9 lineage tracing data"
+  details: Systematic Biology (accepted)
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2023.12.03.569785
+  file:
+  filetype:
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
+  
+
+- authors: "S. Prillo, K. An, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
+  title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
+  details: RECOMB
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2024.08.27.610007
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
 
 - authors: "C. Wang\\*, A. Wagner\\*, J. Fessler\\*, D. DeTomaso, S. Zaghouani, Y. Zhou, K. Pierce, RA. Sobel, C. Clish, Nir Yosef†, VK. Kuchroo†"
   title: "The glycolytic reaction PGAM unexpectedly restrains Th17 pathogenicity and Th17-dependent autoimmunity"
@@ -163,6 +161,23 @@
   preprint: false
   scvitools: false 
 
+
+- authors: "LW. Koblan, KE. Yost, P. Zheng, WN. Colgan, MG. Jones, D. Yang, A. Kumar, J. Sandhu, A. Schnell, D. Sun, C. Ergen, RA. Saunders, X. Zhuang, WE. Allen, N. Yosef, JS. Weissman"
+  title: "High-resolution spatial mapping of cell state and lineage dynamics in vivo with PEtracer"
+  details: Science
+  year: 2025
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1126/science.adx3800
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
+  
 - authors: "P. Boyeau, AN. Angelopoulos, N. Yosef, J. Malik, MI. Jordan"
   title: "AutoEval Done Right: Using Synthetic Data for Model Evaluation"
   details: ICML
