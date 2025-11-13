@@ -2,7 +2,23 @@
 # filetype options: "pdf - published version" "pdf - author manuscript version (peer-reviewed & edited)"...
 
 # PREPRINTS FIRST
+- authors: "O. Etxezarreta Arrastoa, A. Pirona,  A. Wagner, N. Yosef"
+  title: "Metabolic zonation and characterization of tissue slices with spatial transcriptomics"
+  details: bioRxiv
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2025.11.11.687271v1
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2025.11.11.687271v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
 
+ 
+ 
 - authors: "C. Ergen, N. Yosef"
   title: "ResolVI - addressing noise and bias in spatial transcriptomics"
   details: bioRxiv
