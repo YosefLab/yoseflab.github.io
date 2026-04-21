@@ -18,21 +18,6 @@
   scvitools: false
 
  
- 
-- authors: "C. Ergen, N. Yosef"
-  title: "ResolVI - addressing noise and bias in spatial transcriptomics"
-  details: bioRxiv
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2025.01.20.634005
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2025.01.20.634005v1
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: true
   
 - authors: "MG. Jones, D. Sun, KH. Min, WN. Colgan, L. Tian, JA. Weir, VZ. Chen, W. Koblan, KE. Yost, N. Mathey-Andrews, A.J.C. Russell, RR. Stickels, KS. Balderrama, WM. Rideout III, HY. Chang, T. Jacks, F. Chen†, JS. Weissman†, N. Yosef† , Dian Yang†"
   title: "Spatiotemporal lineage tracing reveals the dynamic spatial architecture of tumor growth and metastasis"
@@ -80,6 +65,88 @@
   preprint: true
   scvitools: false 
 
+# 2026
+- authors: "C. Ergen, N. Yosef"
+  title: "ResolVI - addressing noise and bias in spatial transcriptomics"
+  details: Nature Methods (accepted)
+  year: 2026
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2025.01.20.634005
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2025.01.20.634005v1
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+
+- authors: "K. An\\*, S. Prillo\\*, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
+  title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
+  details: RECOMB (2025), Genome Research (accepted)
+  year: 2026
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2024.08.27.610007
+  file:
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false
+
+- authors: "F. Ingelfinger, N. Levy, C. Ergen, A. Bakulin, A. Becker, P. Boyeau, M. Kim, D. Ditz, J. Dirks, J. Maaskola, T. Wertheimer, R. Zeiser, CC. Widmer, I. Amit†, N. Yosef†"
+  title: "CytoVI: Deep generative modeling of antibody-based single cell technologies"
+  details: Nature Methods (accepted)
+  year: 2026
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2025.09.07.674699
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2025.01.20.634005v1
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+
+- authors: "D. Yang\\*, L. Huang\\*, J. Yang\\*, O. Etxezarreta-Arrastoa\\*, ..., N. Yosef†, AC. Anderson†, Vk. Kuchroo†"
+  title: "Interleukin-23 promotes pro-inflammatory Th17 cell state via CHD1-driven enforcement of RORγt and inhibition of endogenous glucocorticoid receptor activity"
+  details: Immunity (accepted)
+  year: 2026
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 
+  file: https://zenodo.org/records/19560629
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+
+
+- authors: "A. Hizmi, A. Bakulin, S. Bagon, N. Yosef"
+  title: "Cross-Modal Knowledge Distillation from Spatial Transcriptomics to Histology"
+  details: CVMI Workshop at CVPR 
+  year: 2026
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.48550/arXiv.2604.09076
+  file: 
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
+  
   
 # 2025
 - authors: "SB. Wells\\*, DB. Rainbow\\*, M. Mark\\*, PA. Szabo\\*, C. Ergen\\*, A. Maceiras\\*, DP. Caron, E. Rahmani, E. Benuck, V. Pour Amiri, D. Chen, A. Wagner, SK. Howlett, LB. Jarvis, KL. Ellis, M. Kubota, R. Matsumoto, K. Mahbubani, K. Saeb-Parsy, C. Dominguez-Conde, L. Richardson, C. Xu, S. Li, L. Mamanova, L. Bolt, A. Wilk, SA. Teichmann†, DL. Farber†, PA. Sims†, JL. Jones†, N. Yosef†"
@@ -104,10 +171,10 @@
   pmid:
   pmcid:
   openaccess:
-  doi: 10.1101/2022.10.04.510898
+  doi: 10.1038/s41592-025-02808-x
   file:
   filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.04.510898v2
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
@@ -115,15 +182,15 @@
 
 - authors: "C. Ergen, VV. Pour Amiri, M. Kim, A. Streets, A. Gayoso, N. Yosef"
   title: "Scvi-hub: an actionable repository for model-driven single cell analysis"
-  details: Nature Methods (accepted)
+  details: Nature Methods 
   year: 2025
   pmid:
   pmcid:
   openaccess:
-  doi: 10.1101/2024.03.01.582887
+  doi: 10.1038/s41592-025-02799-9
   file:
   filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2024.03.01.582887v1
+  biorxiv: 
   arxiv:
   contentshare:
   preprint: false
@@ -131,12 +198,12 @@
   
 - authors: "S. Prillo, A. Ravoor, N. Yosef†, YS. Song†"
   title: "ConvexML: Scalable and accurate inference of single-cell chronograms from CRISPR/Cas9 lineage tracing data"
-  details: Systematic Biology (accepted)
+  details: Systematic Biology 
   year: 2025
   pmid:
   pmcid:
   openaccess:
-  doi: 10.1101/2023.12.03.569785
+  doi: 10.5061/dryad.qrfj6q5nz
   file:
   filetype:
   arxiv:
@@ -144,22 +211,6 @@
   preprint: false
   scvitools: false
   
-
-- authors: "S. Prillo, K. An, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
-  title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
-  details: RECOMB
-  year: 2025
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2024.08.27.610007
-  file:
-  filetype:
-  biorxiv: 
-  arxiv:
-  contentshare:
-  preprint: false
-  scvitools: false
 
 - authors: "C. Wang\\*, A. Wagner\\*, J. Fessler\\*, D. DeTomaso, S. Zaghouani, Y. Zhou, K. Pierce, RA. Sobel, C. Clish, Nir Yosef†, VK. Kuchroo†"
   title: "The glycolytic reaction PGAM unexpectedly restrains Th17 pathogenicity and Th17-dependent autoimmunity"
