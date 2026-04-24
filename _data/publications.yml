@@ -49,7 +49,7 @@
 
 - authors: "P. Zilber, S. Prillo, N. Yosef, B. Nadler"
   title: "Can you trust your reconstructed lineage tree? A homoplasy-based approach for irreversible evolution"
-  details: bioRxiv y
+  details: bioRxiv yy
   pmid:
   pmcid:
   openaccess:
@@ -65,7 +65,6 @@
 - authors: "C. Ergen, N. Yosef"
   title: "ResolVI - addressing noise and bias in spatial transcriptomics"
   details: Nature Methods (accepted)
-  year: 2026
   pmid:
   pmcid:
   openaccess:
@@ -81,7 +80,6 @@
 - authors: "K. An\\*, S. Prillo\\*, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
   title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
   details: RECOMB (2025), Genome Research (accepted)
-  year: 2026
   pmid:
   pmcid:
   openaccess:
@@ -97,7 +95,6 @@
 - authors: "F. Ingelfinger, N. Levy, C. Ergen, A. Bakulin, A. Becker, P. Boyeau, M. Kim, D. Ditz, J. Dirks, J. Maaskola, T. Wertheimer, R. Zeiser, CC. Widmer, I. Amit†, N. Yosef†"
   title: "CytoVI: Deep generative modeling of antibody-based single cell technologies"
   details: Nature Methods (accepted)
-  year: 2026
   pmid:
   pmcid:
   openaccess:
@@ -113,7 +110,6 @@
 - authors: "D. Yang\\*, L. Huang\\*, J. Yang\\*, O. Etxezarreta-Arrastoa\\*, ..., N. Yosef†, AC. Anderson†, Vk. Kuchroo†"
   title: "Interleukin-23 promotes pro-inflammatory Th17 cell state via CHD1-driven enforcement of RORγt and inhibition of endogenous glucocorticoid receptor activity"
   details: Immunity (accepted)
-  year: 2026
   pmid:
   pmcid:
   openaccess:
@@ -129,7 +125,6 @@
 - authors: "A. Hizmi, A. Bakulin, S. Bagon, N. Yosef"
   title: "Cross-Modal Knowledge Distillation from Spatial Transcriptomics to Histology"
   details: CVMI Workshop at CVPR 
-  year: 2026
   pmid:
   pmcid:
   openaccess:
