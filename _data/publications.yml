@@ -17,8 +17,6 @@
   preprint: true
   scvitools: false
 
- 
-  
 - authors: "MG. Jones, D. Sun, KH. Min, WN. Colgan, L. Tian, JA. Weir, VZ. Chen, W. Koblan, KE. Yost, N. Mathey-Andrews, A.J.C. Russell, RR. Stickels, KS. Balderrama, WM. Rideout III, HY. Chang, T. Jacks, F. Chen†, JS. Weissman†, N. Yosef† , Dian Yang†"
   title: "Spatiotemporal lineage tracing reveals the dynamic spatial architecture of tumor growth and metastasis"
   details: bioRxiv
@@ -33,7 +31,6 @@
   contentshare:
   preprint: true
   scvitools: false 
-
 
 - authors: "N. Levy, F. Ingelfinger, A. Bakulin, G. Cinnirella, P. Boyeau, B. Nadler, C. Ergen, N. Yosef"
   title: "scVIVA: a probabilistic framework for representation of cells and their environments in spatial transcriptomics"
@@ -130,7 +127,6 @@
   preprint: false
   scvitools: true
 
-
 - authors: "A. Hizmi, A. Bakulin, S. Bagon, N. Yosef"
   title: "Cross-Modal Knowledge Distillation from Spatial Transcriptomics to Histology"
   details: CVMI Workshop at CVPR 
@@ -166,7 +162,7 @@
 
 - authors: "P. Boyeau\\*, J. Hong\\*, A. Gayoso, M. Kim, JL. McFaline-Figueroa, M. Jordan, E. Azizi, C. Ergen†, N. Yosef†"
   title: "Deep generative modeling for quantifying sample-level heterogeneity in single-cell omics"
-  details: Nature Methods
+  details: Nature Methods x
   year: 2025
   pmid:
   pmcid:
