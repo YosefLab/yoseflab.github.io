@@ -65,6 +65,7 @@
 - authors: "C. Ergen, N. Yosef"
   title: "ResolVI - addressing noise and bias in spatial transcriptomics"
   details: Nature Methods (accepted)
+  year: 2026
   pmid:
   pmcid:
   openaccess:
@@ -80,6 +81,7 @@
 - authors: "K. An\\*, S. Prillo\\*, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
   title: "Tree reconstruction guarantees from CRISPR-Cas9 lineage tracing data using Neighbor-Joining"
   details: RECOMB (2025), Genome Research (accepted)
+  year: 2026
   pmid:
   pmcid:
   openaccess:
@@ -95,6 +97,7 @@
 - authors: "F. Ingelfinger, N. Levy, C. Ergen, A. Bakulin, A. Becker, P. Boyeau, M. Kim, D. Ditz, J. Dirks, J. Maaskola, T. Wertheimer, R. Zeiser, CC. Widmer, I. Amit†, N. Yosef†"
   title: "CytoVI: Deep generative modeling of antibody-based single cell technologies"
   details: Nature Methods (accepted)
+  year: 2026
   pmid:
   pmcid:
   openaccess:
@@ -109,7 +112,8 @@
 
 - authors: "D. Yang\\*, L. Huang\\*, J. Yang\\*, O. Etxezarreta-Arrastoa\\*, ..., N. Yosef†, AC. Anderson†, Vk. Kuchroo†"
   title: "Interleukin-23 promotes pro-inflammatory Th17 cell state via CHD1-driven enforcement of RORγt and inhibition of endogenous glucocorticoid receptor activity"
-  details: Immunity (accepted) x
+  details: Immunity (accepted) 
+  year: 2026
   pmid:
   pmcid:
   openaccess:
