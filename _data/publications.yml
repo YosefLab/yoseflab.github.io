@@ -49,7 +49,7 @@
 
 - authors: "P. Zilber, S. Prillo, N. Yosef, B. Nadler"
   title: "Can you trust your reconstructed lineage tree? A homoplasy-based approach for irreversible evolution"
-  details: bioRxiv yyy
+  details: bioRxiv 
   pmid:
   pmcid:
   openaccess:
@@ -122,9 +122,11 @@
   preprint: true
   scvitools: true
 
+# 2026
 - authors: "A. Hizmi, A. Bakulin, S. Bagon, N. Yosef"
   title: "Cross-Modal Knowledge Distillation from Spatial Transcriptomics to Histology"
   details: CVMI Workshop at CVPR 
+  year: 2026
   pmid:
   pmcid:
   openaccess:
@@ -134,7 +136,7 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true
   
   
