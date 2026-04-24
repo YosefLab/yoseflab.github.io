@@ -62,7 +62,6 @@
   preprint: true
   scvitools: false 
 
-# 2026
 - authors: "C. Ergen, N. Yosef"
   title: "ResolVI - addressing noise and bias in spatial transcriptomics"
   details: Nature Methods (accepted)
