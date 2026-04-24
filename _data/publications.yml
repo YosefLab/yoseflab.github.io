@@ -109,7 +109,7 @@
 
 - authors: "D. Yang\\*, L. Huang\\*, J. Yang\\*, O. Etxezarreta-Arrastoa\\*, ..., N. Yosef†, AC. Anderson†, Vk. Kuchroo†"
   title: "Interleukin-23 promotes pro-inflammatory Th17 cell state via CHD1-driven enforcement of RORγt and inhibition of endogenous glucocorticoid receptor activity"
-  details: Immunity (accepted)
+  details: Immunity (accepted) x
   pmid:
   pmcid:
   openaccess:
@@ -122,7 +122,6 @@
   preprint: true
   scvitools: true
 
-# 2026
 - authors: "A. Hizmi, A. Bakulin, S. Bagon, N. Yosef"
   title: "Cross-Modal Knowledge Distillation from Spatial Transcriptomics to Histology"
   details: CVMI Workshop at CVPR 
@@ -136,7 +135,7 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: false
+  preprint: true
   scvitools: true
   
   
