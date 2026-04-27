@@ -2,8 +2,23 @@
 # filetype options: "pdf - published version" "pdf - author manuscript version (peer-reviewed & edited)"...
 
 # PREPRINTS FIRST
+- authors: "P. Boyeau, S. Bates, MI Jordan, N. Yosef"
+  title: "Mitigating Bias in Spatial Transcriptomic Pipelines via Human Feedback"
+  details: bioRxiv
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.64898/2026.01.15.699786
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.64898/2026.01.15.699786v1
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: true
+
 - authors: "O. Etxezarreta Arrastoa, A. Pirona,  A. Wagner, N. Yosef"
-  title: "Metabolic zonation and characterization of tissue slices with spatial transcriptomics"
+  title: "Metabolic zonation and characterization of tissue sections with spatial transcriptomics"
   details: bioRxiv
   pmid:
   pmcid:
