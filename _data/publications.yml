@@ -77,6 +77,37 @@
   preprint: true
   scvitools: false 
 
+- authors: "immgenT Project"
+  title: "immgenT: A Comprehensive Reference of Convergent T-cell States in the Mouse"
+  details: bioRxiv
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.48550/arXiv.2604.09076
+  file: 
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
+
+- authors: "E. Weinberger, W. Qiu, W. Tian, Q. Zeng, C. Ergen, O. Kronfeld, M. Kim, N. Yosef, JR. Ecker, S. Lee" 
+  title: "Probabilistic modelling of single-cell bisulfite sequencing data with MethylVI"
+  details: Nat Mach Intell
+  year: 2026
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s42256-026-01225-9
+  file: 
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: true
+  scvitools: false
+  
 - authors: "C. Ergen, N. Yosef"
   title: "ResolVI - addressing noise and bias in spatial transcriptomics"
   details: Nature Methods (accepted)
@@ -156,7 +187,7 @@
   contentshare:
   preprint: true
   scvitools: true
-  
+
   
 # 2025
 - authors: "SB. Wells\\*, DB. Rainbow\\*, M. Mark\\*, PA. Szabo\\*, C. Ergen\\*, A. Maceiras\\*, DP. Caron, E. Rahmani, E. Benuck, V. Pour Amiri, D. Chen, A. Wagner, SK. Howlett, LB. Jarvis, KL. Ellis, M. Kubota, R. Matsumoto, K. Mahbubani, K. Saeb-Parsy, C. Dominguez-Conde, L. Richardson, C. Xu, S. Li, L. Mamanova, L. Bolt, A. Wilk, SA. Teichmann†, DL. Farber†, PA. Sims†, JL. Jones†, N. Yosef†"
