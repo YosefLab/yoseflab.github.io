@@ -120,8 +120,8 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: true
-  scvitools: false
+  preprint: false
+  scvitools: true
   
 - authors: "C. Ergen, N. Yosef"
   title: "ResolVI - addressing noise and bias in spatial transcriptomics"
@@ -136,7 +136,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2025.01.20.634005v1
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true
 
 - authors: "K. An\\*, S. Prillo\\*, W. Wu, I. Kristanto, MG. Jones, YS. Song† , N. Yosef†"
@@ -152,7 +152,7 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: false
 
 - authors: "F. Ingelfinger, N. Levy, C. Ergen, A. Bakulin, A. Becker, P. Boyeau, M. Kim, D. Ditz, J. Dirks, J. Maaskola, T. Wertheimer, R. Zeiser, CC. Widmer, I. Amit†, N. Yosef†"
@@ -168,7 +168,7 @@
   biorxiv: https://www.biorxiv.org/content/10.1101/2025.01.20.634005v1
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true
 
 - authors: "D. Yang\\*, L. Huang\\*, J. Yang\\*, O. Etxezarreta-Arrastoa\\*, ..., N. Yosef†, AC. Anderson†, Vk. Kuchroo†"
@@ -184,7 +184,7 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true
 
 - authors: "A. Hizmi, A. Bakulin, S. Bagon, N. Yosef"
@@ -200,7 +200,7 @@
   biorxiv: 
   arxiv:
   contentshare:
-  preprint: true
+  preprint: false
   scvitools: true
 
   
