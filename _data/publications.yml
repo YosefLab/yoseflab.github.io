@@ -236,7 +236,7 @@
   preprint: false
   scvitools: true  
 
-- authors: "C. Ergen, VV. Pour Amiri, M. Kim, A. Streets, A. Gayoso, N. Yosef"
+- authors: "C. Ergen, VV. Pour Amiri, M. Kim, O. Kronfeld, A. Streets, A. Gayoso, N. Yosef"
   title: "Scvi-hub: an actionable repository for model-driven single cell analysis"
   details: Nature Methods 
   year: 2025

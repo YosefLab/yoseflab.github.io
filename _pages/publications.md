@@ -4,14 +4,15 @@ permalink: /publications/
 title: publications
 description:
 nav: true
-years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006]
 ---
 
 [\* /  †] indicates co- [first/ senior] authorship
 
+{% assign years = site.data.publications | where_exp: "p", "p.preprint != true" | map: "year" | uniq | sort | reverse %}
+
 <p>
   <b><a href="#preprints">Preprints</a></b>,
-  {% for y in page.years %}
+  {% for y in years %}
   <b><a href="#{{y}}">{{y}}</a></b>,
   {% endfor %}
 </p>
@@ -47,7 +48,7 @@ years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 
 {% endfor %}
 
 
-{% for y in page.years %}
+{% for y in years %}
 
 <br>
 <h3 id="{{y}}" class="year">{{y}}</h3><hr>
