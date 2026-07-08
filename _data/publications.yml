@@ -32,21 +32,6 @@
   preprint: true
   scvitools: false
 
-- authors: "MG. Jones, D. Sun, KH. Min, WN. Colgan, L. Tian, JA. Weir, VZ. Chen, W. Koblan, KE. Yost, N. Mathey-Andrews, A.J.C. Russell, RR. Stickels, KS. Balderrama, WM. Rideout III, HY. Chang, T. Jacks, F. Chen†, JS. Weissman†, N. Yosef† , Dian Yang†"
-  title: "Spatiotemporal lineage tracing reveals the dynamic spatial architecture of tumor growth and metastasis"
-  details: bioRxiv
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1101/2024.10.21.619529
-  file:
-  filetype:
-  biorxiv: https://www.biorxiv.org/content/10.1101/2024.10.21.619529
-  arxiv:
-  contentshare:
-  preprint: true
-  scvitools: false 
-
 - authors: "N. Levy, F. Ingelfinger, A. Bakulin, G. Cinnirella, P. Boyeau, B. Nadler, C. Ergen, N. Yosef"
   title: "scVIVA: a probabilistic framework for representation of cells and their environments in spatial transcriptomics"
   details: bioRxiv
@@ -106,22 +91,6 @@
   contentshare:
   preprint: true
   scvitools: false
-
-- authors: "E. Weinberger, W. Qiu, W. Tian, Q. Zeng, C. Ergen, O. Kronfeld, M. Kim, N. Yosef, JR. Ecker, S. Lee" 
-  title: "Probabilistic modelling of single-cell bisulfite sequencing data with MethylVI"
-  details: Nat Mach Intell
-  year: 2026
-  pmid:
-  pmcid:
-  openaccess:
-  doi: 10.1038/s42256-026-01225-9
-  file: 
-  filetype:
-  biorxiv: 
-  arxiv:
-  contentshare:
-  preprint: false
-  scvitools: true
   
 - authors: "C. Ergen, N. Yosef"
   title: "ResolVI - addressing noise and bias in spatial transcriptomics"
@@ -155,6 +124,21 @@
   preprint: false
   scvitools: false
 
+- authors: "MG. Jones, D. Sun, KH. Min, WN. Colgan, L. Tian, JA. Weir, VZ. Chen, W. Koblan, KE. Yost, N. Mathey-Andrews, A.J.C. Russell, RR. Stickels, KS. Balderrama, WM. Rideout III, HY. Chang, T. Jacks, F. Chen†, JS. Weissman†, N. Yosef† , Dian Yang†"
+  title: "Spatiotemporal lineage tracing reveals the dynamic spatial architecture of tumor growth and metastasis"
+  details: Nature Genetics (Accepted)
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1101/2024.10.21.619529
+  file:
+  filetype:
+  biorxiv: https://www.biorxiv.org/content/10.1101/2024.10.21.619529
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: false 
+  
 - authors: "F. Ingelfinger, N. Levy, C. Ergen, A. Bakulin, A. Becker, P. Boyeau, M. Kim, D. Ditz, J. Dirks, J. Maaskola, T. Wertheimer, R. Zeiser, CC. Widmer, I. Amit†, N. Yosef†"
   title: "CytoVI: Deep generative modeling of antibody-based single cell technologies"
   details: Nature Methods (accepted)
@@ -203,6 +187,21 @@
   preprint: false
   scvitools: true
 
+- authors: "E. Weinberger, W. Qiu, W. Tian, Q. Zeng, C. Ergen, O. Kronfeld, M. Kim, N. Yosef, JR. Ecker, S. Lee" 
+  title: "Probabilistic modelling of single-cell bisulfite sequencing data with MethylVI"
+  details: Nat Mach Intell
+  year: 2026
+  pmid:
+  pmcid:
+  openaccess:
+  doi: 10.1038/s42256-026-01225-9
+  file: 
+  filetype:
+  biorxiv: 
+  arxiv:
+  contentshare:
+  preprint: false
+  scvitools: true
   
 # 2025
 - authors: "SB. Wells\\*, DB. Rainbow\\*, M. Mark\\*, PA. Szabo\\*, C. Ergen\\*, A. Maceiras\\*, DP. Caron, E. Rahmani, E. Benuck, V. Pour Amiri, D. Chen, A. Wagner, SK. Howlett, LB. Jarvis, KL. Ellis, M. Kubota, R. Matsumoto, K. Mahbubani, K. Saeb-Parsy, C. Dominguez-Conde, L. Richardson, C. Xu, S. Li, L. Mamanova, L. Bolt, A. Wilk, SA. Teichmann†, DL. Farber†, PA. Sims†, JL. Jones†, N. Yosef†"
