@@ -61,37 +61,7 @@
   contentshare:
   preprint: true
   scvitools: false 
-
-#- authors: A. Waisman, J. Leite, Z. Ergün, ..., I. Amit, N. Yosef, C. Reinhardt"
- # title: "Aging-Associated Microbiota Drives Treg Dysfunction via TNF Signaling"
-  #details: bioRxiv 
-  #pmid:
-  #pmcid:
-  #openaccess:
-  #doi: 110.21203/rs.3.rs-7064776/v1
-  #file:
-  #filetype:
-  #biorxiv: 
-  #arxiv:
-  #contentshare:
-  #preprint: true
-  #scvitools: false 
-
-#- authors: "immgenT Project"
- # title: "immgenT: A Comprehensive Reference of Convergent T-cell States in the Mouse"
-  #details: bioRxiv
-  #pmid:
-  #pmcid:
-  #openaccess:
-  #doi: 10.48550/arXiv.2604.09076
-  #file: 
-  #filetype:
-  #biorxiv: 
-  #arxiv:
-  #contentshare:
-  #preprint: true
-  #scvitools: false
-
+  
 - authors: "S Prillo, D Rimini, P Olivares-Chauvet, YS Song†, N Yosef†"
   title: "NovaClone: A Network-Based Algorithm for Clonal and Subclonal Genotyping of Barcoded Transgene Integrations"
   details: bioRxiv
@@ -106,9 +76,6 @@
   contentshare:
   preprint: true
   scvitools: false
-
-  
-
 
 #2026  
 - authors: "C. Ergen, N. Yosef"
@@ -224,7 +191,7 @@
   scvitools: true
 
 - authors: "EJY Kim, DA Aylard, Z Steier, D Ortiz, J Choi, S Chen, A Streets, N Yosef, E Robey" 
-  title: "Preselection CD4+CD8+ thymocytes modulate TCR responsiveness following TCRβ selection"
+  title: "Preselection CD4+CD8+ thymocytes modulate TCR responsiveness following TCRb selection"
   details: The Journal of Immunology
   year: 2026
   pmid:
